@@ -1,0 +1,415 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "test_id": "vol_09_t5_rd",
+  "module": "reading",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "guest_fallback_message": "Detailed explanations are available for enrolled Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation_html": "<p><strong>Answer:</strong> FALSE</p><p><strong>Keyword trong c?u h?i:</strong> surviving documents, ancient world</p><p><strong>Keyword/paraphrase trong b?i:</strong> no drawings or descriptions discovered</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "no drawings or descriptions discovered"
+        }
+      ]
+    },
+    "q2": {
+      "explanation_html": "<p><strong>Answer:</strong> TRUE</p><p><strong>Keyword trong c?u h?i:</strong> early form, just hand</p><p><strong>Keyword/paraphrase trong b?i:</strong> jeu de paume, game of hand/palm; bare hands</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "jeu de paume, game of hand/palm; bare hands"
+        }
+      ]
+    },
+    "q3": {
+      "explanation_html": "<p><strong>Answer:</strong> NOT GIVEN</p><p><strong>Keyword trong c?u h?i:</strong> table tennis developed same time</p><p><strong>Keyword/paraphrase trong b?i:</strong> paddle similar to table tennis today, không nói lịch sử table tennis</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "paddle similar to table tennis today, không nói lịch sử table tennis"
+        }
+      ]
+    },
+    "q4": {
+      "explanation_html": "<p><strong>Answer:</strong> FALSE</p><p><strong>Keyword trong c?u h?i:</strong> all sections of French society</p><p><strong>Keyword/paraphrase trong b?i:</strong> exclusive to upper classes</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "exclusive to upper classes"
+        }
+      ]
+    },
+    "q5": {
+      "explanation_html": "<p><strong>Answer:</strong> FALSE</p><p><strong>Keyword trong c?u h?i:</strong> indoor courts larger</p><p><strong>Keyword/paraphrase trong b?i:</strong> outdoor courtyards modified into indoor courts</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "outdoor courtyards modified into indoor courts"
+        }
+      ]
+    },
+    "q6": {
+      "explanation_html": "<p><strong>Answer:</strong> TRUE</p><p><strong>Keyword trong c?u h?i:</strong> attempts to prevent aristocrats</p><p><strong>Keyword/paraphrase trong b?i:</strong> pope and French king tried to ban it</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "pope and French king tried to ban it"
+        }
+      ]
+    },
+    "q7": {
+      "explanation_html": "<p><strong>Answer:</strong> surfaces</p><p><strong>Keyword trong c?u h?i:</strong> real tennis court</p><p><strong>Keyword/paraphrase trong b?i:</strong> ball can be bounced off any surfaces</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "ball can be bounced off any surfaces"
+        }
+      ]
+    },
+    "q8": {
+      "explanation_html": "<p><strong>Answer:</strong> net</p><p><strong>Keyword trong c?u h?i:</strong> lower in centre</p><p><strong>Keyword/paraphrase trong b?i:</strong> net high at ends, drops in middle</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "net high at ends, drops in middle"
+        }
+      ]
+    },
+    "q9": {
+      "explanation_html": "<p><strong>Answer:</strong> rubber</p><p><strong>Keyword trong c?u h?i:</strong> balls in 1850s</p><p><strong>Keyword/paraphrase trong b?i:</strong> rubber tennis balls</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "rubber tennis balls"
+        }
+      ]
+    },
+    "q10": {
+      "explanation_html": "<p><strong>Answer:</strong> rules</p><p><strong>Keyword trong c?u h?i:</strong> Wingfield published</p><p><strong>Keyword/paraphrase trong b?i:</strong> devising rules, which he published</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "devising rules, which he published"
+        }
+      ]
+    },
+    "q11": {
+      "explanation_html": "<p><strong>Answer:</strong> equipment</p><p><strong>Keyword trong c?u h?i:</strong> complete sets</p><p><strong>Keyword/paraphrase trong b?i:</strong> standardised equipment sold in sets</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "standardised equipment sold in sets"
+        }
+      ]
+    },
+    "q12": {
+      "explanation_html": "<p><strong>Answer:</strong> shape</p><p><strong>Keyword trong c?u h?i:</strong> unusual court</p><p><strong>Keyword/paraphrase trong b?i:</strong> court had shape of an hourglass</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "court had shape of an hourglass"
+        }
+      ]
+    },
+    "q13": {
+      "explanation_html": "<p><strong>Answer:</strong> tournament</p><p><strong>Keyword trong c?u h?i:</strong> 1877 Wimbledon</p><p><strong>Keyword/paraphrase trong b?i:</strong> major tennis tournament</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "major tennis tournament"
+        }
+      ]
+    },
+    "q14": {
+      "explanation_html": "<p><strong>Answer:</strong> v</p><p><strong>Keyword trong c?u h?i:</strong> academic culture</p><p><strong>Keyword/paraphrase trong b?i:</strong> traditional Aristotle replaced by new philosophy</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "traditional Aristotle replaced by new philosophy"
+        }
+      ]
+    },
+    "q15": {
+      "explanation_html": "<p><strong>Answer:</strong> iii</p><p><strong>Keyword trong c?u h?i:</strong> academic achievements</p><p><strong>Keyword/paraphrase trong b?i:</strong> admitted Cambridge; graduated; lecturer roles</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "admitted Cambridge; graduated; lecturer roles"
+        }
+      ]
+    },
+    "q16": {
+      "explanation_html": "<p><strong>Answer:</strong> ix</p><p><strong>Keyword trong c?u h?i:</strong> origin of botanical interest</p><p><strong>Keyword/paraphrase trong b?i:</strong> illness; long walks; local flora</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "illness; long walks; local flora"
+        }
+      ]
+    },
+    "q17": {
+      "explanation_html": "<p><strong>Answer:</strong> iv</p><p><strong>Keyword trong c?u h?i:</strong> informal tuition</p><p><strong>Keyword/paraphrase trong b?i:</strong> students taught unofficially by Ray</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "students taught unofficially by Ray"
+        }
+      ]
+    },
+    "q18": {
+      "explanation_html": "<p><strong>Answer:</strong> i</p><p><strong>Keyword trong c?u h?i:</strong> working methods</p><p><strong>Keyword/paraphrase trong b?i:</strong> compare plants with pictures/descriptions; similarities</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "compare plants with pictures/descriptions; similarities"
+        }
+      ]
+    },
+    "q19": {
+      "explanation_html": "<p><strong>Answer:</strong> viii</p><p><strong>Keyword trong c?u h?i:</strong> content of first book</p><p><strong>Keyword/paraphrase trong b?i:</strong> names, where plants grew, how common</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "names, where plants grew, how common"
+        }
+      ]
+    },
+    "q20": {
+      "explanation_html": "<p><strong>Answer:</strong> vii</p><p><strong>Keyword trong c?u h?i:</strong> bold new project</p><p><strong>Keyword/paraphrase trong b?i:</strong> classify living things by shared characteristics</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "classify living things by shared characteristics"
+        }
+      ]
+    },
+    "q21": {
+      "explanation_html": "<p><strong>Answer:</strong> philosophy</p><p><strong>Keyword trong c?u h?i:</strong> new approach to knowledge</p><p><strong>Keyword/paraphrase trong b?i:</strong> new philosophy based on experiment and observation</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "new philosophy based on experiment and observation"
+        }
+      ]
+    },
+    "q22": {
+      "explanation_html": "<p><strong>Answer:</strong> science</p><p><strong>Keyword trong c?u h?i:</strong> modern field</p><p><strong>Keyword/paraphrase trong b?i:</strong> what we now call science</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "what we now call science"
+        }
+      ]
+    },
+    "q23": {
+      "explanation_html": "<p><strong>Answer:</strong> illness</p><p><strong>Keyword trong c?u h?i:</strong> interest aroused after</p><p><strong>Keyword/paraphrase trong b?i:</strong> suffered an illness</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "suffered an illness"
+        }
+      ]
+    },
+    "q24": {
+      "explanation_html": "<p><strong>Answer:</strong> students</p><p><strong>Keyword trong c?u h?i:</strong> taught himself and others</p><p><strong>Keyword/paraphrase trong b?i:</strong> first-year students were able to identify plants</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "first-year students were able to identify plants"
+        }
+      ]
+    },
+    "q25": {
+      "explanation_html": "<p><strong>Answer:</strong> C, D</p><p><strong>Keyword trong c?u h?i:</strong> early life</p><p><strong>Keyword/paraphrase trong b?i:</strong> helped by Cambridge graduate; parents valued locally</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "helped by Cambridge graduate; parents valued locally"
+        }
+      ]
+    },
+    "q26": {
+      "explanation_html": "<p><strong>Answer:</strong> C, D</p><p><strong>Keyword trong c?u h?i:</strong> early life</p><p><strong>Keyword/paraphrase trong b?i:</strong> helped by Cambridge graduate; parents valued locally</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "helped by Cambridge graduate; parents valued locally"
+        }
+      ]
+    },
+    "q27": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> first telegraph submitted to Admiralty</p><p><strong>Keyword/paraphrase trong b?i:</strong> Wedgwood offered system in 1806</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "Wedgwood offered system in 1806"
+        }
+      ]
+    },
+    "q28": {
+      "explanation_html": "<p><strong>Answer:</strong> H</p><p><strong>Keyword trong c?u h?i:</strong> official recognition</p><p><strong>Keyword/paraphrase trong b?i:</strong> knighted in 1870</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "knighted in 1870"
+        }
+      ]
+    },
+    "q29": {
+      "explanation_html": "<p><strong>Answer:</strong> E</p><p><strong>Keyword trong c?u h?i:</strong> first electric telegraph patented</p><p><strong>Keyword/paraphrase trong b?i:</strong> Wheatstone-Cooke patented in 1837</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "Wheatstone-Cooke patented in 1837"
+        }
+      ]
+    },
+    "q30": {
+      "explanation_html": "<p><strong>Answer:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> began experimenting with electricity</p><p><strong>Keyword/paraphrase trong b?i:</strong> de Luc encouraged Ronalds in 1814</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "de Luc encouraged Ronalds in 1814"
+        }
+      ]
+    },
+    "q31": {
+      "explanation_html": "<p><strong>Answer:</strong> D</p><p><strong>Keyword trong c?u h?i:</strong> informed public about uses</p><p><strong>Keyword/paraphrase trong b?i:</strong> pamphlet published in 1823</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "pamphlet published in 1823"
+        }
+      ]
+    },
+    "q32": {
+      "explanation_html": "<p><strong>Answer:</strong> letters and numbers</p><p><strong>Keyword trong c?u h?i:</strong> marked on dials</p><p><strong>Keyword/paraphrase trong b?i:</strong> letters and numbers engraved</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "letters and numbers engraved"
+        }
+      ]
+    },
+    "q33": {
+      "explanation_html": "<p><strong>Answer:</strong> glass tubes</p><p><strong>Keyword trong c?u h?i:</strong> enclose wires</p><p><strong>Keyword/paraphrase trong b?i:</strong> wire encased in glass tubes</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "wire encased in glass tubes"
+        }
+      ]
+    },
+    "q34": {
+      "explanation_html": "<p><strong>Answer:</strong> some 800 km</p><p><strong>Keyword trong c?u h?i:</strong> transmit information</p><p><strong>Keyword/paraphrase trong b?i:</strong> capable of carrying messages some 800 km</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "capable of carrying messages some 800 km"
+        }
+      ]
+    },
+    "q35": {
+      "explanation_html": "<p><strong>Answer:</strong> frictional electricity</p><p><strong>Keyword trong c?u h?i:</strong> Wedgwood system used</p><p><strong>Keyword/paraphrase trong b?i:</strong> telegraph based on frictional electricity</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "telegraph based on frictional electricity"
+        }
+      ]
+    },
+    "q36": {
+      "explanation_html": "<p><strong>Answer:</strong> G</p><p><strong>Keyword trong c?u h?i:</strong> commercial application</p><p><strong>Keyword/paraphrase trong b?i:</strong> railway companies; Wheatstone-Cooke</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "railway companies; Wheatstone-Cooke"
+        }
+      ]
+    },
+    "q37": {
+      "explanation_html": "<p><strong>Answer:</strong> E</p><p><strong>Keyword trong c?u h?i:</strong> rejection</p><p><strong>Keyword/paraphrase trong b?i:</strong> Barrow wrote no other telegraph would be adopted</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "Barrow wrote no other telegraph would be adopted"
+        }
+      ]
+    },
+    "q38": {
+      "explanation_html": "<p><strong>Answer:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> drawback of Ronalds invention</p><p><strong>Keyword/paraphrase trong b?i:</strong> system was slow; dials staying in step</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "system was slow; dials staying in step"
+        }
+      ]
+    },
+    "q39": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> positive influence</p><p><strong>Keyword/paraphrase trong b?i:</strong> de Luc encouraged Ronalds</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "de Luc encouraged Ronalds"
+        }
+      ]
+    },
+    "q40": {
+      "explanation_html": "<p><strong>Answer:</strong> F</p><p><strong>Keyword trong c?u h?i:</strong> procedure adopted over another scientist</p><p><strong>Keyword/paraphrase trong b?i:</strong> Ronalds&#x27;s priority confirmed; system in use for decades</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "Ronalds's priority confirmed; system in use for decades"
+        }
+      ]
+    }
+  }
+}

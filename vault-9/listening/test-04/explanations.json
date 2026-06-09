@@ -1,0 +1,525 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "test_id": "vol_09_t4_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "guest_fallback_message": "Detailed explanations are available for enrolled Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation_html": "<p><strong>??p ?n:</strong> July 18th</p><p><strong>Keyword trong c?u h?i:</strong> start date</p><p><strong>Th?ng tin trong b?i nghe:</strong> July 16th -> corrected to 18th</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "July 16th -> corrected to 18th"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q2": {
+      "explanation_html": "<p><strong>??p ?n:</strong> Q1632</p><p><strong>Keyword trong c?u h?i:</strong> course code</p><p><strong>Th?ng tin trong b?i nghe:</strong> code is Q1632</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "code is Q1632"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q3": {
+      "explanation_html": "<p><strong>??p ?n:</strong> photographs</p><p><strong>Keyword trong c?u h?i:</strong> previous course, editing</p><p><strong>Th?ng tin trong b?i nghe:</strong> it was on photographs</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "it was on photographs"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q4": {
+      "explanation_html": "<p><strong>??p ?n:</strong> Poskitt</p><p><strong>Keyword trong c?u h?i:</strong> name Nick</p><p><strong>Th?ng tin trong b?i nghe:</strong> P-O-S-K-I-T-T</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "P-O-S-K-I-T-T"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q5": {
+      "explanation_html": "<p><strong>??p ?n:</strong> Way</p><p><strong>Keyword trong c?u h?i:</strong> address Hawthorn(e)</p><p><strong>Th?ng tin trong b?i nghe:</strong> Hawthorne Way, not Road</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "Hawthorne Way, not Road"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q6": {
+      "explanation_html": "<p><strong>??p ?n:</strong> engineer</p><p><strong>Keyword trong c?u h?i:</strong> occupation</p><p><strong>Th?ng tin trong b?i nghe:</strong> Engineer</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "Engineer"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q7": {
+      "explanation_html": "<p><strong>??p ?n:</strong> fish</p><p><strong>Keyword trong c?u h?i:</strong> dietary requests</p><p><strong>Th?ng tin trong b?i nghe:</strong> don't like any sort of fish</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "don't like any sort of fish"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q8": {
+      "explanation_html": "<p><strong>??p ?n:</strong> blues</p><p><strong>Keyword trong c?u h?i:</strong> one-to-one lesson</p><p><strong>Th?ng tin trong b?i nghe:</strong> jazz? no; blues? yes</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "jazz? no; blues? yes"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q9": {
+      "explanation_html": "<p><strong>??p ?n:</strong> magazine</p><p><strong>Keyword trong c?u h?i:</strong> first heard about us</p><p><strong>Th?ng tin trong b?i nghe:</strong> originally from a magazine</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "originally from a magazine"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q10": {
+      "explanation_html": "<p><strong>??p ?n:</strong> parking</p><p><strong>Keyword trong c?u h?i:</strong> additional request</p><p><strong>Th?ng tin trong b?i nghe:</strong> will there be parking available</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "will there be parking available"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q11": {
+      "explanation_html": "<p><strong>??p ?n:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> Bridge Street</p><p><strong>Th?ng tin trong b?i nghe:</strong> children's pictures displayed</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "children's pictures displayed"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q12": {
+      "explanation_html": "<p><strong>??p ?n:</strong> D</p><p><strong>Keyword trong c?u h?i:</strong> King's Park</p><p><strong>Th?ng tin trong b?i nghe:</strong> climbing wall / bouncy castle for kids</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "climbing wall / bouncy castle for kids"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q13": {
+      "explanation_html": "<p><strong>??p ?n:</strong> F</p><p><strong>Keyword trong c?u h?i:</strong> Oakvale School</p><p><strong>Th?ng tin trong b?i nghe:</strong> over 18, contest, prepare dish</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "over 18, contest, prepare dish"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q14": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> Green Road</p><p><strong>Th?ng tin trong b?i nghe:</strong> local groups performing and singing</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "local groups performing and singing"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q15": {
+      "explanation_html": "<p><strong>??p ?n:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> Sun Lane</p><p><strong>Th?ng tin trong b?i nghe:</strong> experts giving tips growing fruit/vegetables</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "experts giving tips growing fruit/vegetables"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q16": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> tickets</p><p><strong>Th?ng tin trong b?i nghe:</strong> cost more on the day</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "cost more on the day"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q17": {
+      "explanation_html": "<p><strong>??p ?n:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> last night</p><p><strong>Th?ng tin trong b?i nghe:</strong> holding a dance</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "holding a dance"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q18": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> international visitors</p><p><strong>Th?ng tin trong b?i nghe:</strong> day trips to points of interest</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "day trips to points of interest"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q19": {
+      "explanation_html": "<p><strong>??p ?n:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> car park A</p><p><strong>Th?ng tin trong b?i nghe:</strong> twice the size of B</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "twice the size of B"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q20": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> programme this year</p><p><strong>Th?ng tin trong b?i nghe:</strong> website, fewer hard copies</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "website, fewer hard copies"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q21": {
+      "explanation_html": "<p><strong>??p ?n:</strong> professional learning</p><p><strong>Keyword trong c?u h?i:</strong> recent book called</p><p><strong>Th?ng tin trong b?i nghe:</strong> title is Professional Learning</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "title is Professional Learning"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table"
+      ]
+    },
+    "q22": {
+      "explanation_html": "<p><strong>??p ?n:</strong> team</p><p><strong>Keyword trong c?u h?i:</strong> researching as part of</p><p><strong>Th?ng tin trong b?i nghe:</strong> researching in a team</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "researching in a team"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table"
+      ]
+    },
+    "q23": {
+      "explanation_html": "<p><strong>??p ?n:</strong> presenting results</p><p><strong>Keyword trong c?u h?i:</strong> dissemination of findings</p><p><strong>Th?ng tin trong b?i nghe:</strong> presenting results</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "presenting results"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table"
+      ]
+    },
+    "q24": {
+      "explanation_html": "<p><strong>??p ?n:</strong> behaviour</p><p><strong>Keyword trong c?u h?i:</strong> aspects of lesson</p><p><strong>Th?ng tin trong b?i nghe:</strong> pupil behaviour</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "pupil behaviour"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table"
+      ]
+    },
+    "q25": {
+      "explanation_html": "<p><strong>??p ?n:</strong> diary</p><p><strong>Keyword trong c?u h?i:</strong> writing a</p><p><strong>Th?ng tin trong b?i nghe:</strong> keep a diary</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "keep a diary"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table"
+      ]
+    },
+    "q26": {
+      "explanation_html": "<p><strong>??p ?n:</strong> video recording</p><p><strong>Keyword trong c?u h?i:</strong> observational technique</p><p><strong>Th?ng tin trong b?i nghe:</strong> video recording</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "video recording"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table"
+      ]
+    },
+    "q27": {
+      "explanation_html": "<p><strong>??p ?n:</strong> simulation</p><p><strong>Keyword trong c?u h?i:</strong> fellow students in classroom</p><p><strong>Th?ng tin trong b?i nghe:</strong> classroom simulation</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "classroom simulation"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table"
+      ]
+    },
+    "q28": {
+      "explanation_html": "<p><strong>??p ?n:</strong> test results</p><p><strong>Keyword trong c?u h?i:</strong> analysing</p><p><strong>Th?ng tin trong b?i nghe:</strong> scrutinising test results</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "scrutinising test results"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table"
+      ]
+    },
+    "q29": {
+      "explanation_html": "<p><strong>??p ?n:</strong> internet</p><p><strong>Keyword trong c?u h?i:</strong> find respondents</p><p><strong>Th?ng tin trong b?i nghe:</strong> use the Internet</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "use the Internet"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table"
+      ]
+    },
+    "q30": {
+      "explanation_html": "<p><strong>??p ?n:</strong> interviews</p><p><strong>Keyword trong c?u h?i:</strong> using</p><p><strong>Th?ng tin trong b?i nghe:</strong> anything on interviews</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "anything on interviews"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table"
+      ]
+    },
+    "q31": {
+      "explanation_html": "<p><strong>??p ?n:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> impact Prensky</p><p><strong>Th?ng tin trong b?i nghe:</strong> processing information differently; brains may have changed</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "processing information differently; brains may have changed"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q32": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> digital immigrants access computers</p><p><strong>Th?ng tin trong b?i nghe:</strong> not as effective as natives</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "not as effective as natives"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q33": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> digital accent example</p><p><strong>Th?ng tin trong b?i nghe:</strong> phone book/encyclopaedia/manual first</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "phone book/encyclopaedia/manual first"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q34": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> current methods don't work</p><p><strong>Th?ng tin trong b?i nghe:</strong> James agrees educators no longer thriving</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "James agrees educators no longer thriving"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q35": {
+      "explanation_html": "<p><strong>??p ?n:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> students don't understand computers</p><p><strong>Th?ng tin trong b?i nghe:</strong> Vander: not necessarily proficient</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "Vander: not necessarily proficient"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q36": {
+      "explanation_html": "<p><strong>??p ?n:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> technology doesn't interest all</p><p><strong>Th?ng tin trong b?i nghe:</strong> Allen: some don't find digital medium appealing</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "Allen: some don't find digital medium appealing"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q37": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> traditional way</p><p><strong>Th?ng tin trong b?i nghe:</strong> James: still learn with past teaching methods</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "James: still learn with past teaching methods"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q38": {
+      "explanation_html": "<p><strong>??p ?n:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> research skills</p><p><strong>Th?ng tin trong b?i nghe:</strong> Allen: complex information searches</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "Allen: complex information searches"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q39": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> games to teach</p><p><strong>Th?ng tin trong b?i nghe:</strong> James: computer games in classroom</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "James: computer games in classroom"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q40": {
+      "explanation_html": "<p><strong>??p ?n:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> computers can't replace educators</p><p><strong>Th?ng tin trong b?i nghe:</strong> Vander: no computer programme comes close</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "Vander: no computer programme comes close"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    }
+  }
+}

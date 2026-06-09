@@ -1,0 +1,589 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "test_id": "vol_09_t6_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "guest_fallback_message": "Detailed explanations are available for enrolled Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation_html": "<p><strong>Đáp án: Quigley</strong></p><p>Đề cần surname của khách hàng: Janet ___. Người phụ nữ nói rõ: \"It's Janet Quigley. That's Q-U-I-G-L-E-Y.\" Vì vậy điền <strong>Quigley</strong>.</p><p>Khi nghe spelling, nên ghi từng chữ ngay; tên riêng cần viết hoa chữ đầu nhưng IELTS thường không phạt nếu viết thường.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "It's Janet Quigley. That's Q-U-I-G-L-E-Y."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q2": {
+      "explanation_html": "<p><strong>Đáp án: return</strong></p><p>Đề: Wellington to Christchurch - four ___ tickets. Transcript: \"Not one way, I mean, but return.\" Vậy loại vé là <strong>return</strong>.</p><p>Bẫy: \"four tickets\" là số lượng vé, còn chỗ trống hỏi ticket type. \"one way\" bị sửa lại, không được chọn.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "Not one way, I mean, but return."
+        },
+        {
+          "audio_ref": "l1",
+          "text": "four tickets"
+        },
+        {
+          "audio_ref": "l1",
+          "text": "one way"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q3": {
+      "explanation_html": "<p><strong>Đáp án: 11.45</strong></p><p>Đề hỏi giờ departing. Transcript: \"We'd be leaving at 11.45 in the morning, arriving into Christchurch at 12.30.\" Departing = leaving, nên đáp án là <strong>11.45</strong>.</p><p>Bẫy: <strong>12.30</strong> là giờ arrival, không phải departure. Ngày 10-15 November là ngày bay, không phải giờ.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "We'd be leaving at 11.45 in the morning, arriving into Christchurch at 12.30."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q4": {
+      "explanation_html": "<p><strong>Đáp án: error</strong></p><p>Đề: website keeps giving customer ___ messages. Transcript: \"I've been getting error messages telling me to call you directly.\" Cụm điền đúng là <strong>error messages</strong>, nên blank là <strong>error</strong>.</p><p>Không điền \"frustrated\" vì đó là cảm xúc của khách hàng, không phải loại message.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "I've been getting error messages telling me to call you directly."
+        },
+        {
+          "audio_ref": "l1",
+          "text": "frustrated"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q5": {
+      "explanation_html": "<p><strong>Đáp án: two</strong></p><p>Đề hỏi policy cho phép không quá bao nhiêu child fares per adult. Transcript: \"allow a maximum of two children to travel on childfares with just the one adult accompanying them.\" <strong>maximum of two</strong> = no more than two.</p><p>Bẫy: khách có ba children, nhưng policy chỉ cho <strong>two</strong> child fares.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "allow a maximum of two children to travel on childfares with just the one adult accompanying them."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q6": {
+      "explanation_html": "<p><strong>Đáp án: 12</strong></p><p>Đề: none of her children are ___ years old or older. Transcript: \"an adult fare is for someone over the age of 12. My children are only 11, 8 and 5.\" Ý khách là không đứa nào tới tuổi người lớn; đáp án theo note là <strong>12</strong>.</p><p>Các số 11, 8, 5 là tuổi từng con, không phải mốc tuổi adult fare.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "an adult fare is for someone over the age of 12. My children are only 11, 8 and 5."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q7": {
+      "explanation_html": "<p><strong>Đáp án: food</strong></p><p>Đề: child passengers require less ___. Khách nói: \"they actually eat less than an adult, so they wouldn't consume as much food on the plane.\" <strong>consume as much food</strong> = require less food.</p><p>Bẫy: airline nói có games and coloured pencils cho trẻ, nhưng đó là chăm sóc trẻ, không phải lý do complaint trong blank này.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "they actually eat less than an adult, so they wouldn't consume as much food on the plane."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q8": {
+      "explanation_html": "<p><strong>Đáp án: school</strong></p><p>Đề: rule is unfair for large families and ___ groups. Transcript: \"families with lots of children. And what about school groups?\" Vì \"large families\" đã có trong đề, phần còn lại là <strong>school</strong>.</p><p>Không điền \"families\" vì đề đã cho sẵn; cần nghe noun đứng trước \"groups\".</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "families with lots of children. And what about school groups?"
+        },
+        {
+          "audio_ref": "l1",
+          "text": "large families"
+        },
+        {
+          "audio_ref": "l1",
+          "text": "families"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q9": {
+      "explanation_html": "<p><strong>Đáp án: manager</strong></p><p>Đề hỏi letter gửi tới ai. Khách đoán \"customer services officer\"; nhân viên sửa: \"Just address it to the manager. Then it will reach the right person.\" Vì vậy đáp án là <strong>manager</strong>.</p><p>Bẫy rất rõ: customer services officer xuất hiện trong câu hỏi của khách nhưng bị sửa.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "customer services officer"
+        },
+        {
+          "audio_ref": "l1",
+          "text": "Just address it to the manager. Then it will reach the right person."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q10": {
+      "explanation_html": "<p><strong>Đáp án: GBK8422</strong></p><p>Đề cần reference number. Transcript: \"It's GBK8422.\" Cần viết liền chữ và số: <strong>GBK8422</strong>.</p><p>Nên ghi chữ cái in hoa để tránh nhầm B/G/K với các từ thường.</p><h4>Section 2 - Linwood Apartment Complex</h4>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "It's GBK8422."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q11": {
+      "explanation_html": "<p><strong>Đáp án: A - 1 year ago</strong></p><p>Đề hỏi first apartment complex completed khi nào. Transcript có nhiều mốc: concept được discuss five years ago; work started three years later; \"one year ago the complex was finished and received its first residents.\" Completed = finished, nên chọn <strong>A</strong>.</p><p>B và C là mốc quá trình, không phải thời điểm hoàn thành.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "one year ago the complex was finished and received its first residents."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q12": {
+      "explanation_html": "<p><strong>Đáp án: A - resolving problems between residents</strong></p><p>Manager nói rent là trách nhiệm nhưng \"I can't say I get a lot of satisfaction from that\"; maintenance ít phải làm vì building mới. Điều ông thích là \"working with the people... especially helping neighbours deal with any little misunderstandings.\" Đây là giải quyết vấn đề giữa cư dân, chọn <strong>A</strong>.</p><p>B và C đều được nhắc nhưng không phải điều ông enjoy most.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "I can't say I get a lot of satisfaction from that"
+        },
+        {
+          "audio_ref": "l2",
+          "text": "working with the people... especially helping neighbours deal with any little misunderstandings."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q13": {
+      "explanation_html": "<p><strong>Đáp án: B - only the interiors of apartments can be painted</strong></p><p>Transcript: \"You're welcome to redecorate inside your apartment... but you can't change the outward appearance of the building... includes altering the plantings...\" Nghĩa là chỉ được sửa/trang trí bên trong apartment.</p><p>A sai vì không được tự ý thay trees or flowers bên ngoài. C sai vì không chỉ hạn chế màu tường bên ngoài; toàn bộ outward appearance không được thay đổi.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "You're welcome to redecorate inside your apartment... but you can't change the outward appearance of the building... includes altering the plantings..."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q14": {
+      "explanation_html": "<p><strong>Đáp án: C - decorate the hall</strong></p><p>Welcome party: \"we'll be doing all the catering\" nên residents không cần mang food. \"badges already prepared\" nên không cần name tags. Manager nhờ \"help put some party lights in the hall\", tức trang trí hall, chọn <strong>C</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "we'll be doing all the catering"
+        },
+        {
+          "audio_ref": "l2",
+          "text": "badges already prepared"
+        },
+        {
+          "audio_ref": "l2",
+          "text": "help put some party lights in the hall"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q15": {
+      "explanation_html": "<p><strong>Đáp án: F - Shop</strong></p><p>Chỉ dẫn: từ car park đi lên arcade; \"you'll find the shop at the end on the right, opposite the internet cafe.\" Trên map, điểm cuối arcade bên phải, đối diện internet cafe là <strong>F</strong>.</p><p>Từ khóa định vị: <strong>end on the right</strong> và <strong>opposite the internet cafe</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "you'll find the shop at the end on the right, opposite the internet cafe."
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q16": {
+      "explanation_html": "<p><strong>Đáp án: C - Barbecue area</strong></p><p>Transcript: \"walk from the car park and through the arcade, then turn right and follow the path, you'll see it at the end.\" Vị trí cuối path sau khi rẽ phải từ arcade là <strong>C</strong>.</p><p>Không chọn điểm trong arcade; barbecue area nằm sau khi rẽ phải và đi tới cuối đường.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "walk from the car park and through the arcade, then turn right and follow the path, you'll see it at the end."
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q17": {
+      "explanation_html": "<p><strong>Đáp án: D - Childcare center</strong></p><p>Chỉ dẫn: từ car park đi north, \"before you get to the arcade, turn left and follow the path around until you reach the pond. You'll find it opposite the pond, on the west side of the blue block.\" Vị trí đối diện pond, west side của blue block là <strong>D</strong>.</p><p>Bẫy: \"before you get to the arcade\" nghĩa là rẽ trước khi vào arcade, không đi xuyên arcade như các câu shop/barbecue.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "before you get to the arcade, turn left and follow the path around until you reach the pond. You'll find it opposite the pond, on the west side of the blue block."
+        },
+        {
+          "audio_ref": "l2",
+          "text": "before you get to the arcade"
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q18": {
+      "explanation_html": "<p><strong>Đáp án: E - Laundry</strong></p><p>Transcript: \"walk up from the car park and into the arcade, look on your left and you'll see the gym, but keep going, and it's directly next door to that.\" Laundry nằm cạnh gym trong arcade, tương ứng <strong>E</strong>.</p><p>Gym chỉ là mốc, không phải đáp án.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "walk up from the car park and into the arcade, look on your left and you'll see the gym, but keep going, and it's directly next door to that."
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q19": {
+      "explanation_html": "<p><strong>Đáp án: H - Recreation room</strong></p><p>Chỉ dẫn: \"Head north from the car park and take the first turning on the right. Go straight on to the end and you'll find two buildings facing each other. You want the one to the north, opposite the cafe.\" Điểm phía north trong cặp hai building đối diện nhau là <strong>H</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "Head north from the car park and take the first turning on the right. Go straight on to the end and you'll find two buildings facing each other. You want the one to the north, opposite the cafe."
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q20": {
+      "explanation_html": "<p><strong>Đáp án: A - Hall</strong></p><p>Transcript: \"go straight on to the end of the arcade, but then don't go too far, take the path up to the left, and it's at the end of that path, just above the trees.\" Vị trí cuối path bên trái phía trên trees là <strong>A</strong>.</p><h4>Section 3 - History And Development Of The Bicycle</h4>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "go straight on to the end of the arcade, but then don't go too far, take the path up to the left, and it's at the end of that path, just above the trees."
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q21": {
+      "explanation_html": "<p><strong>Đáp án: B - the first bicycle to be similar to modern bicycles</strong></p><p>Izzy nói safety bicycle quan trọng vì \"it was the first model that actually looked like a bike you'd see today.\" Đây là <strong>similar to modern bicycles</strong>, chọn <strong>B</strong>.</p><p>A là bẫy từ \"safe for cyclists of all ages, including young kids\" nhưng Izzy phủ định hướng hiểu này. C sai vì tốc độ đến từ gears, nhưng significance chính là hình dáng/mẫu xe giống hiện đại.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "it was the first model that actually looked like a bike you'd see today."
+        },
+        {
+          "audio_ref": "l3",
+          "text": "safe for cyclists of all ages, including young kids"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q22": {
+      "explanation_html": "<p><strong>Đáp án: C - the way people found romantic partners</strong></p><p>Max muốn highlight việc người dân rural areas có thể đi ra ngoài cộng đồng và \"that led them to marrying people they never could have met in the past.\" Đây là ảnh hưởng tới việc tìm bạn đời/kết hôn, chọn <strong>C</strong>.</p><p>B được nhắc khi nói freedom to look for jobs, nhưng Max nói \"I'd really like to draw attention to...\" rồi chuyển sang marrying people. A không phải trọng tâm đoạn này.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "that led them to marrying people they never could have met in the past."
+        },
+        {
+          "audio_ref": "l3",
+          "text": "I'd really like to draw attention to..."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q23": {
+      "explanation_html": "<p><strong>Đáp án: A - The popularity of cars reduced the status of bicycles in the 1950s</strong></p><p>Họ sẽ stress changing attitudes in the 20th century. Transcript: đến 1950s, cars became available and popular, \"That led to people losing interest in bikes for a while\" và \"impact ... had on the bike's reputation.\" Đây là status/reputation của bicycles giảm do cars, chọn <strong>A</strong>.</p><p>B và C cũng có thông tin đúng trong đoạn sau, nhưng không phải điểm họ nói là \"key point\" về attitudes/status.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "That led to people losing interest in bikes for a while"
+        },
+        {
+          "audio_ref": "l3",
+          "text": "impact ... had on the bike's reputation."
+        },
+        {
+          "audio_ref": "l3",
+          "text": "key point"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q24": {
+      "explanation_html": "<p><strong>Đáp án: A - He wants to see more evidence of its benefits</strong></p><p>Max nói về scheme phát free bikes cho pupils: \"I just wonder if the advantages really justify the scheme... does attendance actually improve? If there's any data to support that, we need to include it, but I haven't found enough.\" Ông cần thêm evidence/data về benefits, chọn <strong>A</strong>.</p><p>B sai vì ông chỉ \"wonder how much it costs\" nhưng không nói có thể làm government tốn nhiều. C không nhắc parents có ủng hộ hay không.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "I just wonder if the advantages really justify the scheme... does attendance actually improve? If there's any data to support that, we need to include it, but I haven't found enough."
+        },
+        {
+          "audio_ref": "l3",
+          "text": "wonder how much it costs"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q25": {
+      "explanation_html": "<p><strong>Đáp án: C - Riding a bike can be a social activity</strong></p><p>David works from home, spends much time indoors, so weekends he goes out with a cycling club. He said \"it's a way to connect with people.\" <strong>connect with people</strong> = social activity.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "it's a way to connect with people."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q26": {
+      "explanation_html": "<p><strong>Đáp án: G - Riding a bike is good exercise</strong></p><p>Marlene có young children và ít free time, nên cycling to work là \"a way for her to keep fit.\" <strong>keep fit</strong> = good exercise.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "a way for her to keep fit."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q27": {
+      "explanation_html": "<p><strong>Đáp án: D - Bikes are a cheap form of transport</strong></p><p>Annabelle sold her car, nhưng không phải vì pollution. Transcript: \"her choice to travel by bike was made for financial reasons as she was paying so much for petrol.\" Financial reasons/petrol cost = cheap transport.</p><p>Bẫy: pollution được người nói đoán nhưng bị sửa.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "her choice to travel by bike was made for financial reasons as she was paying so much for petrol."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q28": {
+      "explanation_html": "<p><strong>Đáp án: F - Riding a bike is good for mental health</strong></p><p>Rashid nói cycling \"helps him think clearly and takes his mind off any worries.\" Đây là lợi ích tinh thần/mental health.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "helps him think clearly and takes his mind off any worries."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q29": {
+      "explanation_html": "<p><strong>Đáp án: E - Cycling is a way to spend time outdoors</strong></p><p>Saira lives in the countryside and loves \"being on her bike in the open air and enjoying the beautiful environment and landscape.\" <strong>open air / environment / landscape</strong> = spend time outdoors.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "being on her bike in the open air and enjoying the beautiful environment and landscape."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q30": {
+      "explanation_html": "<p><strong>Đáp án: A - Cycling is a convenient way to travel</strong></p><p>Giovanni nói \"it's just easier for him to use a bike to get around town than to drive\" vì traffic và parking quá mất thời gian. <strong>easier to get around</strong> = convenient way to travel.</p><h4>Section 4 - The Patagon People Of South America</h4>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "it's just easier for him to use a bike to get around town than to drive"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q31": {
+      "explanation_html": "<p><strong>Đáp án: soft</strong></p><p>Đề hỏi young guanaco được dùng vì da của chúng thế nào. Transcript: \"Young animals were preferred as their skin was soft, which made it easy to work with.\" Đáp án là <strong>soft</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "Young animals were preferred as their skin was soft, which made it easy to work with."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q32": {
+      "explanation_html": "<p><strong>Đáp án: stone</strong></p><p>Đề hỏi scrapers made from gì. Transcript: \"They were constructed from specially sharpened stone.\" Vì vậy điền <strong>stone</strong>.</p><p>Bẫy: scrapers được trưng bày trong museums, nhưng vật liệu là stone.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "They were constructed from specially sharpened stone."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q33": {
+      "explanation_html": "<p><strong>Đáp án: minerals</strong></p><p>Đề: colours from natural ___. Transcript: \"The colours themselves occurred naturally in minerals that were dug up from the ground.\" Đáp án là <strong>minerals</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "The colours themselves occurred naturally in minerals that were dug up from the ground."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q34": {
+      "explanation_html": "<p><strong>Đáp án: horse</strong></p><p>Đề hỏi nhiều guanaco bị bắt hơn do dùng ___ để hunting. Transcript: \"Many more guanaco were hunted after the introduction of the horse to the region, which made the Patagon people more mobile.\" Đáp án là <strong>horse</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "Many more guanaco were hunted after the introduction of the horse to the region, which made the Patagon people more mobile."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q35": {
+      "explanation_html": "<p><strong>Đáp án: commercial</strong></p><p>Đề: coats played a ___ role rather than just personal use. Transcript: coats became \"part of a commercial process, I mean something that could be bought and sold for money.\" Vì vậy điền <strong>commercial</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "part of a commercial process, I mean something that could be bought and sold for money."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q36": {
+      "explanation_html": "<p><strong>Đáp án: glass</strong></p><p>Đề hỏi material mới cải thiện scraping process. Transcript: \"old scrapers... were replaced with new ones made from glass, and this was more effective and easier to keep sharp.\" Đáp án là <strong>glass</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "old scrapers... were replaced with new ones made from glass, and this was more effective and easier to keep sharp."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q37": {
+      "explanation_html": "<p><strong>Đáp án: caves</strong></p><p>Đề: similar designs are found inside ___. Transcript: \"similar designs have been found in examples of art painted on the rock walls of caves.\" Đáp án là <strong>caves</strong>.</p><p>Không điền \"rock walls\" vì đề dùng \"inside\"; đáp án cần là nơi chứa các hình vẽ.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "similar designs have been found in examples of art painted on the rock walls of caves."
+        },
+        {
+          "audio_ref": "l4",
+          "text": "rock walls"
+        },
+        {
+          "audio_ref": "l4",
+          "text": "inside"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q38": {
+      "explanation_html": "<p><strong>Đáp án: ancestors</strong></p><p>Đề: coat designs may have been a link with people's ___. Transcript: \"the designs may have represented a way of connecting with ancestors from previous times.\" <strong>connecting with</strong> = link with, nên đáp án là <strong>ancestors</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "the designs may have represented a way of connecting with ancestors from previous times."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q39": {
+      "explanation_html": "<p><strong>Đáp án: coast</strong></p><p>Đề: Large Patagon settlements were not built on the ___. Transcript: \"it seems unlikely that these were constructed around the coast, but rather in parts of the interior.\" <strong>not built on/around the coast</strong> = đáp án <strong>coast</strong>.</p><p>Bẫy: \"interior\" là nơi có khả năng đúng, nhưng đề hỏi nơi <strong>not</strong> built.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "it seems unlikely that these were constructed around the coast, but rather in parts of the interior."
+        },
+        {
+          "audio_ref": "l4",
+          "text": "interior"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q40": {
+      "explanation_html": "<p><strong>Đáp án: blankets</strong></p><p>Đề: Shepherds still make ___ using similar techniques. Transcript: \"Patagon shepherds today do still employ some of the same techniques to make blankets in the winter months.\" Đáp án là <strong>blankets</strong>.</p><p>Không điền \"coats\" vì traditional coat making đã lost; hiện nay họ làm blankets.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "Patagon shepherds today do still employ some of the same techniques to make blankets in the winter months."
+        },
+        {
+          "audio_ref": "l4",
+          "text": "coats"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    }
+  }
+}

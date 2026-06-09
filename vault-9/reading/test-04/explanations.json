@@ -1,0 +1,415 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "test_id": "vol_09_t4_rd",
+  "module": "reading",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "guest_fallback_message": "Detailed explanations are available for enrolled Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation_html": "<p><strong>Answer:</strong> need</p><p><strong>Keyword trong c?u h?i:</strong> land traditionally given</p><p><strong>Keyword/paraphrase trong b?i:</strong> allocated ... according to need</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "allocated ... according to need"
+        }
+      ]
+    },
+    "q2": {
+      "explanation_html": "<p><strong>Answer:</strong> ashes</p><p><strong>Keyword trong c?u h?i:</strong> citemene, planting crops</p><p><strong>Keyword/paraphrase trong b?i:</strong> crops are grown on the ashes of tree branches</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "crops are grown on the ashes of tree branches"
+        }
+      ]
+    },
+    "q3": {
+      "explanation_html": "<p><strong>Answer:</strong> cassava</p><p><strong>Keyword trong c?u h?i:</strong> last crop</p><p><strong>Keyword/paraphrase trong b?i:</strong> diverse sequence ends with cassava</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "diverse sequence ends with cassava"
+        }
+      ]
+    },
+    "q4": {
+      "explanation_html": "<p><strong>Answer:</strong> ridges</p><p><strong>Keyword trong c?u h?i:</strong> areas without trees</p><p><strong>Keyword/paraphrase trong b?i:</strong> a series of ridges is built</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "a series of ridges is built"
+        }
+      ]
+    },
+    "q5": {
+      "explanation_html": "<p><strong>Answer:</strong> houses</p><p><strong>Keyword trong c?u h?i:</strong> fruit trees planted near</p><p><strong>Keyword/paraphrase trong b?i:</strong> grown around houses</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "grown around houses"
+        }
+      ]
+    },
+    "q6": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> biggest profits</p><p><strong>Keyword/paraphrase trong b?i:</strong> fishing far more remunerative</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "fishing far more remunerative"
+        }
+      ]
+    },
+    "q7": {
+      "explanation_html": "<p><strong>Answer:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> consumed on special occasions</p><p><strong>Keyword/paraphrase trong b?i:</strong> goats occasionally slaughtered for ceremonies</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "goats occasionally slaughtered for ceremonies"
+        }
+      ]
+    },
+    "q8": {
+      "explanation_html": "<p><strong>Answer:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> insect pests, do not thrive</p><p><strong>Keyword/paraphrase trong b?i:</strong> cattle or oxen, owing to tsetse fly</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "cattle or oxen, owing to tsetse fly"
+        }
+      ]
+    },
+    "q9": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> preserved and sold outside</p><p><strong>Keyword/paraphrase trong b?i:</strong> fish is dried for sale</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "fish is dried for sale"
+        }
+      ]
+    },
+    "q10": {
+      "explanation_html": "<p><strong>Answer:</strong> TRUE</p><p><strong>Keyword trong c?u h?i:</strong> prepared without oxen</p><p><strong>Keyword/paraphrase trong b?i:</strong> land prepared by hand; absence of animal power</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "land prepared by hand; absence of animal power"
+        }
+      ]
+    },
+    "q11": {
+      "explanation_html": "<p><strong>Answer:</strong> NOT GIVEN</p><p><strong>Keyword trong c?u h?i:</strong> children extra labour</p><p><strong>Keyword/paraphrase trong b?i:</strong> no information</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "no information"
+        }
+      ]
+    },
+    "q12": {
+      "explanation_html": "<p><strong>Answer:</strong> FALSE</p><p><strong>Keyword trong c?u h?i:</strong> chicken regular diet</p><p><strong>Keyword/paraphrase trong b?i:</strong> chickens/goats not standard part of diet</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "chickens/goats not standard part of diet"
+        }
+      ]
+    },
+    "q13": {
+      "explanation_html": "<p><strong>Answer:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> writer opinion, future</p><p><strong>Keyword/paraphrase trong b?i:</strong> not capable of supporting expanding population sustainably</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "not capable of supporting expanding population sustainably"
+        }
+      ]
+    },
+    "q14": {
+      "explanation_html": "<p><strong>Answer:</strong> E</p><p><strong>Keyword trong c?u h?i:</strong> methodology, several institutes</p><p><strong>Keyword/paraphrase trong b?i:</strong> three research groups; recordings of 60 newborns</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "three research groups; recordings of 60 newborns"
+        }
+      ]
+    },
+    "q15": {
+      "explanation_html": "<p><strong>Answer:</strong> D</p><p><strong>Keyword trong c?u h?i:</strong> rationale for participants</p><p><strong>Keyword/paraphrase trong b?i:</strong> German and French selected because intonation differences pronounced</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "German and French selected because intonation differences pronounced"
+        }
+      ]
+    },
+    "q16": {
+      "explanation_html": "<p><strong>Answer:</strong> F</p><p><strong>Keyword trong c?u h?i:</strong> copy mothers, gain food</p><p><strong>Keyword/paraphrase trong b?i:</strong> imitate mother, attract her, foster bonding and nourishment</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "imitate mother, attract her, foster bonding and nourishment"
+        }
+      ]
+    },
+    "q17": {
+      "explanation_html": "<p><strong>Answer:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> past Leipzig experiment methodology</p><p><strong>Keyword/paraphrase trong b?i:</strong> hoods with electrodes; recordings played</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "hoods with electrodes; recordings played"
+        }
+      ]
+    },
+    "q18": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> limitation inside womb</p><p><strong>Keyword/paraphrase trong b?i:</strong> like holding head under water</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "like holding head under water"
+        }
+      ]
+    },
+    "q19": {
+      "explanation_html": "<p><strong>Answer:</strong> F</p><p><strong>Keyword trong c?u h?i:</strong> different nationalities, different intonation</p><p><strong>Keyword/paraphrase trong b?i:</strong> German downward contour; French rising contour</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "German downward contour; French rising contour"
+        }
+      ]
+    },
+    "q20": {
+      "explanation_html": "<p><strong>Answer:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> sounds must remain consistent</p><p><strong>Keyword/paraphrase trong b?i:</strong> fire siren analogy</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "fire siren analogy"
+        }
+      ]
+    },
+    "q21": {
+      "explanation_html": "<p><strong>Answer:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> tones in crying help language later</p><p><strong>Keyword/paraphrase trong b?i:</strong> melodic patterns are building blocks</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "melodic patterns are building blocks"
+        }
+      ]
+    },
+    "q22": {
+      "explanation_html": "<p><strong>Answer:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> primate cries, breathing not brain</p><p><strong>Keyword/paraphrase trong b?i:</strong> chimpanzee crying melody associated with lungs, not mental process</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "chimpanzee crying melody associated with lungs, not mental process"
+        }
+      ]
+    },
+    "q23": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> unborn babies focus on one voice</p><p><strong>Keyword/paraphrase trong b?i:</strong> mother&#x27;s voice sensed early</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "mother's voice sensed early"
+        }
+      ]
+    },
+    "q24": {
+      "explanation_html": "<p><strong>Answer:</strong> accents</p><p><strong>Keyword trong c?u h?i:</strong> cannot recognise different</p><p><strong>Keyword/paraphrase trong b?i:</strong> cannot distinguish between accents</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "cannot distinguish between accents"
+        }
+      ]
+    },
+    "q25": {
+      "explanation_html": "<p><strong>Answer:</strong> brainwaves</p><p><strong>Keyword trong c?u h?i:</strong> changed upon hearing</p><p><strong>Keyword/paraphrase trong b?i:</strong> children&#x27;s brainwaves reacted</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "children's brainwaves reacted"
+        }
+      ]
+    },
+    "q26": {
+      "explanation_html": "<p><strong>Answer:</strong> signal</p><p><strong>Keyword trong c?u h?i:</strong> cried as a ...</p><p><strong>Keyword/paraphrase trong b?i:</strong> signal of alarm</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "signal of alarm"
+        }
+      ]
+    },
+    "q27": {
+      "explanation_html": "<p><strong>Answer:</strong> NO</p><p><strong>Keyword trong c?u h?i:</strong> little curiosity</p><p><strong>Keyword/paraphrase trong b?i:</strong> historians have asked the question from ancient times</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "historians have asked the question from ancient times"
+        }
+      ]
+    },
+    "q28": {
+      "explanation_html": "<p><strong>Answer:</strong> NOT GIVEN</p><p><strong>Keyword trong c?u h?i:</strong> first-century accounts less reliable than 21st-century accounts</p><p><strong>Keyword/paraphrase trong b?i:</strong> bài không so sánh trực tiếp độ tin cậy của hai loại account</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "bài không so sánh trực tiếp độ tin cậy của hai loại account"
+        }
+      ]
+    },
+    "q29": {
+      "explanation_html": "<p><strong>Answer:</strong> NOT GIVEN</p><p><strong>Keyword trong c?u h?i:</strong> most historians, unrealistically positive</p><p><strong>Keyword/paraphrase trong b?i:</strong> values and failings, không nói most/positive</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "values and failings, không nói most/positive"
+        }
+      ]
+    },
+    "q30": {
+      "explanation_html": "<p><strong>Answer:</strong> NO</p><p><strong>Keyword trong c?u h?i:</strong> full description</p><p><strong>Keyword/paraphrase trong b?i:</strong> tell us very little indeed</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "tell us very little indeed"
+        }
+      ]
+    },
+    "q31": {
+      "explanation_html": "<p><strong>Answer:</strong> YES</p><p><strong>Keyword trong c?u h?i:</strong> certain, existed before 63 BCE</p><p><strong>Keyword/paraphrase trong b?i:</strong> one fact is obvious; already a very old city</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "one fact is obvious; already a very old city"
+        }
+      ]
+    },
+    "q32": {
+      "explanation_html": "<p><strong>Answer:</strong> NOT GIVEN</p><p><strong>Keyword trong c?u h?i:</strong> oppose excavations, damage monuments</p><p><strong>Keyword/paraphrase trong b?i:</strong> no information</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "no information"
+        }
+      ]
+    },
+    "q33": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> Fidenae remains important</p><p><strong>Keyword/paraphrase trong b?i:</strong> fill gaps about early structures and lifestyle</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "fill gaps about early structures and lifestyle"
+        }
+      ]
+    },
+    "q34": {
+      "explanation_html": "<p><strong>Answer:</strong> D</p><p><strong>Keyword trong c?u h?i:</strong> temples and Renaissance houses</p><p><strong>Keyword/paraphrase trong b?i:</strong> obliterated/cut through earlier remains</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "obliterated/cut through earlier remains"
+        }
+      ]
+    },
+    "q35": {
+      "explanation_html": "<p><strong>Answer:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> dating excavated remains</p><p><strong>Keyword/paraphrase trong b?i:</strong> rough chronological scheme</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "rough chronological scheme"
+        }
+      ]
+    },
+    "q36": {
+      "explanation_html": "<p><strong>Answer:</strong> D</p><p><strong>Keyword trong c?u h?i:</strong> final paragraph</p><p><strong>Keyword/paraphrase trong b?i:</strong> traditional dating and radiocarbon dating differ</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "traditional dating and radiocarbon dating differ"
+        }
+      ]
+    },
+    "q37": {
+      "explanation_html": "<p><strong>Answer:</strong> F</p><p><strong>Keyword trong c?u h?i:</strong> Latin language can be</p><p><strong>Keyword/paraphrase trong b?i:</strong> clues pointing back to earliest Rome</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "clues pointing back to earliest Rome"
+        }
+      ]
+    },
+    "q38": {
+      "explanation_html": "<p><strong>Answer:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> Roman Forum was</p><p><strong>Keyword/paraphrase trong b?i:</strong> cemetery beneath Forum</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "cemetery beneath Forum"
+        }
+      ]
+    },
+    "q39": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> Fidenae building was</p><p><strong>Keyword/paraphrase trong b?i:</strong> wood and rammed earth; method still used</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "wood and rammed earth; method still used"
+        }
+      ]
+    },
+    "q40": {
+      "explanation_html": "<p><strong>Answer:</strong> D</p><p><strong>Keyword trong c?u h?i:</strong> Greek pottery</p><p><strong>Keyword/paraphrase trong b?i:</strong> used for dating comparison</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "used for dating comparison"
+        }
+      ]
+    }
+  }
+}

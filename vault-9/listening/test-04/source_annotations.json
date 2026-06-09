@@ -1,0 +1,52 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "test_id": "vol_09_t4_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "source_content_ref": "03_listening_content.public.json",
+  "audio_ref": "https://raw.githubusercontent.com/thangbuilomo/audio-ielts/main/vol_09_t4_ls.mp3",
+  "rendering": {
+    "layout_target": "left_pane",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Part 1",
+      "source_section_label": "Section 1",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">Well, I was thinking of the weekend of July the 16th, if there's room then. [Q1]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">So the code for that is Q1632. [Q2]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">It was on photographs. [Q3]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">It's Nick Poskitt. [Q4]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Oh, it's Hawthorne Way, actually. [Q5]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Engineer. [Q6]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Well, I don't like any sort of fish. [Q7]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Or there's blues? [Q8]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Well, this time I just looked on your website, but I originally found out about you from a magazine. [Q9]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">So will there be parking available? [Q10]</span></p>"
+    },
+    {
+      "part_id": "l2",
+      "part_number": 2,
+      "title": "Part 2",
+      "source_section_label": "Section 2",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">IELTS Listening, Version 50032. [Q11, Q12, Q13, Q14, Q15]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Tickets can be purchased from our website or at the festival on the day, although those will cost a bit more. [Q16]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">If you're over 18, there's an exciting contest to take part in here. [Q17]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Part 2 You will hear a talk on the radio about a local festival called the Denford Festival. [Q18]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Car Park A to the north and Car Park B in the east. [Q19]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">We're expecting a large number of international visitors, so you'll be hearing a lot of different languages around the festival this year. [Q20]</span></p>"
+    },
+    {
+      "part_id": "l3",
+      "part_number": 3,
+      "title": "Part 3",
+      "source_section_label": "Section 3",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">The title is Professional Learning. [Q21]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">And then there's something that's crucial to action research, and that's the skill of researching in a team. [Q22]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">It's on presenting results as part of the wider collaborative culture. [Q23]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">And we ask you to try some out in a school so you can look at an element of a lesson, such as pupil behaviour, so you can immediately apply what you've learnt to a real situation in the classroom. [Q24]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Somebody told me we have to keep a diary. [Q25]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">And then we've just added another observational technique to the course, which is video recording. [Q26]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">So we decided to get you to try this technique out with your fellow students in classroom simulation, which I think you'll agree. [Q27]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">And rather controversially, we start with ways of scrutinising test results. [Q28]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Well, that is a common comment from our participants, and we thought we'd open things up a bit this year with a different approach and use the Internet in order to identify respondents. [Q29]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">And will there be anything on interviews? [Q30]</span></p>"
+    },
+    {
+      "part_id": "l4",
+      "part_number": 4,
+      "title": "Part 4",
+      "source_section_label": "Section 4",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">Well, I was thinking of the weekend of July the 16th, if there's room then. [Q31]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">You will hear a lecture about the effects of the digital world on young people. [Q32]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">However, even so, James believes that our younger students can communicate with their digital immigrant teachers and still learn with the teaching methods that were quite effective in the past. [Q33, Q34, Q37, Q38]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Then, Allen adds his opinion that even though most students in modern times can access computers at home or school easily, some don't find the digital medium appealing. [Q35]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Of course, today's young people belong to the group of digital natives because they were born into this new digital age and grew up just as native speakers of the digital language of computer technology. [Q36]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Another example of the digital accent is scanning a manual for a computer programme, but the programme itself will teach you how to use it. [Q39]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">I can't promise it, but I'll do my best. [Q40]</span></p>"
+    }
+  ]
+}

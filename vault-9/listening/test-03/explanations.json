@@ -1,0 +1,519 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "test_id": "vol_09_t3_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "guest_fallback_message": "Detailed explanations are available for enrolled Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation_html": "<p><strong>??p ?n:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> enough accommodation</p><p><strong>Th?ng tin trong b?i nghe:</strong> sleep 38 at any one time</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "sleep 38 at any one time"
+        }
+      ],
+      "skill_tags": [
+        "ls_detail",
+        "ls_mcq_single"
+      ]
+    },
+    "q2": {
+      "explanation_html": "<p><strong>??p ?n:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> meeting room currently</p><p><strong>Th?ng tin trong b?i nghe:</strong> out of use just now</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "out of use just now"
+        }
+      ],
+      "skill_tags": [
+        "ls_detail",
+        "ls_mcq_single"
+      ]
+    },
+    "q3": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> tell centre in advance</p><p><strong>Th?ng tin trong b?i nghe:</strong> give enough notice, cater for you</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "give enough notice, cater for you"
+        }
+      ],
+      "skill_tags": [
+        "ls_detail",
+        "ls_mcq_single"
+      ]
+    },
+    "q4": {
+      "explanation_html": "<p><strong>??p ?n:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> farm tour</p><p><strong>Th?ng tin trong b?i nghe:</strong> explains principles of organic farming</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "explains principles of organic farming"
+        }
+      ],
+      "skill_tags": [
+        "ls_detail",
+        "ls_mcq_single"
+      ]
+    },
+    "q5": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> survival course</p><p><strong>Th?ng tin trong b?i nghe:</strong> collecting food and water</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "collecting food and water"
+        }
+      ],
+      "skill_tags": [
+        "ls_detail",
+        "ls_mcq_single"
+      ]
+    },
+    "q6": {
+      "explanation_html": "<p><strong>??p ?n:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> easy to walk to</p><p><strong>Th?ng tin trong b?i nghe:</strong> cycle path starts ten minutes' walk away</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "cycle path starts ten minutes' walk away"
+        }
+      ],
+      "skill_tags": [
+        "ls_detail",
+        "ls_mcq_single"
+      ]
+    },
+    "q7": {
+      "explanation_html": "<p><strong>??p ?n:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> bad weather</p><p><strong>Th?ng tin trong b?i nghe:</strong> very good museum</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "very good museum"
+        }
+      ],
+      "skill_tags": [
+        "ls_detail",
+        "ls_mcq_single"
+      ]
+    },
+    "q8": {
+      "explanation_html": "<p><strong>??p ?n:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> groups, pay</p><p><strong>Th?ng tin trong b?i nghe:</strong> deposit within five days; balance when here</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "deposit within five days; balance when here"
+        }
+      ],
+      "skill_tags": [
+        "ls_detail",
+        "ls_mcq_single"
+      ]
+    },
+    "q9": {
+      "explanation_html": "<p><strong>??p ?n:</strong> Cotehele</p><p><strong>Keyword trong c?u h?i:</strong> address, road</p><p><strong>Th?ng tin trong b?i nghe:</strong> Cotehele Road, spelled C-O-T-E-H-E-L-E</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "Cotehele Road, spelled C-O-T-E-H-E-L-E"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q10": {
+      "explanation_html": "<p><strong>??p ?n:</strong> SH121LQ</p><p><strong>Keyword trong c?u h?i:</strong> postcode</p><p><strong>Th?ng tin trong b?i nghe:</strong> S-H-12-1-L-Q</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "S-H-12-1-L-Q"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q11": {
+      "explanation_html": "<p><strong>??p ?n:</strong> travelling</p><p><strong>Keyword trong c?u h?i:</strong> stocktaking, main advantage</p><p><strong>Th?ng tin trong b?i nghe:</strong> enjoyed most was the travelling</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "enjoyed most was the travelling"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table"
+      ]
+    },
+    "q12": {
+      "explanation_html": "<p><strong>??p ?n:</strong> get good shoes</p><p><strong>Keyword trong c?u h?i:</strong> recommendation</p><p><strong>Th?ng tin trong b?i nghe:</strong> get good shoes</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "get good shoes"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table"
+      ]
+    },
+    "q13": {
+      "explanation_html": "<p><strong>??p ?n:</strong> wearing formal clothes</p><p><strong>Keyword trong c?u h?i:</strong> office work, disadvantage</p><p><strong>Th?ng tin trong b?i nghe:</strong> downside was wearing formal clothes</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "downside was wearing formal clothes"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table"
+      ]
+    },
+    "q14": {
+      "explanation_html": "<p><strong>??p ?n:</strong> large office</p><p><strong>Keyword trong c?u h?i:</strong> office work, recommendation</p><p><strong>Th?ng tin trong b?i nghe:</strong> select a large office</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "select a large office"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table"
+      ]
+    },
+    "q15": {
+      "explanation_html": "<p><strong>??p ?n:</strong> good pay</p><p><strong>Keyword trong c?u h?i:</strong> theme park, advantage</p><p><strong>Th?ng tin trong b?i nghe:</strong> big plus was good pay</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "big plus was good pay"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table"
+      ]
+    },
+    "q16": {
+      "explanation_html": "<p><strong>??p ?n:</strong> live nearby</p><p><strong>Keyword trong c?u h?i:</strong> theme park, recommendation</p><p><strong>Th?ng tin trong b?i nghe:</strong> good idea to live nearby</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "good idea to live nearby"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table"
+      ]
+    },
+    "q17": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> learned about job</p><p><strong>Th?ng tin trong b?i nghe:</strong> read about opportunities on zoo website</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "read about opportunities on zoo website"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q18": {
+      "explanation_html": "<p><strong>??p ?n:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> mainly enjoyed</p><p><strong>Th?ng tin trong b?i nghe:</strong> original work</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "original work"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q19": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> most interesting aspect</p><p><strong>Th?ng tin trong b?i nghe:</strong> helping young kids understand animals</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "helping young kids understand animals"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q20": {
+      "explanation_html": "<p><strong>??p ?n:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> next vacation</p><p><strong>Th?ng tin trong b?i nghe:</strong> final exams; won't be able to do paid work</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "final exams; won't be able to do paid work"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q21": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> workshop, in order to get</p><p><strong>Th?ng tin trong b?i nghe:</strong> final stage of voice coach diploma</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "final stage of voice coach diploma"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q22": {
+      "explanation_html": "<p><strong>??p ?n:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> seating pattern</p><p><strong>Th?ng tin trong b?i nghe:</strong> whatever you feel comfortable with</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "whatever you feel comfortable with"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q23": {
+      "explanation_html": "<p><strong>??p ?n:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> first activity</p><p><strong>Th?ng tin trong b?i nghe:</strong> primarily concentrating on their own thoughts</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "primarily concentrating on their own thoughts"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q24": {
+      "explanation_html": "<p><strong>??p ?n:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> second activity</p><p><strong>Th?ng tin trong b?i nghe:</strong> posture governs lung capacity and breathing</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "posture governs lung capacity and breathing"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q25": {
+      "explanation_html": "<p><strong>??p ?n:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> big space</p><p><strong>Th?ng tin trong b?i nghe:</strong> enclosed ideally, but outdoors possible</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "enclosed ideally, but outdoors possible"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q26": {
+      "explanation_html": "<p><strong>??p ?n:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> selection of texts</p><p><strong>Th?ng tin trong b?i nghe:</strong> different kinds of emotion; more contemporary sources</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "different kinds of emotion; more contemporary sources"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q27": {
+      "explanation_html": "<p><strong>??p ?n:</strong> E</p><p><strong>Keyword trong c?u h?i:</strong> Vocal Instruction</p><p><strong>Th?ng tin trong b?i nghe:</strong> written 30 years ago and it shows</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "written 30 years ago and it shows"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q28": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> Improve Your Accent</p><p><strong>Th?ng tin trong b?i nghe:</strong> very narrow in its outlook</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "very narrow in its outlook"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q29": {
+      "explanation_html": "<p><strong>??p ?n:</strong> G</p><p><strong>Keyword trong c?u h?i:</strong> Actors' Handbook</p><p><strong>Th?ng tin trong b?i nghe:</strong> out of print, no second-hand copies</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "out of print, no second-hand copies"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q30": {
+      "explanation_html": "<p><strong>??p ?n:</strong> D</p><p><strong>Keyword trong c?u h?i:</strong> Confident Voice Delivery</p><p><strong>Th?ng tin trong b?i nghe:</strong> exaggerates its claims, misleading</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "exaggerates its claims, misleading"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q31": {
+      "explanation_html": "<p><strong>??p ?n:</strong> ingredients</p><p><strong>Keyword trong c?u h?i:</strong> product's ___</p><p><strong>Th?ng tin trong b?i nghe:</strong> ingredients of the product</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "ingredients of the product"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q32": {
+      "explanation_html": "<p><strong>??p ?n:</strong> stored</p><p><strong>Keyword trong c?u h?i:</strong> how products are ___ and distributed</p><p><strong>Th?ng tin trong b?i nghe:</strong> products are stored... and distributed</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "products are stored... and distributed"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q33": {
+      "explanation_html": "<p><strong>??p ?n:</strong> temperature</p><p><strong>Keyword trong c?u h?i:</strong> frozen food condition</p><p><strong>Th?ng tin trong b?i nghe:</strong> temperature fluctuated</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "temperature fluctuated"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q34": {
+      "explanation_html": "<p><strong>??p ?n:</strong> organic</p><p><strong>Keyword trong c?u h?i:</strong> dislike additives, growth of ___ food market</p><p><strong>Th?ng tin trong b?i nghe:</strong> organic food in Australia</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "organic food in Australia"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q35": {
+      "explanation_html": "<p><strong>??p ?n:</strong> image</p><p><strong>Keyword trong c?u h?i:</strong> selling strategy</p><p><strong>Th?ng tin trong b?i nghe:</strong> image is more important</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "image is more important"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q36": {
+      "explanation_html": "<p><strong>??p ?n:</strong> information</p><p><strong>Keyword trong c?u h?i:</strong> mass media source of</p><p><strong>Th?ng tin trong b?i nghe:</strong> source of information</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "source of information"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q37": {
+      "explanation_html": "<p><strong>??p ?n:</strong> sales</p><p><strong>Keyword trong c?u h?i:</strong> media motivation</p><p><strong>Th?ng tin trong b?i nghe:</strong> prime motivation ... is sales</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "prime motivation ... is sales"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q38": {
+      "explanation_html": "<p><strong>??p ?n:</strong> entertainment</p><p><strong>Keyword trong c?u h?i:</strong> news form of</p><p><strong>Th?ng tin trong b?i nghe:</strong> news is regarded as a type of entertainment</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "news is regarded as a type of entertainment"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q39": {
+      "explanation_html": "<p><strong>??p ?n:</strong> nutrition</p><p><strong>Keyword trong c?u h?i:</strong> few programmes deal with food safety or</p><p><strong>Th?ng tin trong b?i nghe:</strong> food safety and nutrition</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "food safety and nutrition"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q40": {
+      "explanation_html": "<p><strong>??p ?n:</strong> parents</p><p><strong>Keyword trong c?u h?i:</strong> children influence</p><p><strong>Th?ng tin trong b?i nghe:</strong> lecture their parents</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "lecture their parents"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    }
+  }
+}

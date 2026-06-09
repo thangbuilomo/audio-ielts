@@ -1,0 +1,415 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "test_id": "vol_09_t7_rd",
+  "module": "reading",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "guest_fallback_message": "Detailed explanations are available for enrolled Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation_html": "<p><strong>Answer:</strong> TRUE</p><p><strong>Keyword trong c?u h?i:</strong> feed animals, Scottish islands, thousands of years</p><p><strong>Keyword/paraphrase trong b?i:</strong> sheep in Orkneys since Neolithic times, 5000 years</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "sheep in Orkneys since Neolithic times, 5000 years"
+        }
+      ]
+    },
+    "q2": {
+      "explanation_html": "<p><strong>Answer:</strong> FALSE</p><p><strong>Keyword trong c?u h?i:</strong> eating seaweed reserved for special occasions</p><p><strong>Keyword/paraphrase trong b?i:</strong> key part of regular diet</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "key part of regular diet"
+        }
+      ]
+    },
+    "q3": {
+      "explanation_html": "<p><strong>Answer:</strong> TRUE</p><p><strong>Keyword trong c?u h?i:</strong> Monte Verde, women&#x27;s roles</p><p><strong>Keyword/paraphrase trong b?i:</strong> women gathering plants also important in food provision</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "women gathering plants also important in food provision"
+        }
+      ]
+    },
+    "q4": {
+      "explanation_html": "<p><strong>Answer:</strong> NOT GIVEN</p><p><strong>Keyword trong c?u h?i:</strong> Norway&#x27;s largest export</p><p><strong>Keyword/paraphrase trong b?i:</strong> exported 1500 tonnes potash, no comparison</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "exported 1500 tonnes potash, no comparison"
+        }
+      ]
+    },
+    "q5": {
+      "explanation_html": "<p><strong>Answer:</strong> TRUE</p><p><strong>Keyword trong c?u h?i:</strong> Drew-Baker more famous in Japan</p><p><strong>Keyword/paraphrase trong b?i:</strong> hardly anyone in UK; Mother of the Sea in Japan</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "hardly anyone in UK; Mother of the Sea in Japan"
+        }
+      ]
+    },
+    "q6": {
+      "explanation_html": "<p><strong>Answer:</strong> typhoons</p><p><strong>Keyword trong c?u h?i:</strong> destroyed by pollution and ...</p><p><strong>Keyword/paraphrase trong b?i:</strong> typhoons combined with pollution</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "typhoons combined with pollution"
+        }
+      ]
+    },
+    "q7": {
+      "explanation_html": "<p><strong>Answer:</strong> laver</p><p><strong>Keyword trong c?u h?i:</strong> species similar to nori</p><p><strong>Keyword/paraphrase trong b?i:</strong> laver, Welsh equivalent of nori</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "laver, Welsh equivalent of nori"
+        }
+      ]
+    },
+    "q8": {
+      "explanation_html": "<p><strong>Answer:</strong> kelp</p><p><strong>Keyword trong c?u h?i:</strong> USA seaweed crop</p><p><strong>Keyword/paraphrase trong b?i:</strong> work on kelp</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "work on kelp"
+        }
+      ]
+    },
+    "q9": {
+      "explanation_html": "<p><strong>Answer:</strong> fishermen</p><p><strong>Keyword trong c?u h?i:</strong> alternative income</p><p><strong>Keyword/paraphrase trong b?i:</strong> crop for New England fishermen</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "crop for New England fishermen"
+        }
+      ]
+    },
+    "q10": {
+      "explanation_html": "<p><strong>Answer:</strong> chemicals</p><p><strong>Keyword trong c?u h?i:</strong> harmful effects</p><p><strong>Keyword/paraphrase trong b?i:</strong> environmentally unfriendly chemicals</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "environmentally unfriendly chemicals"
+        }
+      ]
+    },
+    "q11": {
+      "explanation_html": "<p><strong>Answer:</strong> markets</p><p><strong>Keyword trong c?u h?i:</strong> shortage prevents Europe growth</p><p><strong>Keyword/paraphrase trong b?i:</strong> lack of markets</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "lack of markets"
+        }
+      ]
+    },
+    "q12": {
+      "explanation_html": "<p><strong>Answer:</strong> jobs</p><p><strong>Keyword trong c?u h?i:</strong> large numbers of new</p><p><strong>Keyword/paraphrase trong b?i:</strong> generating 50 million jobs</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "generating 50 million jobs"
+        }
+      ]
+    },
+    "q13": {
+      "explanation_html": "<p><strong>Answer:</strong> vehicles</p><p><strong>Keyword trong c?u h?i:</strong> power with biofuel</p><p><strong>Keyword/paraphrase trong b?i:</strong> biofuel for vehicles</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "biofuel for vehicles"
+        }
+      ]
+    },
+    "q14": {
+      "explanation_html": "<p><strong>Answer:</strong> E</p><p><strong>Keyword trong c?u h?i:</strong> difference of opinion, originated</p><p><strong>Keyword/paraphrase trong b?i:</strong> debated homeland of Indo-Europeans</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "debated homeland of Indo-Europeans"
+        }
+      ]
+    },
+    "q15": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> mythological figure</p><p><strong>Keyword/paraphrase trong b?i:</strong> Mars, Roman god of war</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Mars, Roman god of war"
+        }
+      ]
+    },
+    "q16": {
+      "explanation_html": "<p><strong>Answer:</strong> G</p><p><strong>Keyword trong c?u h?i:</strong> doubt about method</p><p><strong>Keyword/paraphrase trong b?i:</strong> McMahon had less confidence in dating method</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "McMahon had less confidence in dating method"
+        }
+      ]
+    },
+    "q17": {
+      "explanation_html": "<p><strong>Answer:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> Celtic spread by movement</p><p><strong>Keyword/paraphrase trong b?i:</strong> Breton carried to Brittany by emigrants</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Breton carried to Brittany by emigrants"
+        }
+      ]
+    },
+    "q18": {
+      "explanation_html": "<p><strong>Answer:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> distrust language trees</p><p><strong>Keyword/paraphrase trong b?i:</strong> languages change so fast</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "languages change so fast"
+        }
+      ]
+    },
+    "q19": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> common approach too narrow</p><p><strong>Keyword/paraphrase trong b?i:</strong> Forster/Toth: linguists restrict to one single language</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Forster/Toth: linguists restrict to one single language"
+        }
+      ]
+    },
+    "q20": {
+      "explanation_html": "<p><strong>Answer:</strong> D</p><p><strong>Keyword trong c?u h?i:</strong> number of speakers affects change</p><p><strong>Keyword/paraphrase trong b?i:</strong> McMahon: size of speaker&#x27;s group</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "McMahon: size of speaker's group"
+        }
+      ]
+    },
+    "q21": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> Celtic distinct earlier</p><p><strong>Keyword/paraphrase trong b?i:</strong> Forster and Toth: much earlier than supposed</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Forster and Toth: much earlier than supposed"
+        }
+      ]
+    },
+    "q22": {
+      "explanation_html": "<p><strong>Answer:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> spread due farming</p><p><strong>Keyword/paraphrase trong b?i:</strong> Renfrew advocated agriculture theory</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Renfrew advocated agriculture theory"
+        }
+      ]
+    },
+    "q23": {
+      "explanation_html": "<p><strong>Answer:</strong> Gaulish</p><p><strong>Keyword trong c?u h?i:</strong> form of Celtic on tablet</p><p><strong>Keyword/paraphrase trong b?i:</strong> words were in Gaulish</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "words were in Gaulish"
+        }
+      ]
+    },
+    "q24": {
+      "explanation_html": "<p><strong>Answer:</strong> Latin</p><p><strong>Keyword trong c?u h?i:</strong> Roman conquest, predominant</p><p><strong>Keyword/paraphrase trong b?i:</strong> Latin and successor languages displaced Celtic</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Latin and successor languages displaced Celtic"
+        }
+      ]
+    },
+    "q25": {
+      "explanation_html": "<p><strong>Answer:</strong> British</p><p><strong>Keyword trong c?u h?i:</strong> around 3200 BC</p><p><strong>Keyword/paraphrase trong b?i:</strong> divergence between mainland European and British versions</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "divergence between mainland European and British versions"
+        }
+      ]
+    },
+    "q26": {
+      "explanation_html": "<p><strong>Answer:</strong> irregular</p><p><strong>Keyword trong c?u h?i:</strong> social reasons, language changes</p><p><strong>Keyword/paraphrase trong b?i:</strong> language changes in an irregular way</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "language changes in an irregular way"
+        }
+      ]
+    },
+    "q27": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> current US marketplace</p><p><strong>Keyword/paraphrase trong b?i:</strong> 47% start-ups that pioneered new products went out of business</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "47% start-ups that pioneered new products went out of business"
+        }
+      ]
+    },
+    "q28": {
+      "explanation_html": "<p><strong>Answer:</strong> D</p><p><strong>Keyword trong c?u h?i:</strong> unsuccessful innovations</p><p><strong>Keyword/paraphrase trong b?i:</strong> too simple an explanation; psychology of behavior change</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "too simple an explanation; psychology of behavior change"
+        }
+      ]
+    },
+    "q29": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> Kahneman/Tversky consumers</p><p><strong>Keyword/paraphrase trong b?i:</strong> evaluate new products relative to products they own</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "evaluate new products relative to products they own"
+        }
+      ]
+    },
+    "q30": {
+      "explanation_html": "<p><strong>Answer:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> Thaler experiment</p><p><strong>Keyword/paraphrase trong b?i:</strong> Sellers demanded at least twice as much</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "Sellers demanded at least twice as much"
+        }
+      ]
+    },
+    "q31": {
+      "explanation_html": "<p><strong>Answer:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> second group</p><p><strong>Keyword/paraphrase trong b?i:</strong> given mugs, later allowed to exchange</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "given mugs, later allowed to exchange"
+        }
+      ]
+    },
+    "q32": {
+      "explanation_html": "<p><strong>Answer:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> end result</p><p><strong>Keyword/paraphrase trong b?i:</strong> only 11% and 10% exchanged</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "only 11% and 10% exchanged"
+        }
+      ]
+    },
+    "q33": {
+      "explanation_html": "<p><strong>Answer:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> relative advantage assumption</p><p><strong>Keyword/paraphrase trong b?i:</strong> superior products give incentive to purchase</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "superior products give incentive to purchase"
+        }
+      ]
+    },
+    "q34": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> Nobel Prize study</p><p><strong>Keyword/paraphrase trong b?i:</strong> deviate from rational economic behavior</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "deviate from rational economic behavior"
+        }
+      ]
+    },
+    "q35": {
+      "explanation_html": "<p><strong>Answer:</strong> D</p><p><strong>Keyword trong c?u h?i:</strong> first characteristic</p><p><strong>Keyword/paraphrase trong b?i:</strong> subjective or perceived value</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "subjective or perceived value"
+        }
+      ]
+    },
+    "q36": {
+      "explanation_html": "<p><strong>Answer:</strong> NO</p><p><strong>Keyword trong c?u h?i:</strong> Rogers explains psychology</p><p><strong>Keyword/paraphrase trong b?i:</strong> theory fails to capture psychological biases</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "theory fails to capture psychological biases"
+        }
+      ]
+    },
+    "q37": {
+      "explanation_html": "<p><strong>Answer:</strong> YES</p><p><strong>Keyword trong c?u h?i:</strong> loss aversion, fail to buy</p><p><strong>Keyword/paraphrase trong b?i:</strong> desire to keep what we have is stronger</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "desire to keep what we have is stronger"
+        }
+      ]
+    },
+    "q38": {
+      "explanation_html": "<p><strong>Answer:</strong> YES</p><p><strong>Keyword trong c?u h?i:</strong> developers believe success</p><p><strong>Keyword/paraphrase trong b?i:</strong> convinced product works; product champions</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "convinced product works; product champions"
+        }
+      ]
+    },
+    "q39": {
+      "explanation_html": "<p><strong>Answer:</strong> NOT GIVEN</p><p><strong>Keyword trong c?u h?i:</strong> waste too much time</p><p><strong>Keyword/paraphrase trong b?i:</strong> no information</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "no information"
+        }
+      ]
+    },
+    "q40": {
+      "explanation_html": "<p><strong>Answer:</strong> NO</p><p><strong>Keyword trong c?u h?i:</strong> product champion, best-selling</p><p><strong>Keyword/paraphrase trong b?i:</strong> believers in new product, not necessarily best-selling</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "believers in new product, not necessarily best-selling"
+        }
+      ]
+    }
+  }
+}

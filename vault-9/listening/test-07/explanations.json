@@ -1,0 +1,588 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "test_id": "vol_09_t7_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "guest_fallback_message": "Detailed explanations are available for enrolled Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation_html": "<p><strong>Đáp án: BD51STR</strong></p><p>Đề hỏi registration number. Khách hàng đọc: \"BD51STR. Is that B for Bravo at the beginning? Yes, that's right.\" Vì vậy điền <strong>BD51STR</strong>.</p><p>Chú ý viết liền chữ và số; \"B for Bravo\" chỉ giúp xác nhận chữ B, không phải một phần của đáp án.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "BD51STR. Is that B for Bravo at the beginning? Yes, that's right."
+        },
+        {
+          "audio_ref": "l1",
+          "text": "B for Bravo"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q2": {
+      "explanation_html": "<p><strong>Đáp án: 180,000</strong></p><p>Đề hỏi number of miles. Transcript: \"it's 180,000 miles.\" Vì form đã có \"miles\", chỉ cần ghi <strong>180,000</strong>.</p><p>Bẫy: năm manufacture là 2001, không phải mileage.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "it's 180,000 miles."
+        },
+        {
+          "audio_ref": "l1",
+          "text": "miles"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q3": {
+      "explanation_html": "<p><strong>Đáp án: tyres</strong></p><p>Đề: needs two new ___. Khách nói: \"a couple of the tyres probably need replacing.\" <strong>a couple of</strong> = two, nên đáp án là <strong>tyres</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "a couple of the tyres probably need replacing."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q4": {
+      "explanation_html": "<p><strong>Đáp án: light</strong></p><p>Đề: the inside ___ needs fixing. Transcript: \"When you open the car door, the light ought to come on inside automatically, but it seems to have stopped working.\" Thứ cần sửa là <strong>light</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "When you open the car door, the light ought to come on inside automatically, but it seems to have stopped working."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q5": {
+      "explanation_html": "<p><strong>Đáp án: belt</strong></p><p>Đề: one passenger seat ___ is stuck. Transcript: \"on one of the passenger seats at the back, you can't fasten the belt. It seems to have stuck.\" Đáp án là <strong>belt</strong>.</p><p>Không điền \"seat\" vì seat đã có trong đề; phần bị stuck là belt.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "on one of the passenger seats at the back, you can't fasten the belt. It seems to have stuck."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q6": {
+      "explanation_html": "<p><strong>Đáp án: radio</strong></p><p>Đề: the ___ needs replacing. Transcript: \"one thing that's actually going to need replacing... is the radio. It hasn't worked for some time.\" Đáp án là <strong>radio</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "one thing that's actually going to need replacing... is the radio. It hasn't worked for some time."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q7": {
+      "explanation_html": "<p><strong>Đáp án: front</strong></p><p>Đề: the ___ brakes need attention. Khách nói: \"can you have a particular look at the front ones? I think they might be a bit worn.\" \"ones\" thay cho brakes, nên là <strong>front</strong> brakes.</p><p>Bẫy: service sẽ kiểm tra toàn bộ brakes, nhưng khách nhấn mạnh front ones.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "can you have a particular look at the front ones? I think they might be a bit worn."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q8": {
+      "explanation_html": "<p><strong>Đáp án: key</strong></p><p>Đề: needs a spare ___. Transcript: \"I only have one key for the car and I really need a spare.\" Đáp án là <strong>key</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "I only have one key for the car and I really need a spare."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q9": {
+      "explanation_html": "<p><strong>Đáp án: automatic</strong></p><p>Đề hỏi courtesy car preference. Khách nói: \"Yes, that would be good, but can I have an automatic if possible, please?\" Vì vậy điền <strong>automatic</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "Yes, that would be good, but can I have an automatic if possible, please?"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q10": {
+      "explanation_html": "<p><strong>Đáp án: 07847 355780 / 07847355780</strong></p><p>Đề hỏi phone. Transcript: \"07847 355780.\" Có thể viết có khoảng trắng hoặc liền: <strong>07847 355780</strong> / <strong>07847355780</strong>.</p><h4>Section 2 - Rosedale Library</h4>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "07847 355780."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ]
+    },
+    "q11": {
+      "explanation_html": "<p><strong>Đáp án: A - Penny Williams is not well recently</strong></p><p>Đề hỏi vì sao David Laws dẫn meeting thay Penny Williams. Transcript: \"Penny was supposed to be leading this meeting, but due to unexpected illness, I will be taking her place.\" Vì Penny bị ốm, chọn <strong>A</strong>.</p><p>B sai vì David là new personal assistant, không phải director. C sai vì meeting không bị postponed; họ chọn tiếp tục meeting.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "Penny was supposed to be leading this meeting, but due to unexpected illness, I will be taking her place."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q12": {
+      "explanation_html": "<p><strong>Đáp án: B - lack of publicity</strong></p><p>Guest speaker talks popular và ticket price tăng nhẹ \"has not put anyone off\". Vấn đề là \"some people have missed events because they didn't know they were on\", nên thư viện sẽ gửi email reminders. Đây là thiếu publicity/thông báo, chọn <strong>B</strong>.</p><p>A sai vì vé đắt hơn nhưng không làm người nghe bỏ. C sai vì thời gian không được nêu là bất tiện.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "has not put anyone off"
+        },
+        {
+          "audio_ref": "l2",
+          "text": "some people have missed events because they didn't know they were on"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q13": {
+      "explanation_html": "<p><strong>Đáp án: A - the building was destroyed to some damage</strong></p><p>Break-in: \"the thief or thieves actually left empty-handed, they did smash a number of windows and kick down a door.\" Không có đồ bị lấy, nhưng building bị hư hại. Vì vậy chọn <strong>A</strong>.</p><p>B sai vì không có valuable items bị stolen. C sai vì police nghĩ họ chỉ \"taking a chance\", không phải chuẩn bị kỹ.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "the thief or thieves actually left empty-handed, they did smash a number of windows and kick down a door."
+        },
+        {
+          "audio_ref": "l2",
+          "text": "taking a chance"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q14": {
+      "explanation_html": "<p><strong>Đáp án: C - increased number of visiting people</strong></p><p>Đề hỏi lý do extension. Transcript: số sách/items hơn gấp đôi và visitor numbers increased 20% in the last 10 years, \"There is, therefore, a clear need for an extension.\" Trong các option, lý do khớp nhất là số người tới tăng, chọn <strong>C</strong>.</p><p>A sai vì library có renovations in 1969; vấn đề không phải hoàn toàn chưa renovate. B sai vì computers đã lắp 8 PCs, không phải lý do chính để extension.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "There is, therefore, a clear need for an extension."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q15": {
+      "explanation_html": "<p><strong>Đáp án: C - improve the lighting</strong></p><p>Transcript: \"the lighting is quite poor, but you'll shortly see a big difference because the City Council ... have authorised the spending in this area.\" \"this area\" quy chiếu ngay về lighting, nên tiền được dùng để cải thiện lighting.</p><p>A là bẫy: họ \"applied to the Council to approve the addition of another member of staff\", và \"this decision will be made in the next few weeks\" tức chưa được duyệt. B sai vì new PCs đã installed back in June.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "the lighting is quite poor, but you'll shortly see a big difference because the City Council ... have authorised the spending in this area."
+        },
+        {
+          "audio_ref": "l2",
+          "text": "this area"
+        },
+        {
+          "audio_ref": "l2",
+          "text": "applied to the Council to approve the addition of another member of staff"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q16": {
+      "explanation_html": "<p><strong>Đáp án: C - Children's room</strong></p><p>Map: entrance hall giữ nguyên ở bottom. Đi hết entrance hall, bên trái là local history display; phía sau có access ramp dẫn lên \"the first new area\". Transcript: \"This new room ... could be the ideal location for a new children's room looking out onto the park.\" Trên map, vị trí này là <strong>C</strong>.</p><p>Từ khóa: <strong>first new area</strong>, <strong>looking out onto the park</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "the first new area"
+        },
+        {
+          "audio_ref": "l2",
+          "text": "This new room ... could be the ideal location for a new children's room looking out onto the park."
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q17": {
+      "explanation_html": "<p><strong>Đáp án: A - Community room</strong></p><p>Transcript: từ children's room có steps xuống ground floor; dưới steps bên trái là adult fiction; \"behind this is proposed to construct a new community room... This will be the largest new room.\" Vị trí sau adult fiction/largest new room là <strong>A</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "behind this is proposed to construct a new community room... This will be the largest new room."
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q18": {
+      "explanation_html": "<p><strong>Đáp án: B - Café</strong></p><p>Transcript: \"To the right of the adult fiction room, with magnificent views of the sea, a cafe...\" và có external access xuống Queen's Parade. Vị trí bên phải adult fiction, nhìn ra sea/Queen's Parade là <strong>B</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "To the right of the adult fiction room, with magnificent views of the sea, a cafe..."
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q19": {
+      "explanation_html": "<p><strong>Đáp án: H - Academic study room</strong></p><p>Transcript: \"The room looking out onto both Queen's Parade and Roberts Avenue would be the academic study room.\" Vị trí có hai mặt nhìn ra Queen's Parade và Roberts Avenue là <strong>H</strong>.</p><p>Không nhầm với staff workroom: staff workroom chỉ ở bên phải entrance hall facing Roberts Avenue.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "The room looking out onto both Queen's Parade and Roberts Avenue would be the academic study room."
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q20": {
+      "explanation_html": "<p><strong>Đáp án: G - Multimedia room</strong></p><p>Transcript: \"Also facing Roberts Avenue but not Queen's Parade would be the multimedia room with our extensive audio collection right behind it.\" Vị trí facing Roberts Avenue nhưng không facing Queen's Parade là <strong>G</strong>.</p><h4>Section 3 - The Artist Samuel Prout</h4>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "Also facing Roberts Avenue but not Queen's Parade would be the multimedia room with our extensive audio collection right behind it."
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q21": {
+      "explanation_html": "<p><strong>Đáp án: C - His work never had a major exhibition</strong></p><p>Jack nói Prout \"was really prolific\" nhưng \"there's never really been a high-profile showing of his paintings. That could have brought him to more people's attention.\" <strong>high-profile showing</strong> = major exhibition; thiếu điều đó nên ông không nổi tiếng hơn.</p><p>A sai vì output không limited, ngược lại prolific. B sai vì \"don't think he ever went completely out of vogue\", không phải bị xem là lỗi thời hoàn toàn.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "was really prolific"
+        },
+        {
+          "audio_ref": "l3",
+          "text": "there's never really been a high-profile showing of his paintings. That could have brought him to more people's attention."
+        },
+        {
+          "audio_ref": "l3",
+          "text": "don't think he ever went completely out of vogue"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q22": {
+      "explanation_html": "<p><strong>Đáp án: A - poor health</strong></p><p>Dr Rubin nói \"given the problems that he had\"; Jack giải thích: \"he was prone to chronic chest infections throughout his life.\" Đây là vấn đề sức khỏe, chọn <strong>A</strong>.</p><p>B sai vì ông có network of colleagues and supporters. C sai vì ông có loving wife and family.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "given the problems that he had"
+        },
+        {
+          "audio_ref": "l3",
+          "text": "he was prone to chronic chest infections throughout his life."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q23": {
+      "explanation_html": "<p><strong>Đáp án: C - He copied pictures</strong></p><p>Transcript: \"he painstakingly reproduced other painters' works, essentially sort of schooling himself.\" Reproduced other painters' works = copied pictures. Chọn <strong>C</strong>.</p><p>A sai vì không học từ father. B không được nêu.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "he painstakingly reproduced other painters' works, essentially sort of schooling himself."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q24": {
+      "explanation_html": "<p><strong>Đáp án: A - Prout used different styles simultaneously</strong></p><p>Jack nói nhiều artist có style phát triển theo thời gian, \"but not so much with Prout. He seemed to have several on the go all at the same time.\" Nghĩa là ông dùng nhiều style cùng lúc, chọn <strong>A</strong>.</p><p>C là điều thường thấy ở artist khác, không phải Prout. B không phải ý chính.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "but not so much with Prout. He seemed to have several on the go all at the same time."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q25": {
+      "explanation_html": "<p><strong>Đáp án: B - their presentation of buildings</strong></p><p>Ruskin admired Prout. Jack nói people in pictures nhìn wooden và subject lặp lại, nhưng \"his detailing of architecture was too predictable\"; Dr Rubin đáp: \"for Ruskin that was where Prout's genius lay.\" Architecture/buildings là điểm Ruskin ngưỡng mộ, chọn <strong>B</strong>.</p><p>A sai vì people không lifelike. C sai vì subject matter không wide range, nhiều tranh là European street scenes.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "his detailing of architecture was too predictable"
+        },
+        {
+          "audio_ref": "l3",
+          "text": "for Ruskin that was where Prout's genius lay."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q26": {
+      "explanation_html": "<p><strong>Đáp án: E - typical subject matter for Prout</strong></p><p>Với <strong>A view in Germany: at Wurzburg</strong>, Jack mô tả busy market scene với background detail \"like in so many of his pictures\"; Dr Rubin nói \"what Prout had made his name doing so well.\" Đây là subject matter điển hình của Prout, chọn <strong>E</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "like in so many of his pictures"
+        },
+        {
+          "audio_ref": "l3",
+          "text": "what Prout had made his name doing so well."
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q27": {
+      "explanation_html": "<p><strong>Đáp án: B - probably an inaccurate title</strong></p><p><strong>Bridge on the Ouse, near York</strong>: experts think \"this isn't York at all but somewhere in the south of England.\" Tên tranh có thể sai địa điểm, chọn <strong>B</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "this isn't York at all but somewhere in the south of England."
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q28": {
+      "explanation_html": "<p><strong>Đáp án: C - may not be genuine</strong></p><p><strong>Woodland Scene</strong> có signature S. Prout, nhưng experts doubt he painted it; detailing clumsy, màu blue không giống tranh Prout, \"probably a forgery.\" Nghĩa là có thể không phải tranh thật/genuine, chọn <strong>C</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "probably a forgery."
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q29": {
+      "explanation_html": "<p><strong>Đáp án: F - skillful painting of light and dark</strong></p><p><strong>Venice</strong>: buildings \"bathed in sunlight\" với \"picturesque shadow... shown brilliantly\"; lecturer khen \"Lovely use of colour.\" Trọng tâm là xử lý ánh sáng/bóng tối khéo, chọn <strong>F</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "bathed in sunlight"
+        },
+        {
+          "audio_ref": "l3",
+          "text": "picturesque shadow... shown brilliantly"
+        },
+        {
+          "audio_ref": "l3",
+          "text": "Lovely use of colour."
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q30": {
+      "explanation_html": "<p><strong>Đáp án: A - one of several paintings of the same view</strong></p><p><strong>Entrance to a Harbour</strong>: \"this same location with the harbour and the sea also appear in other pictures showing a range of weather conditions.\" Cùng view/location xuất hiện trong nhiều tranh, chọn <strong>A</strong>.</p><h4>Section 4 - Chocozine's Difficult Decision</h4>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "this same location with the harbour and the sea also appear in other pictures showing a range of weather conditions."
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q31": {
+      "explanation_html": "<p><strong>Đáp án: industries</strong></p><p>Transcript: Smith noticed mass customisation \"was spreading through a large number of industries in the US.\" Đề đã có \"many US ___\", nên điền <strong>industries</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "was spreading through a large number of industries in the US."
+        },
+        {
+          "audio_ref": "l4",
+          "text": "many US ___"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q32": {
+      "explanation_html": "<p><strong>Đáp án: gift</strong></p><p>European retailer wanted 15,000 bars \"for their customers. They wanted to give these as a gift...\" Đáp án là <strong>gift</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "for their customers. They wanted to give these as a gift..."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q33": {
+      "explanation_html": "<p><strong>Đáp án: publicity</strong></p><p>Deal could improve sales and provide ___. Transcript: \"it could also be very good publicity.\" Đáp án là <strong>publicity</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "it could also be very good publicity."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q34": {
+      "explanation_html": "<p><strong>Đáp án: reputation</strong></p><p>Nếu fail, hậu quả là \"financial fallout as well as the possible damage to the company's reputation.\" Đáp án <strong>reputation</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "financial fallout as well as the possible damage to the company's reputation."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q35": {
+      "explanation_html": "<p><strong>Đáp án: machines</strong></p><p>Đề: only had three ___. Transcript: \"the number of machines they had was limited. They only had three of them.\" Đáp án là <strong>machines</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "the number of machines they had was limited. They only had three of them."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q36": {
+      "explanation_html": "<p><strong>Đáp án: toppings</strong></p><p>Subcontractor đầu tiên không tìm được người có experience \"making bars with the type of melted toppings that Chocozine used.\" Đáp án là <strong>toppings</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "making bars with the type of melted toppings that Chocozine used."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q37": {
+      "explanation_html": "<p><strong>Đáp án: mistake</strong></p><p>MBA students: \"Many of the students thought that doing the deal with a luxury retailer would be a mistake.\" Đáp án là <strong>mistake</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "Many of the students thought that doing the deal with a luxury retailer would be a mistake."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q38": {
+      "explanation_html": "<p><strong>Đáp án: contact</strong></p><p>Một student từng làm buyer tại chocolate retailer và \"had a contact in the business who might be interested in doing the job.\" Đáp án là <strong>contact</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "had a contact in the business who might be interested in doing the job."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q39": {
+      "explanation_html": "<p><strong>Đáp án: shape</strong></p><p>Subcontractor gặp technical issues, including \"how to faithfully reproduce the distinctive shape of the Chocozine bars.\" Đáp án là <strong>shape</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "how to faithfully reproduce the distinctive shape of the Chocozine bars."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q40": {
+      "explanation_html": "<p><strong>Đáp án: big</strong></p><p>Comment cuối: \"taking on too big an order has destroyed many a small business.\" Đề: Accepting ___ orders has created severe problems, nên điền <strong>big</strong>.</p><p>Bẫy: transcript có \"order of this kind\", nhưng câu kết luận dùng cụm trực tiếp <strong>too big an order</strong>; đề yêu cầu ONE WORD ONLY nên không viết \"too big\".</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "taking on too big an order has destroyed many a small business."
+        },
+        {
+          "audio_ref": "l4",
+          "text": "order of this kind"
+        },
+        {
+          "audio_ref": "l4",
+          "text": "too big"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    }
+  }
+}

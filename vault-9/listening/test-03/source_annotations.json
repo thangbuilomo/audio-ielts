@@ -1,0 +1,52 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "test_id": "vol_09_t3_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "source_content_ref": "03_listening_content.public.json",
+  "audio_ref": "https://raw.githubusercontent.com/thangbuilomo/audio-ielts/main/vol_09_t3_ls.mp3",
+  "rendering": {
+    "layout_target": "left_pane",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Part 1",
+      "source_section_label": "Section 1",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">I want to arrange a weekend away for myself and some people from work, and we heard about your centre. [Q1]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">There's a large dining room and a large meeting room, which can be booked by groups in advance, but I'm afraid we had a flood in there last month, and the floor was slightly damaged, so unfortunately it's out of use just now. [Q2, Q8]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">We charge a standard fourteen pounds a head for accommodation, whether there are ten or twenty of you or whatever, and about seven pounds for cooked meals, depending on the menu you want. [Q3]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">One of the farm managers shows people around and explains some of the principles of organic farming. [Q4]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Or, if you prefer, you can just bring your own food and use the kitchen facilities. [Q5]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Section 1 You will hear a telephone conversation about Winsham Farm, a residential education centre. [Q6]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">It's only a small town, but it's got a very good museum and an old abbey, which is well worth a visit. [Q7]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">It's F Farm, Cotehele Road, that's C-O-T-E-H-E-L-E, near Sherbourne. [Q9]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">IELTS Listening, Version K0009 You will hear a number of different recordings and you will have to answer questions on what you hear. [Q10]</span></p>"
+    },
+    {
+      "part_id": "l2",
+      "part_number": 2,
+      "title": "Part 2",
+      "source_section_label": "Section 2",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">The thing that students said they enjoyed most about this job was the travelling. [Q11, Q17, Q18]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Now, one thing we did ask the students in our survey was whether they had any recommendations for other people taking on their job, and they said, perhaps not surprisingly, get good shoes. [Q12]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">The downside, which many talked about, was wearing formal clothes. [Q13]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">The advice most people gave was to select a large office. [Q14]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">And again, I got a surprise here, because the big plus people talked about was good pay. [Q15]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">And people said that it was a good idea to live nearby, because there's a lot of shift work, and you don't have to worry about transport at difficult times of the day. [Q16]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">We are a residential centre attached to a working farm, and we organise educational activities for those guests who want them. [Q19]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Now, part of my job is to support you during your probationary year, so let's ensure that you're clear about what you'll be doing in the first voice coaching workshop you run next week. [Q20]</span></p>"
+    },
+    {
+      "part_id": "l3",
+      "part_number": 3,
+      "title": "Part 3",
+      "source_section_label": "Section 3",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">Part 3 You will hear a discussion between Fiona, who is the head of a college drama department, and a new tutor called Ed, who is preparing to run a voice coaching workshop for drama students. [Q21]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">I think it's important that they don't get in each other's way and that they learn to move within a confined space, aware of other people but primarily concentrating on their own thoughts. [Q22]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Well, the first thing to say is that by far the majority of students we surveyed did just three types of jobs. [Q23]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">So, you need to rethink that section and include reasons why it's essential for them to listen to each other talking. [Q24]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">We are a residential centre attached to a working farm, and we organise educational activities for those guests who want them. [Q25]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Now, your next activity on how to convey emotion on stage is fine, but your selection of texts for the students to experience emotional depth leaves a little to be desired. [Q26]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">There's a large dining room and a large meeting room, which can be booked by groups in advance, but I'm afraid we had a flood in there last month, and the floor was slightly damaged, so unfortunately it's out of use just now. [Q27]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">These courses are very popular, especially with school groups, but adults seem to enjoy them too. [Q28]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">IELTS Listening, Version K0009 You will hear a number of different recordings and you will have to answer questions on what you hear. [Q29, Q30]</span></p>"
+    },
+    {
+      "part_id": "l4",
+      "part_number": 4,
+      "title": "Part 4",
+      "source_section_label": "Section 4",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">Firstly, they have to consider the ingredients of the product. [Q31]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">After that, they've got to consider the way products are stored, for instance, in warehouses or cold stores and distributed to retailers. [Q32]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Things like frozen foods being defrosted and then refrozen because the temperature fluctuated, or foods being kept past their expiry date. [Q33]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">And I heard that your farm is organic. [Q34]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">In some large supermarkets, low prices are the main strategy for attracting customers, while for more upscale marketers, image is more important. [Q35]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">If you're interested in getting further information about the findings of the survey... [Q36]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">For one thing, the prime motivation of the media, as with the food industry, is sales, and this has a major influence on the way in which the topic is dealt with. [Q37]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">A further problem is that news is regarded as a type of entertainment. [Q38]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">IELTS Listening, Version K0009 You will hear a number of different recordings and you will have to answer questions on what you hear. [Q39]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">We know that many children who have been taught about the benefits of exercise come home and lecture their parents about it. [Q40]</span></p>"
+    }
+  ]
+}

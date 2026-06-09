@@ -1,0 +1,569 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "test_id": "vol_09_t8_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "guest_fallback_message": "Detailed explanations are available for enrolled Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation_html": "<p><strong>Đáp án: Ridyard</strong></p><p>Đề hỏi caller's name: Robert ___. Người gọi nói: \"Ridyard. That's R-I-D-Y-A-R-D.\" Vì vậy điền <strong>Ridyard</strong>.</p><p>Tên riêng cần nghe spelling cẩn thận; không nhầm với \"Robert\" vì Robert đã có sẵn trong đề.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "Ridyard. That's R-I-D-Y-A-R-D."
+        },
+        {
+          "audio_ref": "l1",
+          "text": "Robert"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q2": {
+      "explanation_html": "<p><strong>Đáp án: Station Road</strong></p><p>Đề hỏi address: 27 ___. Transcript: \"It's 27 Station Road.\" Đáp án đầy đủ là <strong>Station Road</strong>.</p><p>Postcode DP17 5HJ được đọc ngay sau đó nhưng đề đã có postcode riêng, không phải câu 2.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "It's 27 Station Road."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q3": {
+      "explanation_html": "<p><strong>Đáp án: 25th February / 25 February / February 25th / February 25</strong></p><p>Đề hỏi date of birth. Transcript: \"The 25th of February, 1975.\" Vì năm 1975 đã có trong đề, blank cần ngày và tháng: <strong>25th February</strong> hoặc biến thể tương đương.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "The 25th of February, 1975."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q4": {
+      "explanation_html": "<p><strong>Đáp án: lower</strong></p><p>Đề: pain in his ___ back. Nurse hỏi which part of the back; người gọi trả lời \"Lower.\" Vì vậy điền <strong>lower</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "Lower."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q5": {
+      "explanation_html": "<p><strong>Đáp án: three days / 3 days</strong></p><p>Đề: Started ___ ago. Transcript: \"since Monday, so that's three days now.\" Đáp án là <strong>three days</strong>.</p><p>Bẫy: last year June là previous history, không phải đợt đau hiện tại.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "since Monday, so that's three days now."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q6": {
+      "explanation_html": "<p><strong>Đáp án: afternoon</strong></p><p>Đề: Got worse this ___. Transcript: \"Then this afternoon, the pain suddenly got so bad that I went to bed.\" Đáp án <strong>afternoon</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "Then this afternoon, the pain suddenly got so bad that I went to bed."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q7": {
+      "explanation_html": "<p><strong>Đáp án: box</strong></p><p>Đề hỏi possible cause: lifting up a heavy ___. Transcript: \"I lifted a box up from the floor that was heavier than I thought.\" Đáp án là <strong>box</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "I lifted a box up from the floor that was heavier than I thought."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q8": {
+      "explanation_html": "<p><strong>Đáp án: painkillers</strong></p><p>Đề: Has taken ___. Nurse hỏi: \"Have you taken any painkillers?\" Người gọi đáp \"Yes.\" Vì vậy đáp án là <strong>painkillers</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "Have you taken any painkillers?"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q9": {
+      "explanation_html": "<p><strong>Đáp án: ice</strong></p><p>Đề: Try using ___. Nurse khuyên: \"One thing you could do now is to see if ice makes any difference.\" Đáp án là <strong>ice</strong>.</p><p>Bẫy: người gọi đã applied heat/hot water bottle trước đó; lời khuyên mới là thử ice.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "One thing you could do now is to see if ice makes any difference."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q10": {
+      "explanation_html": "<p><strong>Đáp án: exercise</strong></p><p>Đề: Ask for information about ___. Nurse nói khi gặp doctor: \"you might get some advice from her about exercise. That's often the best way...\" Vì vậy đáp án là <strong>exercise</strong>.</p><h4>Section 2 - Trip To An Outdoor Education Centre</h4>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "you might get some advice from her about exercise. That's often the best way..."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q11": {
+      "explanation_html": "<p><strong>Đáp án: C - react positively to new challenges</strong></p><p>Principal nói centre giúp trẻ \"try different things and not give up when it gets difficult\" và \"having a go.\" Đây là thái độ tích cực trước thử thách mới, chọn <strong>C</strong>.</p><p>A không phải trọng tâm. B sai vì trẻ vẫn ở môi trường an toàn và dưới guidance của familiar adult, không phải tự xoay sở không có người lớn.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "try different things and not give up when it gets difficult"
+        },
+        {
+          "audio_ref": "l2",
+          "text": "having a go."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q12": {
+      "explanation_html": "<p><strong>Đáp án: B - make sure they get enough sleep before they leave</strong></p><p>Chuẩn bị cho trẻ: \"You can do this just by making sure they have some early nights before we go.\" Early nights = ngủ đủ/ngủ sớm trước chuyến đi, chọn <strong>B</strong>.</p><p>A không được nói. C là bẫy vì \"can't guarantee your child will be in with their best friends\"; phụ huynh không nên hứa trẻ sẽ ở tent với bạn thân.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "You can do this just by making sure they have some early nights before we go."
+        },
+        {
+          "audio_ref": "l2",
+          "text": "can't guarantee your child will be in with their best friends"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q13": {
+      "explanation_html": "<p><strong>Đáp án: A - plastic bags</strong></p><p>Đề hỏi thứ cần cho vào backpack. Snacks/biscuits \"need to go in the box in the school hall, not with the children.\" Money không cần vì \"there's nothing to buy.\" Cái cần trong backpack là \"bags for cleaning up and for wet clothing, so plastic ones please.\" Chọn <strong>A</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "need to go in the box in the school hall, not with the children."
+        },
+        {
+          "audio_ref": "l2",
+          "text": "there's nothing to buy."
+        },
+        {
+          "audio_ref": "l2",
+          "text": "bags for cleaning up and for wet clothing, so plastic ones please."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q14": {
+      "explanation_html": "<p><strong>Đáp án: B - cell phones</strong></p><p>Transcript: \"Cell phones are permitted, but they must be switched off...\" Electronic games are banned; knives/penknives không được mang vì centre cung cấp knives cho wood carving. Vì vậy chọn <strong>B</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "Cell phones are permitted, but they must be switched off..."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q15": {
+      "explanation_html": "<p><strong>Đáp án: A - The first ten parents to sign up will be able to go</strong></p><p>Trước đây họ rút tên từ box, nhưng cách đó có vấn đề. Bây giờ: \"put your name down on the sign-up form and the first ten will be asked to come.\" Chọn <strong>A</strong>.</p><p>B là phương pháp cũ, không còn dùng. C sai vì \"Experience isn't required.\"</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "put your name down on the sign-up form and the first ten will be asked to come."
+        },
+        {
+          "audio_ref": "l2",
+          "text": "Experience isn't required."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q16": {
+      "explanation_html": "<p><strong>Đáp án: B - can be left at the school office</strong></p><p>Transcript: \"Payment to the centre is made by school, not by parents.\" Nếu không chuyển khoản theo bank details của school, phụ huynh \"please leave payment in an envelope in the box at the school office.\" Vì vậy chọn <strong>B</strong>.</p><p>C là bẫy cực mạnh: có cụm \"Payment to the centre\", nhưng câu đầy đủ nói school trả cho centre, <strong>not by parents</strong>. A sai vì không nộp cho teacher; teacher chỉ đưa form có bank account details.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "Payment to the centre is made by school, not by parents."
+        },
+        {
+          "audio_ref": "l2",
+          "text": "please leave payment in an envelope in the box at the school office."
+        },
+        {
+          "audio_ref": "l2",
+          "text": "Payment to the centre"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q17": {
+      "explanation_html": "<p><strong>Đáp án: E - Woodcarving studio</strong></p><p>Map: entrance ở bottom, qua entrance là Reception. Wood-carving studio được định vị bằng main hall: \"to the right of the hall and opposite the kitchen is the new barbecue area and it's right next to that overlooking Forts Road.\" Vị trí cạnh barbecue area, nhìn ra Forts Road là <strong>E</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "to the right of the hall and opposite the kitchen is the new barbecue area and it's right next to that overlooking Forts Road."
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q18": {
+      "explanation_html": "<p><strong>Đáp án: A - Emergency meeting point</strong></p><p>Transcript: \"If you look to the top of the map and to north of Forest Road, that's the location. It is on the same side of river as the tents.\" Vị trí phía bắc Forest Road, cùng phía sông với tents là <strong>A</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "If you look to the top of the map and to north of Forest Road, that's the location. It is on the same side of river as the tents."
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q19": {
+      "explanation_html": "<p><strong>Đáp án: F - Conservation Centre</strong></p><p>Transcript: \"See the building marked Kayaks on right side riverbank? Well, the Conservation Centre is between the two bridges just below it.\" Điểm giữa hai bridges, ngay dưới Kayaks phía right riverbank là <strong>F</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "See the building marked Kayaks on right side riverbank? Well, the Conservation Centre is between the two bridges just below it."
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q20": {
+      "explanation_html": "<p><strong>Đáp án: B - Arts and Crafts room</strong></p><p>Transcript: \"the Arts and Crafts room is to the right of the river, a little further up from the kayaks.\" Vị trí bên phải river và cao hơn Kayaks một chút là <strong>B</strong>.</p><h4>Section 3 - Stone Point</h4>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "the Arts and Crafts room is to the right of the river, a little further up from the kayaks."
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q21": {
+      "explanation_html": "<p><strong>Đáp án: A - it was used for defence or attack purposes</strong></p><p>Liz nói Stone Point có vai trò lịch sử lớn vì \"It's been used by both Maori and European settlers as a place to shelter from attack or launch an attack, for centuries.\" Shelter from attack / launch an attack = defence or attack, chọn <strong>A</strong>.</p><p>B sai vì Maori đến New Zealand sau khi volcanoes erupted, nhưng không nói đây là landing point đầu tiên. C không phải vai trò chính được nêu.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "It's been used by both Maori and European settlers as a place to shelter from attack or launch an attack, for centuries."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q22": {
+      "explanation_html": "<p><strong>Đáp án: B - the supply of fish</strong></p><p>Scott đoán Maori chọn vì volcanic soil tốt cho crops. Liz sửa: họ có thể nhận ra lợi ích soil sau vài vụ mùa, \"but initially the fishing opportunities would have been the attraction.\" Ban đầu chọn vì fish, chọn <strong>B</strong>.</p><p>A là bẫy vì soil được nhắc, nhưng là lợi ích nhận ra sau đó, không phải lý do originally.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "but initially the fishing opportunities would have been the attraction."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q23": {
+      "explanation_html": "<p><strong>Đáp án: C - would be best avoided</strong></p><p>Liz nói có cultural value, nhưng \"we need to keep most Maori terminology out of the presentation, otherwise a lot of the international students won't be able to follow us.\" Scott đồng ý \"we have to stick to English.\" Vì vậy dùng Maori terminology nên tránh, chọn <strong>C</strong>.</p><p>A sai vì Scott nghĩ international students có thể thấy interesting, nhưng cuối cùng vẫn phải tránh. B không được nói là requirement.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "we need to keep most Maori terminology out of the presentation, otherwise a lot of the international students won't be able to follow us."
+        },
+        {
+          "audio_ref": "l3",
+          "text": "we have to stick to English."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q24": {
+      "explanation_html": "<p><strong>Đáp án: A - focus on the human aspect instead</strong></p><p>Scott muốn nói về engines. Liz khuyên: \"I wouldn't go into the technical side... people will switch off. I think it's more interesting to look at the impact Stone Point had on the people's lives at the time.\" Tức chuyển từ technical engines sang human aspect, chọn <strong>A</strong>.</p><p>B và C đều không phải lời khuyên chính.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "I wouldn't go into the technical side... people will switch off. I think it's more interesting to look at the impact Stone Point had on the people's lives at the time."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q25": {
+      "explanation_html": "<p><strong>Đáp án: D - check author's details</strong></p><p>Với Early Maori Inhabitation, họ cần \"look at the material we've used again and make sure we know who the writers were and when they wrote it.\" Đây là kiểm tra author/date details, chọn <strong>D</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "look at the material we've used again and make sure we know who the writers were and when they wrote it."
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q26": {
+      "explanation_html": "<p><strong>Đáp án: B - find images</strong></p><p>Với Stone Point as a lookout point: \"I'm sure we can locate some drawings of how Stone Point looked then and the kind of ships coming in.\" Locate drawings = find images, chọn <strong>B</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "I'm sure we can locate some drawings of how Stone Point looked then and the kind of ships coming in."
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q27": {
+      "explanation_html": "<p><strong>Đáp án: A - provide further description</strong></p><p>Với reconstruction of the fort: \"We haven't got a lot of detail... We should add some more information about what it was the prisoners were adding to it.\" Add more information/detail = provide further description, chọn <strong>A</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "We haven't got a lot of detail... We should add some more information about what it was the prisoners were adding to it."
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q28": {
+      "explanation_html": "<p><strong>Đáp án: F - obtain official permission</strong></p><p>Với modernisation in the 1930s-40s, Scott sẽ gọi Department of Conservation để xem họ có \"agree to let me film the site\" và cho access tunnels không. Đây là xin phép chính thức, chọn <strong>F</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "agree to let me film the site"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q29": {
+      "explanation_html": "<p><strong>Đáp án: C - set up an interview</strong></p><p>Với uses from 1950s onwards: \"arrange a meeting with someone from the Department of Conservation to ask them about their restoration work.\" Arrange a meeting to ask questions = set up an interview, chọn <strong>C</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "arrange a meeting with someone from the Department of Conservation to ask them about their restoration work."
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q30": {
+      "explanation_html": "<p><strong>Đáp án: E - check the exact location</strong></p><p>Với public park today, họ hỏi: \"Where is the boundary exactly? Does it go all the way to the beach?\" rồi \"I'll check that out.\" Cần kiểm tra exact boundary/location, chọn <strong>E</strong>.</p><h4>Section 4 - Rural Development</h4>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "Where is the boundary exactly? Does it go all the way to the beach?"
+        },
+        {
+          "audio_ref": "l3",
+          "text": "I'll check that out."
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q31": {
+      "explanation_html": "<p><strong>Đáp án: deserts</strong></p><p>Đề: moving across ___ and mountains. Transcript: Berbers led a nomadic life \"by wandering with their animals through the deserts and across the different mountains.\" Đáp án là <strong>deserts</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "by wandering with their animals through the deserts and across the different mountains."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q32": {
+      "explanation_html": "<p><strong>Đáp án: seasonal</strong></p><p>Đề: some Berbers, known as ___ nomads, moved twice a year. Transcript: nhóm farmers winter lowlands/summer mountains \"are called seasonal nomads.\" Đáp án <strong>seasonal</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "are called seasonal nomads."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q33": {
+      "explanation_html": "<p><strong>Đáp án: olive oil</strong></p><p>Settled by oases: they grew fruit and vegetables \"as well as making olive oil which they used for cooking.\" Đáp án là <strong>olive oil</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "as well as making olive oil which they used for cooking."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q34": {
+      "explanation_html": "<p><strong>Đáp án: camels</strong></p><p>Đề: people and belongings were carried by ___. Transcript: in dry Sahel, Berbers \"relied more and more on camels for transporting their families and their goods.\" Families/goods = people/belongings, nên <strong>camels</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "relied more and more on camels for transporting their families and their goods."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q35": {
+      "explanation_html": "<p><strong>Đáp án: square</strong></p><p>Settled communities: men \"met regularly in the village square to discuss affairs and make decisions.\" Đáp án <strong>square</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "met regularly in the village square to discuss affairs and make decisions."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q36": {
+      "explanation_html": "<p><strong>Đáp án: grass</strong></p><p>Tuareg tents: nếu goatskins không có, \"they wove mats made of grass or palm leaves.\" Đề đã có \"or palm-leaf mats\", nên blank là <strong>grass</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "they wove mats made of grass or palm leaves."
+        },
+        {
+          "audio_ref": "l4",
+          "text": "or palm-leaf mats"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q37": {
+      "explanation_html": "<p><strong>Đáp án: slaves</strong></p><p>Transcript: hierarchy ranged down to \"labourers whose ancestors had once been slaves.\" Đề: labourers were descendants of ___, nên điền <strong>slaves</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "labourers whose ancestors had once been slaves."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q38": {
+      "explanation_html": "<p><strong>Đáp án: dark blue</strong></p><p>Đề: adult men always wore a ___ veil. Transcript: \"all adult males wore a dark blue veil...\" Đáp án là <strong>dark blue</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "all adult males wore a dark blue veil..."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q39": {
+      "explanation_html": "<p><strong>Đáp án: herds</strong></p><p>Some Tuaregs moved to Burkina Faso with their ___. Transcript: animals survived, they moved \"to find new grazing lands for their herds.\" Đáp án <strong>herds</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "to find new grazing lands for their herds."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q40": {
+      "explanation_html": "<p><strong>Đáp án: guides</strong></p><p>Timbuktu/tourism: \"The tourism department of the Mali government employs some Tuaregs who act as guides.\" Đáp án <strong>guides</strong>.</p><p>Bẫy: \"tourists\" xuất hiện trước đó, nhưng Tuaregs làm nghề guides cho tourism department.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "The tourism department of the Mali government employs some Tuaregs who act as guides."
+        },
+        {
+          "audio_ref": "l4",
+          "text": "tourists"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    }
+  }
+}

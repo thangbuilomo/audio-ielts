@@ -1,0 +1,415 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "test_id": "vol_09_t6_rd",
+  "module": "reading",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "guest_fallback_message": "Detailed explanations are available for enrolled Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation_html": "<p><strong>Answer:</strong> TRUE</p><p><strong>Keyword trong c?u h?i:</strong> ten years, gathering evidence</p><p><strong>Keyword/paraphrase trong b?i:</strong> past decade, collating examples</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "past decade, collating examples"
+        }
+      ]
+    },
+    "q2": {
+      "explanation_html": "<p><strong>Answer:</strong> FALSE</p><p><strong>Keyword trong c?u h?i:</strong> always believed</p><p><strong>Keyword/paraphrase trong b?i:</strong> generally regarded with skepticism</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "generally regarded with skepticism"
+        }
+      ]
+    },
+    "q3": {
+      "explanation_html": "<p><strong>Answer:</strong> NOT GIVEN</p><p><strong>Keyword trong c?u h?i:</strong> medical team</p><p><strong>Keyword/paraphrase trong b?i:</strong> no information</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "no information"
+        }
+      ]
+    },
+    "q4": {
+      "explanation_html": "<p><strong>Answer:</strong> TRUE</p><p><strong>Keyword trong c?u h?i:</strong> captivity, decline in health</p><p><strong>Keyword/paraphrase trong b?i:</strong> health often deteriorates</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "health often deteriorates"
+        }
+      ]
+    },
+    "q5": {
+      "explanation_html": "<p><strong>Answer:</strong> pith</p><p><strong>Keyword trong c?u h?i:</strong> Veronia plant</p><p><strong>Keyword/paraphrase trong b?i:</strong> dose themselves with the pith</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "dose themselves with the pith"
+        }
+      ]
+    },
+    "q6": {
+      "explanation_html": "<p><strong>Answer:</strong> terpenes</p><p><strong>Keyword trong c?u h?i:</strong> toxins</p><p><strong>Keyword/paraphrase trong b?i:</strong> poisonous chemicals called terpenes</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "poisonous chemicals called terpenes"
+        }
+      ]
+    },
+    "q7": {
+      "explanation_html": "<p><strong>Answer:</strong> poisons</p><p><strong>Keyword trong c?u h?i:</strong> blood level reduced</p><p><strong>Keyword/paraphrase trong b?i:</strong> defensive poisons; alkaloid reduction</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "defensive poisons; alkaloid reduction"
+        }
+      ]
+    },
+    "q8": {
+      "explanation_html": "<p><strong>Answer:</strong> drug</p><p><strong>Keyword trong c?u h?i:</strong> wrongly believed</p><p><strong>Keyword/paraphrase trong b?i:</strong> drug hypothesis</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "drug hypothesis"
+        }
+      ]
+    },
+    "q9": {
+      "explanation_html": "<p><strong>Answer:</strong> unpleasant</p><p><strong>Keyword trong c?u h?i:</strong> taste/experience</p><p><strong>Keyword/paraphrase trong b?i:</strong> wrinkling noses; experience was unpleasant</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "wrinkling noses; experience was unpleasant"
+        }
+      ]
+    },
+    "q10": {
+      "explanation_html": "<p><strong>Answer:</strong> geophagy</p><p><strong>Keyword trong c?u h?i:</strong> soil consumption</p><p><strong>Keyword/paraphrase trong b?i:</strong> behaviour known as geophagy</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "behaviour known as geophagy"
+        }
+      ]
+    },
+    "q11": {
+      "explanation_html": "<p><strong>Answer:</strong> salt</p><p><strong>Keyword trong c?u h?i:</strong> minerals</p><p><strong>Keyword/paraphrase trong b?i:</strong> minerals such as salt</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "minerals such as salt"
+        }
+      ]
+    },
+    "q12": {
+      "explanation_html": "<p><strong>Answer:</strong> detoxify</p><p><strong>Keyword trong c?u h?i:</strong> clay in soil</p><p><strong>Keyword/paraphrase trong b?i:</strong> helps to detoxify poisons</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "helps to detoxify poisons"
+        }
+      ]
+    },
+    "q13": {
+      "explanation_html": "<p><strong>Answer:</strong> tablets</p><p><strong>Keyword trong c?u h?i:</strong> clay-based products</p><p><strong>Keyword/paraphrase trong b?i:</strong> medical stalls sell tablets made of clays</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "medical stalls sell tablets made of clays"
+        }
+      ]
+    },
+    "q14": {
+      "explanation_html": "<p><strong>Answer:</strong> vii</p><p><strong>Keyword trong c?u h?i:</strong> occupations, little interesting conversation</p><p><strong>Keyword/paraphrase trong b?i:</strong> guards, drivers, salespeople; lack of conversation/small talk</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "guards, drivers, salespeople; lack of conversation/small talk"
+        }
+      ]
+    },
+    "q15": {
+      "explanation_html": "<p><strong>Answer:</strong> iv</p><p><strong>Keyword trong c?u h?i:</strong> categorised spoken exchanges</p><p><strong>Keyword/paraphrase trong b?i:</strong> small talk vs substantive</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "small talk vs substantive"
+        }
+      ]
+    },
+    "q16": {
+      "explanation_html": "<p><strong>Answer:</strong> i</p><p><strong>Keyword trong c?u h?i:</strong> sounds and contact strengthen bonds</p><p><strong>Keyword/paraphrase trong b?i:</strong> vocal exchanges and grooming in lemurs</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "vocal exchanges and grooming in lemurs"
+        }
+      ]
+    },
+    "q17": {
+      "explanation_html": "<p><strong>Answer:</strong> iii</p><p><strong>Keyword trong c?u h?i:</strong> surprising results</p><p><strong>Keyword/paraphrase trong b?i:</strong> commuters predicted opposite</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "commuters predicted opposite"
+        }
+      ]
+    },
+    "q18": {
+      "explanation_html": "<p><strong>Answer:</strong> ix</p><p><strong>Keyword trong c?u h?i:</strong> common situations enhanced</p><p><strong>Keyword/paraphrase trong b?i:</strong> coffee shop, gallery, waiting room</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "coffee shop, gallery, waiting room"
+        }
+      ]
+    },
+    "q19": {
+      "explanation_html": "<p><strong>Answer:</strong> v</p><p><strong>Keyword trong c?u h?i:</strong> personality types</p><p><strong>Keyword/paraphrase trong b?i:</strong> curious vs less curious; introvert/extrovert</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "curious vs less curious; introvert/extrovert"
+        }
+      ]
+    },
+    "q20": {
+      "explanation_html": "<p><strong>Answer:</strong> D</p><p><strong>Keyword trong c?u h?i:</strong> transaction, social interaction</p><p><strong>Keyword/paraphrase trong b?i:</strong> Sandstrom and Dunn, coffee server</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Sandstrom and Dunn, coffee server"
+        }
+      ]
+    },
+    "q21": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> meaningful conversations, life satisfaction</p><p><strong>Keyword/paraphrase trong b?i:</strong> Mehl and Vazire</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Mehl and Vazire"
+        }
+      ]
+    },
+    "q22": {
+      "explanation_html": "<p><strong>Answer:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> more than one species, social communication</p><p><strong>Keyword/paraphrase trong b?i:</strong> Kulahci, lemurs</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Kulahci, lemurs"
+        }
+      ]
+    },
+    "q23": {
+      "explanation_html": "<p><strong>Answer:</strong> E</p><p><strong>Keyword trong c?u h?i:</strong> change subject easier</p><p><strong>Keyword/paraphrase trong b?i:</strong> Kashdan, curious people</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Kashdan, curious people"
+        }
+      ]
+    },
+    "q24": {
+      "explanation_html": "<p><strong>Answer:</strong> commuters</p><p><strong>Keyword trong c?u h?i:</strong> train study</p><p><strong>Keyword/paraphrase trong b?i:</strong> other commuters</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "other commuters"
+        }
+      ]
+    },
+    "q25": {
+      "explanation_html": "<p><strong>Answer:</strong> paintings</p><p><strong>Keyword trong c?u h?i:</strong> gallery study</p><p><strong>Keyword/paraphrase trong b?i:</strong> more connected to the paintings</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "more connected to the paintings"
+        }
+      ]
+    },
+    "q26": {
+      "explanation_html": "<p><strong>Answer:</strong> topics</p><p><strong>Keyword trong c?u h?i:</strong> introverts/less curious help</p><p><strong>Keyword/paraphrase trong b?i:</strong> supplied with topics</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "supplied with topics"
+        }
+      ]
+    },
+    "q27": {
+      "explanation_html": "<p><strong>Answer:</strong> ix</p><p><strong>Keyword trong c?u h?i:</strong> transforming country</p><p><strong>Keyword/paraphrase trong b?i:</strong> Five Year Plan; powerful modern industrial nation; enthusiasm</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "Five Year Plan; powerful modern industrial nation; enthusiasm"
+        }
+      ]
+    },
+    "q28": {
+      "explanation_html": "<p><strong>Answer:</strong> vii</p><p><strong>Keyword trong c?u h?i:</strong> inspiration abroad</p><p><strong>Keyword/paraphrase trong b?i:</strong> Taylor, Ford, capitalist models</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "Taylor, Ford, capitalist models"
+        }
+      ]
+    },
+    "q29": {
+      "explanation_html": "<p><strong>Answer:</strong> i</p><p><strong>Keyword trong c?u h?i:</strong> factories seven days</p><p><strong>Keyword/paraphrase trong b?i:</strong> abolish Sunday; continuous working week</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "abolish Sunday; continuous working week"
+        }
+      ]
+    },
+    "q30": {
+      "explanation_html": "<p><strong>Answer:</strong> vi</p><p><strong>Keyword trong c?u h?i:</strong> organised</p><p><strong>Keyword/paraphrase trong b?i:</strong> five-day week, groups, rest days, color coding</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "five-day week, groups, rest days, color coding"
+        }
+      ]
+    },
+    "q31": {
+      "explanation_html": "<p><strong>Answer:</strong> xi</p><p><strong>Keyword trong c?u h?i:</strong> pros and cons</p><p><strong>Keyword/paraphrase trong b?i:</strong> benefits plus objection concerning family</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "benefits plus objection concerning family"
+        }
+      ]
+    },
+    "q32": {
+      "explanation_html": "<p><strong>Answer:</strong> iv</p><p><strong>Keyword trong c?u h?i:</strong> not consistently introduced</p><p><strong>Keyword/paraphrase trong b?i:</strong> managers claimed adoption; haphazard</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "managers claimed adoption; haphazard"
+        }
+      ]
+    },
+    "q33": {
+      "explanation_html": "<p><strong>Answer:</strong> x</p><p><strong>Keyword trong c?u h?i:</strong> expected improvements failed</p><p><strong>Keyword/paraphrase trong b?i:</strong> far from vaunted effect on production</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "far from vaunted effect on production"
+        }
+      ]
+    },
+    "q34": {
+      "explanation_html": "<p><strong>Answer:</strong> ii</p><p><strong>Keyword trong c?u h?i:</strong> end of schemes</p><p><strong>Keyword/paraphrase trong b?i:</strong> abandoned in 1940; Sunday returned</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "abandoned in 1940; Sunday returned"
+        }
+      ]
+    },
+    "q35": {
+      "explanation_html": "<p><strong>Answer:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> admired American business</p><p><strong>Keyword/paraphrase trong b?i:</strong> productivity methods: Taylor/Ford</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "productivity methods: Taylor/Ford"
+        }
+      ]
+    },
+    "q36": {
+      "explanation_html": "<p><strong>Answer:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> intended ensure</p><p><strong>Keyword/paraphrase trong b?i:</strong> machines operate full capacity every day</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "machines operate full capacity every day"
+        }
+      ]
+    },
+    "q37": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> unlikely to improve</p><p><strong>Keyword/paraphrase trong b?i:</strong> family objection</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "family objection"
+        }
+      ]
+    },
+    "q38": {
+      "explanation_html": "<p><strong>Answer:</strong> Taylor</p><p><strong>Keyword trong c?u h?i:</strong> theories inspired efficiency</p><p><strong>Keyword/paraphrase trong b?i:</strong> ideas of Taylor</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "ideas of Taylor"
+        }
+      ]
+    },
+    "q39": {
+      "explanation_html": "<p><strong>Answer:</strong> Larin</p><p><strong>Keyword trong c?u h?i:</strong> proposed continuous week</p><p><strong>Keyword/paraphrase trong b?i:</strong> economist Larin came up with idea</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "economist Larin came up with idea"
+        }
+      ]
+    },
+    "q40": {
+      "explanation_html": "<p><strong>Answer:</strong> colour-coding</p><p><strong>Keyword trong c?u h?i:</strong> identify groups</p><p><strong>Keyword/paraphrase trong b?i:</strong> colour-coding was a valuable device</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "colour-coding was a valuable device"
+        }
+      ]
+    }
+  }
+}

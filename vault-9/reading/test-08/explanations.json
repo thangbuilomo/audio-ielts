@@ -1,0 +1,415 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "test_id": "vol_09_t8_rd",
+  "module": "reading",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "guest_fallback_message": "Detailed explanations are available for enrolled Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation_html": "<p><strong>Answer:</strong> NOT GIVEN</p><p><strong>Keyword trong c?u h?i:</strong> doctors work as volunteers</p><p><strong>Keyword/paraphrase trong b?i:</strong> non-profit organisation, no volunteer information</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "non-profit organisation, no volunteer information"
+        }
+      ]
+    },
+    "q2": {
+      "explanation_html": "<p><strong>Answer:</strong> FALSE</p><p><strong>Keyword trong c?u h?i:</strong> dentists make trips each month</p><p><strong>Keyword/paraphrase trong b?i:</strong> once every few months or once per year</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "once every few months or once per year"
+        }
+      ]
+    },
+    "q3": {
+      "explanation_html": "<p><strong>Answer:</strong> NOT GIVEN</p><p><strong>Keyword trong c?u h?i:</strong> accompanied by dental nurse</p><p><strong>Keyword/paraphrase trong b?i:</strong> no information</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "no information"
+        }
+      ]
+    },
+    "q4": {
+      "explanation_html": "<p><strong>Answer:</strong> TRUE</p><p><strong>Keyword trong c?u h?i:</strong> wide range services</p><p><strong>Keyword/paraphrase trong b?i:</strong> all-rounders; all kinds of dental procedures</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "all-rounders; all kinds of dental procedures"
+        }
+      ]
+    },
+    "q5": {
+      "explanation_html": "<p><strong>Answer:</strong> FALSE</p><p><strong>Keyword trong c?u h?i:</strong> rural more informed</p><p><strong>Keyword/paraphrase trong b?i:</strong> receive less education than city counterparts</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "receive less education than city counterparts"
+        }
+      ]
+    },
+    "q6": {
+      "explanation_html": "<p><strong>Answer:</strong> FALSE</p><p><strong>Keyword trong c?u h?i:</strong> eating habits</p><p><strong>Keyword/paraphrase trong b?i:</strong> educate on oral hygiene, brushing and flossing</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "educate on oral hygiene, brushing and flossing"
+        }
+      ]
+    },
+    "q7": {
+      "explanation_html": "<p><strong>Answer:</strong> TRUE</p><p><strong>Keyword trong c?u h?i:</strong> urban better teeth, water treated</p><p><strong>Keyword/paraphrase trong b?i:</strong> fluoridated water; lower tooth decay</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "fluoridated water; lower tooth decay"
+        }
+      ]
+    },
+    "q8": {
+      "explanation_html": "<p><strong>Answer:</strong> computers</p><p><strong>Keyword trong c?u h?i:</strong> records</p><p><strong>Keyword/paraphrase trong b?i:</strong> keeping track of patients&#x27; treatments</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "keeping track of patients' treatments"
+        }
+      ]
+    },
+    "q9": {
+      "explanation_html": "<p><strong>Answer:</strong> space</p><p><strong>Keyword trong c?u h?i:</strong> aircraft restriction</p><p><strong>Keyword/paraphrase trong b?i:</strong> small planes have limited space</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "small planes have limited space"
+        }
+      ]
+    },
+    "q10": {
+      "explanation_html": "<p><strong>Answer:</strong> dentures</p><p><strong>Keyword trong c?u h?i:</strong> difficult service</p><p><strong>Keyword/paraphrase trong b?i:</strong> dentures very difficult to provide</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "dentures very difficult to provide"
+        }
+      ]
+    },
+    "q11": {
+      "explanation_html": "<p><strong>Answer:</strong> toothpaste</p><p><strong>Keyword trong c?u h?i:</strong> supplied if necessary</p><p><strong>Keyword/paraphrase trong b?i:</strong> toothpaste and toothbrushes</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "toothpaste and toothbrushes"
+        }
+      ]
+    },
+    "q12": {
+      "explanation_html": "<p><strong>Answer:</strong> toothbrushes</p><p><strong>Keyword trong c?u h?i:</strong> supplied if necessary</p><p><strong>Keyword/paraphrase trong b?i:</strong> toothpaste and toothbrushes</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "toothpaste and toothbrushes"
+        }
+      ]
+    },
+    "q13": {
+      "explanation_html": "<p><strong>Answer:</strong> mouthguards</p><p><strong>Keyword trong c?u h?i:</strong> sports field protection</p><p><strong>Keyword/paraphrase trong b?i:</strong> provides mouthguards for young sports players</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "provides mouthguards for young sports players"
+        }
+      ]
+    },
+    "q14": {
+      "explanation_html": "<p><strong>Answer:</strong> vii</p><p><strong>Keyword trong c?u h?i:</strong> well-being and attitudes</p><p><strong>Keyword/paraphrase trong b?i:</strong> self-confidence, motivation, social consciousness</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "self-confidence, motivation, social consciousness"
+        }
+      ]
+    },
+    "q15": {
+      "explanation_html": "<p><strong>Answer:</strong> viii</p><p><strong>Keyword trong c?u h?i:</strong> safer and more vital communities</p><p><strong>Keyword/paraphrase trong b?i:</strong> livable; tourism; reducing delinquency</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "livable; tourism; reducing delinquency"
+        }
+      ]
+    },
+    "q16": {
+      "explanation_html": "<p><strong>Answer:</strong> iv</p><p><strong>Keyword trong c?u h?i:</strong> accessible to public</p><p><strong>Keyword/paraphrase trong b?i:</strong> public art in everyday life and public spaces</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "public art in everyday life and public spaces"
+        }
+      ]
+    },
+    "q17": {
+      "explanation_html": "<p><strong>Answer:</strong> v</p><p><strong>Keyword trong c?u h?i:</strong> model, lack of participation</p><p><strong>Keyword/paraphrase trong b?i:</strong> RAND Behavior Model</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "RAND Behavior Model"
+        }
+      ]
+    },
+    "q18": {
+      "explanation_html": "<p><strong>Answer:</strong> i</p><p><strong>Keyword trong c?u h?i:</strong> interpreting research participants</p><p><strong>Keyword/paraphrase trong b?i:</strong> disinclined, inclined, current participants</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "disinclined, inclined, current participants"
+        }
+      ]
+    },
+    "q19": {
+      "explanation_html": "<p><strong>Answer:</strong> iii</p><p><strong>Keyword trong c?u h?i:</strong> kids involved</p><p><strong>Keyword/paraphrase trong b?i:</strong> Boys and Girls Clubs programs</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Boys and Girls Clubs programs"
+        }
+      ]
+    },
+    "q20": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> juvenile crime</p><p><strong>Keyword/paraphrase trong b?i:</strong> Spector 2000, delinquent behavior/truancy</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Spector 2000, delinquent behavior/truancy"
+        }
+      ]
+    },
+    "q21": {
+      "explanation_html": "<p><strong>Answer:</strong> D</p><p><strong>Keyword trong c?u h?i:</strong> money and visitors</p><p><strong>Keyword/paraphrase trong b?i:</strong> Hughes, tourism and revenue</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Hughes, tourism and revenue"
+        }
+      ]
+    },
+    "q22": {
+      "explanation_html": "<p><strong>Answer:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> businesses drawn</p><p><strong>Keyword/paraphrase trong b?i:</strong> Riley, attractive to businesses</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Riley, attractive to businesses"
+        }
+      ]
+    },
+    "q23": {
+      "explanation_html": "<p><strong>Answer:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> energize and calm</p><p><strong>Keyword/paraphrase trong b?i:</strong> Oliphant, stimulation and relaxation</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Oliphant, stimulation and relaxation"
+        }
+      ]
+    },
+    "q24": {
+      "explanation_html": "<p><strong>Answer:</strong> attire</p><p><strong>Keyword trong c?u h?i:</strong> suitable clothing</p><p><strong>Keyword/paraphrase trong b?i:</strong> proper attire</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "proper attire"
+        }
+      ]
+    },
+    "q25": {
+      "explanation_html": "<p><strong>Answer:</strong> rates</p><p><strong>Keyword trong c?u h?i:</strong> childhood/adult correlation</p><p><strong>Keyword/paraphrase trong b?i:</strong> participation rates</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "participation rates"
+        }
+      ]
+    },
+    "q26": {
+      "explanation_html": "<p><strong>Answer:</strong> recognition</p><p><strong>Keyword trong c?u h?i:</strong> artistic achievements</p><p><strong>Keyword/paraphrase trong b?i:</strong> receive artistic recognition</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "receive artistic recognition"
+        }
+      ]
+    },
+    "q27": {
+      "explanation_html": "<p><strong>Answer:</strong> NO</p><p><strong>Keyword trong c?u h?i:</strong> narrow interpretation</p><p><strong>Keyword/paraphrase trong b?i:</strong> flexible, wide-ranging notion of landscape</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "flexible, wide-ranging notion of landscape"
+        }
+      ]
+    },
+    "q28": {
+      "explanation_html": "<p><strong>Answer:</strong> NOT GIVEN</p><p><strong>Keyword trong c?u h?i:</strong> Academy rejected Australian suggestions</p><p><strong>Keyword/paraphrase trong b?i:</strong> no information</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "no information"
+        }
+      ]
+    },
+    "q29": {
+      "explanation_html": "<p><strong>Answer:</strong> YES</p><p><strong>Keyword trong c?u h?i:</strong> colonial relationship, English tradition</p><p><strong>Keyword/paraphrase trong b?i:</strong> inevitable, reflect Britain&#x27;s devotion to landscape</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "inevitable, reflect Britain's devotion to landscape"
+        }
+      ]
+    },
+    "q30": {
+      "explanation_html": "<p><strong>Answer:</strong> YES</p><p><strong>Keyword trong c?u h?i:</strong> Australian art, own qualities</p><p><strong>Keyword/paraphrase trong b?i:</strong> develops a real distinctiveness</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "develops a real distinctiveness"
+        }
+      ]
+    },
+    "q31": {
+      "explanation_html": "<p><strong>Answer:</strong> NO</p><p><strong>Keyword trong c?u h?i:</strong> contemporary artists rejected British tradition</p><p><strong>Keyword/paraphrase trong b?i:</strong> British landscape still relevant</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "British landscape still relevant"
+        }
+      ]
+    },
+    "q32": {
+      "explanation_html": "<p><strong>Answer:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> main point paragraph 2</p><p><strong>Keyword/paraphrase trong b?i:</strong> British artistic values directed exhibition</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "British artistic values directed exhibition"
+        }
+      ]
+    },
+    "q33": {
+      "explanation_html": "<p><strong>Answer:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> Mendelssohn surprised</p><p><strong>Keyword/paraphrase trong b?i:</strong> selection rules conservative</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "selection rules conservative"
+        }
+      ]
+    },
+    "q34": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> Gladwell included</p><p><strong>Keyword/paraphrase trong b?i:</strong> landscape tradition made personal</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "landscape tradition made personal"
+        }
+      ]
+    },
+    "q35": {
+      "explanation_html": "<p><strong>Answer:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> Aboriginal art</p><p><strong>Keyword/paraphrase trong b?i:</strong> part of Australian art history</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "part of Australian art history"
+        }
+      ]
+    },
+    "q36": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> China reference</p><p><strong>Keyword/paraphrase trong b?i:</strong> London less important now</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "London less important now"
+        }
+      ]
+    },
+    "q37": {
+      "explanation_html": "<p><strong>Answer:</strong> F</p><p><strong>Keyword trong c?u h?i:</strong> in spite conservatism</p><p><strong>Keyword/paraphrase trong b?i:</strong> embracing peculiarities of Australian art</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "embracing peculiarities of Australian art"
+        }
+      ]
+    },
+    "q38": {
+      "explanation_html": "<p><strong>Answer:</strong> E</p><p><strong>Keyword trong c?u h?i:</strong> early to mid-1800s</p><p><strong>Keyword/paraphrase trong b?i:</strong> English, French, German influence</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "English, French, German influence"
+        }
+      ]
+    },
+    "q39": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> Gladwell modern work</p><p><strong>Keyword/paraphrase trong b?i:</strong> atmosphere affecting vision</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "atmosphere affecting vision"
+        }
+      ]
+    },
+    "q40": {
+      "explanation_html": "<p><strong>Answer:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> including Aboriginal art</p><p><strong>Keyword/paraphrase trong b?i:</strong> art started in and on the landscape</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "art started in and on the landscape"
+        }
+      ]
+    }
+  }
+}

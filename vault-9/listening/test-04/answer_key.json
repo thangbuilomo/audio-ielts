@@ -1,0 +1,223 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "test_id": "vol_09_t4_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit"
+  },
+  "scoring": {
+    "raw_score_max": 40,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "July 18th",
+        "18 July"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "Q1632"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "photographs"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "Poskitt"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "Way"
+      ]
+    },
+    "q6": {
+      "answers": [
+        "engineer"
+      ]
+    },
+    "q7": {
+      "answers": [
+        "fish"
+      ]
+    },
+    "q8": {
+      "answers": [
+        "blues"
+      ]
+    },
+    "q9": {
+      "answers": [
+        "magazine"
+      ]
+    },
+    "q10": {
+      "answers": [
+        "parking"
+      ]
+    },
+    "q11": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q12": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q13": {
+      "answers": [
+        "F"
+      ]
+    },
+    "q14": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q15": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q16": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q17": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q18": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q19": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q20": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q21": {
+      "answers": [
+        "professional learning"
+      ]
+    },
+    "q22": {
+      "answers": [
+        "team"
+      ]
+    },
+    "q23": {
+      "answers": [
+        "presenting results"
+      ]
+    },
+    "q24": {
+      "answers": [
+        "behaviour"
+      ]
+    },
+    "q25": {
+      "answers": [
+        "diary"
+      ]
+    },
+    "q26": {
+      "answers": [
+        "video recording"
+      ]
+    },
+    "q27": {
+      "answers": [
+        "simulation"
+      ]
+    },
+    "q28": {
+      "answers": [
+        "test results"
+      ]
+    },
+    "q29": {
+      "answers": [
+        "internet"
+      ]
+    },
+    "q30": {
+      "answers": [
+        "interviews"
+      ]
+    },
+    "q31": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q33": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q34": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q36": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q37": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q38": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q39": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q40": {
+      "answers": [
+        "C"
+      ]
+    }
+  }
+}

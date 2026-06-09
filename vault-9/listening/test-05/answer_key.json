@@ -1,0 +1,243 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "test_id": "vol_09_t5_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit"
+  },
+  "scoring": {
+    "raw_score_max": 40,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "lab"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "spoon"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "grade"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "name"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "5 years",
+        "five years"
+      ]
+    },
+    "q6": {
+      "answers": [
+        "science"
+      ]
+    },
+    "q7": {
+      "answers": [
+        "maths"
+      ]
+    },
+    "q8": {
+      "answers": [
+        "tea"
+      ]
+    },
+    "q9": {
+      "answers": [
+        "communication"
+      ]
+    },
+    "q10": {
+      "answers": [
+        "travel"
+      ]
+    },
+    "q11": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q12": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q13": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q14": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q15": {
+      "answers": [
+        "I"
+      ]
+    },
+    "q16": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q17": {
+      "answers": [
+        "H"
+      ]
+    },
+    "q18": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q19": {
+      "answers": [
+        "F"
+      ]
+    },
+    "q20": {
+      "answers": [
+        "J"
+      ]
+    },
+    "q21": {
+      "answer_group_id": "ls_q21_22"
+    },
+    "q22": {
+      "answer_group_id": "ls_q21_22"
+    },
+    "q23": {
+      "answer_group_id": "ls_q23_24"
+    },
+    "q24": {
+      "answer_group_id": "ls_q23_24"
+    },
+    "q25": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q26": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q27": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q28": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q29": {
+      "answers": [
+        "H"
+      ]
+    },
+    "q30": {
+      "answers": [
+        "G"
+      ]
+    },
+    "q31": {
+      "answers": [
+        "surface"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "bones"
+      ]
+    },
+    "q33": {
+      "answers": [
+        "shore"
+      ]
+    },
+    "q34": {
+      "answers": [
+        "fin"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "drone"
+      ]
+    },
+    "q36": {
+      "answers": [
+        "carbon"
+      ]
+    },
+    "q37": {
+      "answers": [
+        "dive"
+      ]
+    },
+    "q38": {
+      "answers": [
+        "school"
+      ]
+    },
+    "q39": {
+      "answers": [
+        "injuries"
+      ]
+    },
+    "q40": {
+      "answers": [
+        "bubbles"
+      ]
+    }
+  },
+  "answer_groups": {
+    "ls_q21_22": {
+      "question_ids": [
+        "q21",
+        "q22"
+      ],
+      "answers": [
+        "B",
+        "E"
+      ],
+      "order_matters": false,
+      "allow_duplicate": false,
+      "score_each_question": true
+    },
+    "ls_q23_24": {
+      "question_ids": [
+        "q23",
+        "q24"
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "order_matters": false,
+      "allow_duplicate": false,
+      "score_each_question": true
+    }
+  }
+}

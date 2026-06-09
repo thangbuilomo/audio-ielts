@@ -1,0 +1,52 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "test_id": "vol_09_t8_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "source_content_ref": "03_listening_content.public.json",
+  "audio_ref": "https://raw.githubusercontent.com/thangbuilomo/audio-ielts/main/vol_09_t8_ls.mp3",
+  "rendering": {
+    "layout_target": "left_pane",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Part 1",
+      "source_section_label": "Section 1",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">Ridyard. [Q1]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">It's 27 Station Road. [Q2]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">The 25th of February, 1975. [Q3]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Lower. [Q4]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">No, I've had it, let's see, since Monday, so that's three days now. [Q5]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Then this afternoon, the pain suddenly got so bad that I went to bed. [Q6]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Well, I was tidying up my office, and I lifted a box up from the floor that was heavier than I thought, and I think that's what did it. [Q7]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">And have you taken any painkillers? [Q8]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">I've got a problem with my back, and with it being the middle of the night, I can't go to the doctor, and I wondered if you could give me some advice. [Q9]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">And you might get some advice from her about exercise. [Q10]</span></p>"
+    },
+    {
+      "part_id": "l2",
+      "part_number": 2,
+      "title": "Part 2",
+      "source_section_label": "Section 2",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">Well, to the right of the hall and opposite the kitchen is the new barbecue area and it's right next to that overlooking Forts Road. [Q11]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">For the Early Maori Inhabitation section, we have to look at the material we've used again and make sure we know who the writers were and when they wrote it. [Q12]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Actually, what we do need in the backpacks are bags for cleaning up and for wet clothing, so plastic ones please. [Q13]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Cell phones are permitted, but they must be switched off at night and also off during the teaching sessions. [Q14]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">You will hear a principal of a school talking to a group of parents about a three-day trip for pupils to an outdoor education centre. [Q15, Q16]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">You will see that there is an example that has been done for you. [Q17, Q18, Q19, Q20]</span></p>"
+    },
+    {
+      "part_id": "l3",
+      "part_number": 3,
+      "title": "Part 3",
+      "source_section_label": "Section 3",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">It's been used by both Maori and European settlers as a place to shelter from attack or launch an attack, for centuries. [Q21]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Actually, I also read that Maori regard Stone Point as taonga. [Q22]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">That's often the best way of dealing with this sort of problem. [Q23]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Please provide a packet of biscuits or maybe fruit bars. [Q24, Q27]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Now I just need to take details of your doctor. [Q25]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Yeah, I guess, if we can find some first-hand accounts. [Q26]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">So I'll deal with the section regarding the modernisation that happened in the 1930s and 40s. [Q28]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">The first thing I found out about Stone Point is it's an extinct volcanic cone. [Q29]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">You now have half a minute to check your answers. [Q30]</span></p>"
+    },
+    {
+      "part_id": "l4",
+      "part_number": 4,
+      "title": "Part 4",
+      "source_section_label": "Section 4",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">As a result, many Berbers left their settlements to lead a nomadic life by wandering with their animals through the deserts and across the different mountains. [Q31]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">They are called seasonal nomads. [Q32]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">A third group settled by the oases and grew fruit and vegetables like dates and eggplants as well as making olive oil which they used for cooking. [Q33]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">So the Berbers relied more and more on camels for transporting their families and their goods. [Q34]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">As you might expect though, the life of a settled community was governed by the men who met regularly in the village square to discuss affairs and make decisions. [Q35]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">If the skins weren't available, they wove mats made of grass or palm leaves and hung them over a frame so that the tent looked like a humped dome. [Q36]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Tuareg society was traditionally very feudal and organised as a strict hierarchy ranging from nobles or aristocrats downwards to labourers whose ancestors had once been slaves. [Q37]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Tuareg men were sometimes called blue men as all adult males wore a dark blue veil in the presence of women, strangers and in-laws. [Q38]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Those whose animals were fortunate enough to survive have moved away from the southern Sahara into Burkina Faso in order to find new grazing lands for their herds. [Q39]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">The tourism department of the Mali government employs some Tuaregs who act as guides. [Q40]</span></p>"
+    }
+  ]
+}

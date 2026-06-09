@@ -1,0 +1,667 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "test_id": "vol_09_t5_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "guest_fallback_message": "Detailed explanations are available for enrolled Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation_html": "<p><strong>Đáp án: lab</strong></p><p>Đề hỏi trainee tea taster chủ yếu làm việc ở đâu trong quá trình training. Câu nghe quyết định: \"even though there's some time spent in meetings at our office, a trainee is based in our lab for most of their time\". Cụm <strong>for most of their time</strong> khớp với <strong>mainly works</strong>, nên điền <strong>lab</strong>.</p><p>Bẫy là <strong>office</strong> cũng được nhắc tới, nhưng chỉ là \"some time spent in meetings\", không phải nơi làm việc chính.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "even though there's some time spent in meetings at our office, a trainee is based in our lab for most of their time"
+        },
+        {
+          "audio_ref": "l1",
+          "text": "some time spent in meetings"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q2": {
+      "explanation_html": "<p><strong>Đáp án: spoon</strong></p><p>Đề hỏi học cách taste tea bằng dụng cụ gì. Người hỏi đoán \"a special kind of cup\"; người trả lời phủ định: \"No, rather than that or even a glass ... we sip it from a spoon.\" Vì vậy đáp án là <strong>spoon</strong>.</p><p>Bẫy: <strong>cup</strong> và <strong>glass</strong> đều xuất hiện trước đáp án, nhưng đều bị loại bởi \"rather than that or even a glass\".</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "a special kind of cup"
+        },
+        {
+          "audio_ref": "l1",
+          "text": "No, rather than that or even a glass ... we sip it from a spoon."
+        },
+        {
+          "audio_ref": "l1",
+          "text": "rather than that or even a glass"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q3": {
+      "explanation_html": "<p><strong>Đáp án: grade</strong></p><p>Đề: \"give a ___ to samples of tea according to their quality\". Transcript: \"learn how to decide which grade should be assigned to each sample.\" <strong>assigned to each sample</strong> chính là \"give ... to samples\", nên đáp án là <strong>grade</strong>.</p><p>Cần nghe danh từ sau \"which\"; không điền <strong>quality</strong> vì quality là tiêu chí đánh giá, không phải thứ được gán cho sample.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "give a ___ to samples of tea according to their quality"
+        },
+        {
+          "audio_ref": "l1",
+          "text": "learn how to decide which grade should be assigned to each sample."
+        },
+        {
+          "audio_ref": "l1",
+          "text": "give ... to samples"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q4": {
+      "explanation_html": "<p><strong>Đáp án: name</strong></p><p>Đề hỏi trainee phải nhớ gì của các loại tea. Người hỏi nói: \"So do all of the teas have their own name?\" và người trả lời xác nhận: \"Yes, that's another important part of the training. It took me ages before I remembered them all.\" Vậy thứ phải nhớ là <strong>name</strong>.</p><p>Bẫy là \"different kinds of tea\" trong đề; thông tin cần điền là tên riêng của chúng, không phải bản thân \"tea\".</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "So do all of the teas have their own name?"
+        },
+        {
+          "audio_ref": "l1",
+          "text": "Yes, that's another important part of the training. It took me ages before I remembered them all."
+        },
+        {
+          "audio_ref": "l1",
+          "text": "different kinds of tea"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q5": {
+      "explanation_html": "<p><strong>Đáp án: 5 years / five years</strong></p><p>Đề hỏi sau bao lâu mới qualify. Người hỏi đưa bẫy: \"I heard it was seven years\"; người trả lời sửa: \"it used to be, but ... now it only takes five.\" Vì câu hỏi đã có \"after ___ of training\", đáp án đầy đủ có thể là <strong>5 years</strong> hoặc <strong>five years</strong>.</p><p>Bẫy: <strong>seven years</strong> là thời gian cũ, không còn đúng. Cụm \"two years less than before\" chỉ giải thích thêm, không phải đáp án.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "I heard it was seven years"
+        },
+        {
+          "audio_ref": "l1",
+          "text": "it used to be, but ... now it only takes five."
+        },
+        {
+          "audio_ref": "l1",
+          "text": "after ___ of training"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q6": {
+      "explanation_html": "<p><strong>Đáp án: science</strong></p><p>Đề: \"a degree (___ is an advantage)\". Transcript: \"it doesn't have to be a science degree, even though that's a definite bonus.\" <strong>bonus</strong> paraphrase cho <strong>advantage</strong>, nên đáp án là <strong>science</strong>.</p><p>Bẫy: người nói có degree ngành history, người hỏi học languages; cả hai đều được nhắc để nói degree nào cũng được, không phải đáp án.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "a degree (___ is an advantage)"
+        },
+        {
+          "audio_ref": "l1",
+          "text": "it doesn't have to be a science degree, even though that's a definite bonus."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q7": {
+      "explanation_html": "<p><strong>Đáp án: maths</strong></p><p>Đề: \"able to do ___ quickly\". Transcript: \"you need to be able to do maths and do it fast.\" <strong>fast</strong> = <strong>quickly</strong>, nên đáp án là <strong>maths</strong>.</p><p>Không điền \"price\" dù ngay sau đó nói công việc liên quan tới price of tea; price là lý do cần maths.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "able to do ___ quickly"
+        },
+        {
+          "audio_ref": "l1",
+          "text": "you need to be able to do maths and do it fast."
+        },
+        {
+          "audio_ref": "l1",
+          "text": "price"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q8": {
+      "explanation_html": "<p><strong>Đáp án: tea</strong></p><p>Đề hỏi khả năng phân biệt chính xác các loại gì. Transcript nói ứng viên sẽ được kiểm tra thị lực vì \"you have to see colour accurately. It's very important when looking at tea leaves.\" Trong ngữ cảnh nghề tea taster, thứ cần phân biệt là các loại <strong>tea</strong> qua tea leaves.</p><p>Bẫy mạnh là <strong>colour</strong>: đây là yếu tố phải nhìn chính xác, nhưng chỗ trống trong đề là \"different kinds of ___\", nên theo key điền <strong>tea</strong>. Không điền \"leaves\" vì đề đang nói về kinds of tea, còn \"tea leaves\" chỉ là vật quan sát.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "you have to see colour accurately. It's very important when looking at tea leaves."
+        },
+        {
+          "audio_ref": "l1",
+          "text": "different kinds of ___"
+        },
+        {
+          "audio_ref": "l1",
+          "text": "leaves"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q9": {
+      "explanation_html": "<p><strong>Đáp án: communication</strong></p><p>Đề: \"effective ___ skills in different situations\". Người hỏi hỏi thẳng: \"how important is good communication?\" Người trả lời: \"Essential. You'll need to be highly skilled at that, as you'll meet such varied people...\" <strong>varied people</strong> khớp với different situations, nên đáp án là <strong>communication</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "effective ___ skills in different situations"
+        },
+        {
+          "audio_ref": "l1",
+          "text": "how important is good communication?"
+        },
+        {
+          "audio_ref": "l1",
+          "text": "Essential. You'll need to be highly skilled at that, as you'll meet such varied people..."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q10": {
+      "explanation_html": "<p><strong>Đáp án: travel</strong></p><p>Đề: \"being prepared to ___\". Transcript: \"there's no point doing this job if you don't like to travel. You'll be living out of a suitcase...\" Vậy đáp án là <strong>travel</strong>.</p><p>Bẫy: \"spending time abroad\" chỉ là ví dụ của việc travel, không phải từ cần điền.</p><h4>Section 2 - Pioneer Historical Village</h4>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "being prepared to ___"
+        },
+        {
+          "audio_ref": "l1",
+          "text": "there's no point doing this job if you don't like to travel. You'll be living out of a suitcase..."
+        },
+        {
+          "audio_ref": "l1",
+          "text": "spending time abroad"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q11": {
+      "explanation_html": "<p><strong>Đáp án: C - 1980</strong></p><p>Đề hỏi khi nào village mở cửa cho public. Transcript có ba mốc: năm 1962 một committee được thành lập; trong thập niên 1970 volunteers phục dựng và di chuyển buildings; \"In 1980 the village welcomed its first paying visitors.\" <strong>first paying visitors</strong> chính là mở cửa cho công chúng, nên chọn <strong>C</strong>.</p><p>A và B là bẫy mốc thời gian chuẩn bị, chưa phải opening.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "In 1980 the village welcomed its first paying visitors."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q12": {
+      "explanation_html": "<p><strong>Đáp án: A - $11.00</strong></p><p>Đề hỏi mỗi adult trong group trả bao nhiêu. Transcript: \"Since there are 10 of you ... you qualify for the group discount... the normal price ... $16 for adults ... but it'll only be $11 per person for all of you today.\" Vì group discount áp dụng cho cả nhóm, mỗi adult trả <strong>$11</strong>.</p><p>B $12.50 là giá student/senior bình thường. C $16 là giá adult bình thường, chưa giảm.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "Since there are 10 of you ... you qualify for the group discount... the normal price ... $16 for adults ... but it'll only be $11 per person for all of you today."
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q13": {
+      "explanation_html": "<p><strong>Đáp án: C - a traditional method of making sweets</strong></p><p>Transcript: \"an expert sweet maker ... making lollipops the old-fashioned way.\" <strong>lollipops</strong> là sweets; <strong>old-fashioned way</strong> = traditional method. Vì vậy chọn <strong>C</strong>.</p><p>A sai vì bread chỉ là hoạt động người tham quan tự làm ở bakery, \"no spectators please\", không phải demonstration để xem. B sai vì candle demonstration bị cancel.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "an expert sweet maker ... making lollipops the old-fashioned way."
+        },
+        {
+          "audio_ref": "l2",
+          "text": "no spectators please"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q14": {
+      "explanation_html": "<p><strong>Đáp án: A - gathering eggs</strong></p><p>Transcript: \"Chickens are everywhere... Every house kept a few for the eggs. You're welcome to have a look and see if you can find any to collect.\" <strong>collect eggs</strong> = gathering eggs.</p><p>B sai vì cows từng được nuôi nhưng đã khó quản lý do phải milk twice a day. C sai vì goats \"have moved to a nearby farm\", không còn ở đây để feed.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "Chickens are everywhere... Every house kept a few for the eggs. You're welcome to have a look and see if you can find any to collect."
+        },
+        {
+          "audio_ref": "l2",
+          "text": "have moved to a nearby farm"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q15": {
+      "explanation_html": "<p><strong>Đáp án: I - Schoolhouse</strong></p><p>Chỉ dẫn: từ main gate đi trực tiếp north sẽ tới church; schoolhouse \"is diagonally across from it.\" Trên map, vị trí chéo với church theo chỉ dẫn này là <strong>I</strong>.</p><p>Khi làm map, không chọn điểm chỉ vì \"not too far from the gate\"; phải chờ mốc đối chiếu chính là <strong>diagonally across from the church</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "is diagonally across from it."
+        },
+        {
+          "audio_ref": "l2",
+          "text": "not too far from the gate"
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q16": {
+      "explanation_html": "<p><strong>Đáp án: B - Mill</strong></p><p>Chỉ dẫn: \"go straight up from the main gate until you get to the clock tower. Turn right and it's on the other side of the road, across from the pond.\" Điểm bên phải đường và đối diện pond là <strong>B</strong>.</p><p>Bẫy là clock tower chỉ là mốc rẽ, không phải vị trí của mill.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "go straight up from the main gate until you get to the clock tower. Turn right and it's on the other side of the road, across from the pond."
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q17": {
+      "explanation_html": "<p><strong>Đáp án: H - Stables</strong></p><p>Transcript: stables là large building \"backing onto the car park\"; nếu đi west past the church, đó là \"the first building you come to.\" Trên map, building khớp hai điều kiện này là <strong>H</strong>.</p><p>Cần kết hợp cả hai mốc: sát car park và phía west của church.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "backing onto the car park"
+        },
+        {
+          "audio_ref": "l2",
+          "text": "the first building you come to."
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q18": {
+      "explanation_html": "<p><strong>Đáp án: E - Doctor's Office</strong></p><p>Chỉ dẫn: \"Look in the middle of your maps and it's in a block of three buildings that are all close together. It's one of them.\" Vị trí thuộc cụm ba building ở giữa map tương ứng <strong>E</strong>.</p><p>Đây là câu map dễ sai vì chỉ dẫn không dùng đường đi dài; cần nhìn đúng \"block of three buildings\".</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "Look in the middle of your maps and it's in a block of three buildings that are all close together. It's one of them."
+        },
+        {
+          "audio_ref": "l2",
+          "text": "block of three buildings"
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q19": {
+      "explanation_html": "<p><strong>Đáp án: F - Hotel</strong></p><p>Transcript: \"Go up past the picnic area and the hotel is on the opposite side of the path, near the pond.\" Vị trí đối diện path so với picnic area và gần pond là <strong>F</strong>.</p><p>Bẫy: pond cũng xuất hiện ở câu mill, nhưng hotel nằm gần pond theo hướng đi qua picnic area, không phải gần clock tower.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "Go up past the picnic area and the hotel is on the opposite side of the path, near the pond."
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q20": {
+      "explanation_html": "<p><strong>Đáp án: J - Workshop</strong></p><p>Chỉ dẫn: workshop \"is at the end of that narrow winding path just south of the picnic area ... at the eastern end of the village.\" Cuối đường hẹp uốn lượn, phía nam picnic area, bên phải/east của map là <strong>J</strong>.</p><p>Từ khóa quyết định là <strong>narrow winding path</strong> và <strong>eastern end</strong>.</p><h4>Section 3 - Hazardous Household Waste</h4>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "is at the end of that narrow winding path just south of the picnic area ... at the eastern end of the village."
+        }
+      ],
+      "skill_tags": [
+        "ls_label_map"
+      ]
+    },
+    "q21": {
+      "explanation_html": "<p><strong>Đáp án: B, E</strong></p><p>Đề hỏi hai điều Annie và Ryan đều thấy surprising về behaviour/attitudes. Thứ nhất: \"people don't get very enthusiastic about the subject of waste disposal... they find it all rather tiresome.\" <strong>tiresome</strong> khớp với việc họ nghĩ waste disposal <strong>boring</strong>, nên chọn <strong>E</strong>.</p><p>Thứ hai: \"many people are more careful when they're using certain hazardous materials than when they are getting rid of them. At that stage, they simply don't remember that they'll be bad for the environment.\" Đây là <strong>people often forget what is dangerous</strong>, chọn <strong>B</strong>.</p><p>A sai vì không nói people thích được reminded. C sai vì không có ý sẵn sàng trả nhiều hơn cho safer products. D sai vì transcript nói người ta nhận thức về careful disposal \"even the smallest, cheapest things\", không phải cheap items được recycle ít hơn expensive ones.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "people don't get very enthusiastic about the subject of waste disposal... they find it all rather tiresome."
+        },
+        {
+          "audio_ref": "l3",
+          "text": "many people are more careful when they're using certain hazardous materials than when they are getting rid of them. At that stage, they simply don't remember that they'll be bad for the environment."
+        },
+        {
+          "audio_ref": "l3",
+          "text": "even the smallest, cheapest things"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q22": {
+      "explanation_html": "<p><strong>Đáp án: B, E</strong></p><p>Đề hỏi hai điều Annie và Ryan đều thấy surprising về behaviour/attitudes. Thứ nhất: \"people don't get very enthusiastic about the subject of waste disposal... they find it all rather tiresome.\" <strong>tiresome</strong> khớp với việc họ nghĩ waste disposal <strong>boring</strong>, nên chọn <strong>E</strong>.</p><p>Thứ hai: \"many people are more careful when they're using certain hazardous materials than when they are getting rid of them. At that stage, they simply don't remember that they'll be bad for the environment.\" Đây là <strong>people often forget what is dangerous</strong>, chọn <strong>B</strong>.</p><p>A sai vì không nói people thích được reminded. C sai vì không có ý sẵn sàng trả nhiều hơn cho safer products. D sai vì transcript nói người ta nhận thức về careful disposal \"even the smallest, cheapest things\", không phải cheap items được recycle ít hơn expensive ones.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "people don't get very enthusiastic about the subject of waste disposal... they find it all rather tiresome."
+        },
+        {
+          "audio_ref": "l3",
+          "text": "many people are more careful when they're using certain hazardous materials than when they are getting rid of them. At that stage, they simply don't remember that they'll be bad for the environment."
+        },
+        {
+          "audio_ref": "l3",
+          "text": "even the smallest, cheapest things"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q23": {
+      "explanation_html": "<p><strong>Đáp án: B, C</strong></p><p>Đề hỏi hai cách Annie nghĩ sẽ cải thiện recycling rates ở local area. Annie nói: \"I think financial penalties are a good idea... impose a penalty on homes if they don't recycle stuff.\" Đây là <strong>fine to households which don't recycle</strong>, chọn <strong>B</strong>.</p><p>Annie cũng nói: \"getting the local community involved, such as schools, working with kids. That way you establish good habits...\" Đây là <strong>involving children in more schemes</strong>, chọn <strong>C</strong>.</p><p>A sai vì Annie nói phạt, không phải thưởng. D là ý của Ryan về legislation forcing local councils, và hai bạn \"agree to differ\", không phải Annie đồng ý. E không được đề xuất như giải pháp.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "I think financial penalties are a good idea... impose a penalty on homes if they don't recycle stuff."
+        },
+        {
+          "audio_ref": "l3",
+          "text": "getting the local community involved, such as schools, working with kids. That way you establish good habits..."
+        },
+        {
+          "audio_ref": "l3",
+          "text": "agree to differ"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q24": {
+      "explanation_html": "<p><strong>Đáp án: B, C</strong></p><p>Đề hỏi hai cách Annie nghĩ sẽ cải thiện recycling rates ở local area. Annie nói: \"I think financial penalties are a good idea... impose a penalty on homes if they don't recycle stuff.\" Đây là <strong>fine to households which don't recycle</strong>, chọn <strong>B</strong>.</p><p>Annie cũng nói: \"getting the local community involved, such as schools, working with kids. That way you establish good habits...\" Đây là <strong>involving children in more schemes</strong>, chọn <strong>C</strong>.</p><p>A sai vì Annie nói phạt, không phải thưởng. D là ý của Ryan về legislation forcing local councils, và hai bạn \"agree to differ\", không phải Annie đồng ý. E không được đề xuất như giải pháp.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "I think financial penalties are a good idea... impose a penalty on homes if they don't recycle stuff."
+        },
+        {
+          "audio_ref": "l3",
+          "text": "getting the local community involved, such as schools, working with kids. That way you establish good habits..."
+        },
+        {
+          "audio_ref": "l3",
+          "text": "agree to differ"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q25": {
+      "explanation_html": "<p><strong>Đáp án: E - should be made available for others' use</strong></p><p>Với paint, họ khuyên lập schemes để \"take it to a centre to be used by people who need it, repainting an elderly person's home, for example.\" Tức là sơn còn dùng được nên đưa cho người khác sử dụng.</p><p>Không chọn C vì không nói phải dùng hết paint; trọng tâm là tái phân phối cho người cần.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "take it to a centre to be used by people who need it, repainting an elderly person's home, for example."
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q26": {
+      "explanation_html": "<p><strong>Đáp án: D - should be saved for later disposal</strong></p><p>Với batteries, transcript: \"people should have a storage container at home where they can put them until they've got enough to take to a central collection facility.\" Nghĩa là giữ lại/lưu trữ tạm thời rồi mới đem đi disposal tập trung.</p><p>Bẫy: \"full of toxic substances\" giải thích vì sao cần xử lý cẩn thận, không phải đáp án.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "people should have a storage container at home where they can put them until they've got enough to take to a central collection facility."
+        },
+        {
+          "audio_ref": "l3",
+          "text": "full of toxic substances"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q27": {
+      "explanation_html": "<p><strong>Đáp án: C - should normally be used up completely</strong></p><p>Với medicines, ví dụ antibiotics: doctors usually tell us \"we should finish off the whole course of tablets. So there aren't any left to go for waste.\" <strong>finish off the whole course</strong> = dùng hết hoàn toàn.</p><p>Không chọn D vì không khuyên giữ thuốc lại để xử lý sau; khuyên đúng liều để không còn thuốc thừa.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "we should finish off the whole course of tablets. So there aren't any left to go for waste."
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q28": {
+      "explanation_html": "<p><strong>Đáp án: B - should have better labelling</strong></p><p>Với pesticides: \"people are often unsure what to do with them. And there needs to be clearer information given on the packaging.\" <strong>clearer information on packaging</strong> chính là better labelling.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "people are often unsure what to do with them. And there needs to be clearer information given on the packaging."
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q29": {
+      "explanation_html": "<p><strong>Đáp án: H - should be retained and used for different purposes</strong></p><p>Với tyres: thay vì gửi tới dump, \"people should be encouraged to be creative with them... make them into things like plant holders for your garden.\" Giữ lại và dùng cho mục đích khác = <strong>H</strong>.</p><p>Không chọn E vì không phải đưa cho người khác dùng; cũng không chọn G vì không nói làm tyres bớt harmful.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "people should be encouraged to be creative with them... make them into things like plant holders for your garden."
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q30": {
+      "explanation_html": "<p><strong>Đáp án: G - should be further modified to be made less harmful</strong></p><p>Với fridges, họ nói đây là \"a good news story\" vì hiện nay có khả năng dùng \"less dangerous materials\" và nên tiếp tục tận dụng khả năng đó \"to reduce effects on the ozone layer.\" Tức là cải tiến vật liệu/cấu tạo để ít gây hại hơn.</p><p>Bẫy: đây không phải sửa fridges cũ thay vì vứt đi; trọng tâm là modified materials.</p><h4>Section 4 - Whale Shark Conservation Field Trip</h4>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "a good news story"
+        },
+        {
+          "audio_ref": "l3",
+          "text": "less dangerous materials"
+        },
+        {
+          "audio_ref": "l3",
+          "text": "to reduce effects on the ozone layer."
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q31": {
+      "explanation_html": "<p><strong>Đáp án: surface</strong></p><p>Đề hỏi điểm khác với whales: whale sharks stay near the ___. Transcript: \"they prefer to swim close to the surface of the water rather than cruising the depths of the ocean.\" <strong>close to the surface</strong> = near the surface.</p><p>Bẫy: \"depths of the ocean\" là điều chúng không làm.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "they prefer to swim close to the surface of the water rather than cruising the depths of the ocean."
+        },
+        {
+          "audio_ref": "l4",
+          "text": "depths of the ocean"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q32": {
+      "explanation_html": "<p><strong>Đáp án: bones</strong></p><p>Transcript: \"Their skeleton is made entirely of cartilage, in comparison to whales that have skeletons made of real bones.\" Đề nói \"lack any actual ___\", tức chúng thiếu xương thật, nên điền <strong>bones</strong>.</p><p>Không điền <strong>cartilage</strong> vì whale sharks có cartilage; thứ chúng thiếu là bones.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "Their skeleton is made entirely of cartilage, in comparison to whales that have skeletons made of real bones."
+        },
+        {
+          "audio_ref": "l4",
+          "text": "lack any actual ___"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q33": {
+      "explanation_html": "<p><strong>Đáp án: shore</strong></p><p>Đề: coral reef unusually close to the ___. Transcript: \"the reef is in close proximity to the shore, unlike some reefs that you have to travel miles to get to.\" <strong>close proximity</strong> = unusually close, đáp án <strong>shore</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "the reef is in close proximity to the shore, unlike some reefs that you have to travel miles to get to."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q34": {
+      "explanation_html": "<p><strong>Đáp án: fin</strong></p><p>Đề hỏi tracking devices attached to whale shark's ___. Transcript: \"researchers have to attach [the tag] manually to the fin.\" Đáp án là <strong>fin</strong>.</p><p>Bẫy: \"tag/tracking device\" là thiết bị, còn chỗ trống hỏi bộ phận gắn vào.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "researchers have to attach [the tag] manually to the fin."
+        },
+        {
+          "audio_ref": "l4",
+          "text": "tag/tracking device"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q35": {
+      "explanation_html": "<p><strong>Đáp án: drone</strong></p><p>Transcript: \"Another way of monitoring whale sharks is with a special drone to spot the animals in the ocean. This can give you a rough idea of numbers...\" <strong>rough idea</strong> giải thích vì sao imprecise; phương tiện là <strong>drone</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "Another way of monitoring whale sharks is with a special drone to spot the animals in the ocean. This can give you a rough idea of numbers..."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q36": {
+      "explanation_html": "<p><strong>Đáp án: carbon</strong></p><p>Đề: plankton shows different amounts of ___ varieties. Transcript: \"plankton from different places contains different quantities of carbon types.\" <strong>different quantities</strong> = different amounts; <strong>types</strong> = varieties. Đáp án là <strong>carbon</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "plankton from different places contains different quantities of carbon types."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q37": {
+      "explanation_html": "<p><strong>Đáp án: dive</strong></p><p>Đề hỏi noise caused whale sharks to ___. Transcript: \"As soon as it heard the sound, we saw it dive.\" Hành động sau noise là <strong>dive</strong>.</p><p>Không điền \"sound/noise\" vì đó là nguyên nhân, không phải phản ứng.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "As soon as it heard the sound, we saw it dive."
+        },
+        {
+          "audio_ref": "l4",
+          "text": "sound/noise"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q38": {
+      "explanation_html": "<p><strong>Đáp án: school</strong></p><p>Đề: mature whale is tagged and assigned to a ___ to follow. Transcript: \"The researchers select a mature whale shark which has been tagged and they allocate it to a school.\" <strong>allocate</strong> = assign, nên đáp án là <strong>school</strong>.</p><p>Bẫy: children theo dõi con cá, nhưng nó được assigned to a school, không phải to children.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "The researchers select a mature whale shark which has been tagged and they allocate it to a school."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q39": {
+      "explanation_html": "<p><strong>Đáp án: injuries</strong></p><p>Đề: record any ___ to whale sharks. Transcript: \"all injuries which whale sharks suffer must be documented...\" <strong>documented</strong> = recorded. Đáp án là <strong>injuries</strong>.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "all injuries which whale sharks suffer must be documented..."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q40": {
+      "explanation_html": "<p><strong>Đáp án: bubbles</strong></p><p>Đề hỏi vì sao scuba activities bị ban: whale sharks affected by the ___ activities produce. Transcript: \"Scuba diving is not going to be allowed anymore, as previous research has found that whale sharks find bubbles disturbing.\" Scuba tạo ra <strong>bubbles</strong>, và bubbles làm whale sharks bị disturb.</p><p>Bẫy: ở câu 37 boat engine noise làm whale shark dive, nhưng lệnh cấm scuba ở câu 40 là vì <strong>bubbles</strong>, không phải noise.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "Scuba diving is not going to be allowed anymore, as previous research has found that whale sharks find bubbles disturbing."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    }
+  }
+}

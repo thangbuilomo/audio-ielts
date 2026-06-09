@@ -1,0 +1,52 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "test_id": "vol_09_t6_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "source_content_ref": "03_listening_content.public.json",
+  "audio_ref": "https://raw.githubusercontent.com/thangbuilomo/audio-ielts/main/vol_09_t6_ls.mp3",
+  "rendering": {
+    "layout_target": "left_pane",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Part 1",
+      "source_section_label": "Section 1",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">It's Janet Quigley. [Q1]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Not one way, I mean, but return. [Q2]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">We'd be leaving at 11.45 in the morning, arriving into Christchurch at 12.30. [Q3]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">And each time I change it back, I've been getting error messages telling me to call you directly. [Q4]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">It's Kiwi Air policy, I'm afraid, to allow a maximum of two children to travel on childfares with just the one adult accompanying them. [Q5]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">But an adult fare is for someone over the age of 12. [Q6]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Besides, they actually eat less than an adult, so they wouldn't consume as much food on the plane. [Q7]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">And what about school groups? [Q8]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Just address it to the manager. [Q9]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">It's GBK8422. [Q10]</span></p>"
+    },
+    {
+      "part_id": "l2",
+      "part_number": 2,
+      "title": "Part 2",
+      "source_section_label": "Section 2",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">Work finally started three years later, and one year ago the complex was finished and received its first residents, and I'm happy to say it's been a great place to live ever since. [Q11]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">You will hear the manager of the Linwood apartment complex introducing the complex to a group of new residents. [Q12]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">My children are only 11, 8 and 5. [Q13]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Finally, for the welcome party in the hall next week, from the car park, go straight on to the end of the arcade, but then don't go too far, take the path up to the left, and it's at the end of that path, just above the trees on your map. [Q14]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Part 1. [Q15, Q16, Q17, Q18, Q19, Q20]</span></p>"
+    },
+    {
+      "part_id": "l3",
+      "part_number": 3,
+      "title": "Part 3",
+      "source_section_label": "Section 3",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">I think the model they called the safety bicycle is more significant. [Q21]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">He said it's a way to connect with people apart from the other benefits. [Q22]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">So what should we stress about changing attitudes to bicycles in the 20th century? [Q23]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">She's got young children and doesn't have much free time, so cycling to work is a way for her to keep fit. [Q24, Q29, Q30]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">The first bike wasn't very successful, was it? [Q25]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Kiwi Air, good morning. [Q26, Q28]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Let me just get that down on the form. [Q27]</span></p>"
+    },
+    {
+      "part_id": "l4",
+      "part_number": 4,
+      "title": "Part 4",
+      "source_section_label": "Section 4",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">Young animals were preferred as their skin was soft, which made it easy to work with. [Q31]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">They were constructed from specially sharpened stone, so have survived remarkably well. [Q32]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">The colours themselves occurred naturally in minerals that were dug up from the ground and processed, usually by mixing with water. [Q33]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Many more guanaco were hunted after the introduction of the horse to the region, which made the Patagon people more mobile. [Q34]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Another important development was that the Spanish themselves liked, were great admirers of the coats and bought them for high prices, so that while in the past guanaco had only been hunted to meet subsistence needs, now the coats were increasingly part of a commercial process, I mean something that could be bought and sold for money. [Q35]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Most important for coat making, the old scrapers used for cleaning the skins were replaced with new ones made from glass, and this was more effective and easier to keep sharp. [Q36]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">We are able to say this with some confidence because very similar designs have been found in examples of art painted on the rock walls of caves that have very ancient origins. [Q37]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">One possibility is that the designs may have represented a way of connecting with ancestors from previous times, and this is certainly an idea that deserves further investigation. [Q38]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Because the natural habitat of the young Guanaco was the rich grasslands of inland areas, it seems unlikely that these were constructed around the coast, but rather in parts of the interior. [Q39]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Finally, we should note that the traditional art of coat making has long since been lost in this region, but Patagon shepherds today do still employ some of the same techniques to make blankets in the winter months, though there is no painting or design work involved. [Q40]</span></p>"
+    }
+  ]
+}

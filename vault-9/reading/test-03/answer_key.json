@@ -1,0 +1,223 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "test_id": "vol_09_t3_rd",
+  "module": "reading",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit"
+  },
+  "scoring": {
+    "raw_score_max": 40,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_groups": {},
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "TRUE"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "NOT GIVEN"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "FALSE"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "NOT GIVEN"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "TRUE"
+      ]
+    },
+    "q6": {
+      "answers": [
+        "FALSE"
+      ]
+    },
+    "q7": {
+      "answers": [
+        "TRUE"
+      ]
+    },
+    "q8": {
+      "answers": [
+        "camouflage"
+      ]
+    },
+    "q9": {
+      "answers": [
+        "hands"
+      ]
+    },
+    "q10": {
+      "answers": [
+        "birth"
+      ]
+    },
+    "q11": {
+      "answers": [
+        "veins"
+      ]
+    },
+    "q12": {
+      "answers": [
+        "heart"
+      ]
+    },
+    "q13": {
+      "answers": [
+        "signals"
+      ]
+    },
+    "q14": {
+      "answers": [
+        "iv"
+      ]
+    },
+    "q15": {
+      "answers": [
+        "viii"
+      ]
+    },
+    "q16": {
+      "answers": [
+        "vi"
+      ]
+    },
+    "q17": {
+      "answers": [
+        "iii"
+      ]
+    },
+    "q18": {
+      "answers": [
+        "i"
+      ]
+    },
+    "q19": {
+      "answers": [
+        "v"
+      ]
+    },
+    "q20": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q21": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q22": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q23": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q24": {
+      "answers": [
+        "sustainability"
+      ]
+    },
+    "q25": {
+      "answers": [
+        "supervision"
+      ]
+    },
+    "q26": {
+      "answers": [
+        "mayor"
+      ]
+    },
+    "q27": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q28": {
+      "answers": [
+        "G"
+      ]
+    },
+    "q29": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q30": {
+      "answers": [
+        "F"
+      ]
+    },
+    "q31": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "I"
+      ]
+    },
+    "q33": {
+      "answers": [
+        "J"
+      ]
+    },
+    "q34": {
+      "answers": [
+        "F"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q36": {
+      "answers": [
+        "NO"
+      ]
+    },
+    "q37": {
+      "answers": [
+        "NOT GIVEN"
+      ]
+    },
+    "q38": {
+      "answers": [
+        "YES"
+      ]
+    },
+    "q39": {
+      "answers": [
+        "NOT GIVEN"
+      ]
+    },
+    "q40": {
+      "answers": [
+        "YES"
+      ]
+    }
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "test_id": "vol_09_t7_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit"
+  },
+  "scoring": {
+    "raw_score_max": 40,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "BD51STR"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "180,000"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "tyres"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "light"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "belt"
+      ]
+    },
+    "q6": {
+      "answers": [
+        "radio"
+      ]
+    },
+    "q7": {
+      "answers": [
+        "front"
+      ]
+    },
+    "q8": {
+      "answers": [
+        "key"
+      ]
+    },
+    "q9": {
+      "answers": [
+        "automatic"
+      ]
+    },
+    "q10": {
+      "answers": [
+        "07847 355780",
+        "07847355780"
+      ]
+    },
+    "q11": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q12": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q13": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q14": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q15": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q16": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q17": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q18": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q19": {
+      "answers": [
+        "H"
+      ]
+    },
+    "q20": {
+      "answers": [
+        "G"
+      ]
+    },
+    "q21": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q22": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q23": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q24": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q25": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q26": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q27": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q28": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q29": {
+      "answers": [
+        "F"
+      ]
+    },
+    "q30": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q31": {
+      "answers": [
+        "industries"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "gift"
+      ]
+    },
+    "q33": {
+      "answers": [
+        "publicity"
+      ]
+    },
+    "q34": {
+      "answers": [
+        "reputation"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "machines"
+      ]
+    },
+    "q36": {
+      "answers": [
+        "toppings"
+      ]
+    },
+    "q37": {
+      "answers": [
+        "mistake"
+      ]
+    },
+    "q38": {
+      "answers": [
+        "contact"
+      ]
+    },
+    "q39": {
+      "answers": [
+        "shape"
+      ]
+    },
+    "q40": {
+      "answers": [
+        "big"
+      ]
+    }
+  }
+}

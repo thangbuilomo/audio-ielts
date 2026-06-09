@@ -1,0 +1,415 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "test_id": "vol_09_t3_rd",
+  "module": "reading",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "guest_fallback_message": "Detailed explanations are available for enrolled Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation_html": "<p><strong>Answer:</strong> TRUE</p><p><strong>Keyword trong c?u h?i:</strong> research, natural environment, increased lately</p><p><strong>Keyword/paraphrase trong b?i:</strong> all that is changing fast; growing number of researchers</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "all that is changing fast; growing number of researchers"
+        }
+      ]
+    },
+    "q2": {
+      "explanation_html": "<p><strong>Answer:</strong> NOT GIVEN</p><p><strong>Keyword trong c?u h?i:</strong> Strauss disapproves, zoos</p><p><strong>Keyword/paraphrase trong b?i:</strong> bài chỉ nói giraffes là favorite in zoos</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "bài chỉ nói giraffes là favorite in zoos"
+        }
+      ]
+    },
+    "q3": {
+      "explanation_html": "<p><strong>Answer:</strong> FALSE</p><p><strong>Keyword trong c?u h?i:</strong> number, nearly doubled</p><p><strong>Keyword/paraphrase trong b?i:</strong> population has fallen some 40 percent</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "population has fallen some 40 percent"
+        }
+      ]
+    },
+    "q4": {
+      "explanation_html": "<p><strong>Answer:</strong> NOT GIVEN</p><p><strong>Keyword trong c?u h?i:</strong> females live longer than males</p><p><strong>Keyword/paraphrase trong b?i:</strong> female giraffes can live 20 years or more; không so sánh với males</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "female giraffes can live 20 years or more; không so sánh với males"
+        }
+      ]
+    },
+    "q5": {
+      "explanation_html": "<p><strong>Answer:</strong> TRUE</p><p><strong>Keyword trong c?u h?i:</strong> use legs to defend young</p><p><strong>Keyword/paraphrase trong b?i:</strong> mothers fight by kicking forward and backward</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "mothers fight by kicking forward and backward"
+        }
+      ]
+    },
+    "q6": {
+      "explanation_html": "<p><strong>Answer:</strong> FALSE</p><p><strong>Keyword trong c?u h?i:</strong> younger bulls, necks higher, powerful males</p><p><strong>Keyword/paraphrase trong b?i:</strong> older bull appears; younger males make themselves look small</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "older bull appears; younger males make themselves look small"
+        }
+      ]
+    },
+    "q7": {
+      "explanation_html": "<p><strong>Answer:</strong> TRUE</p><p><strong>Keyword trong c?u h?i:</strong> male giraffes fighting</p><p><strong>Keyword/paraphrase trong b?i:</strong> clashes witnessed between adults</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "clashes witnessed between adults"
+        }
+      ]
+    },
+    "q8": {
+      "explanation_html": "<p><strong>Answer:</strong> camouflage</p><p><strong>Keyword trong c?u h?i:</strong> skin/coat, standing near trees</p><p><strong>Keyword/paraphrase trong b?i:</strong> dark patches/light hair serve as camouflage</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "dark patches/light hair serve as camouflage"
+        }
+      ]
+    },
+    "q9": {
+      "explanation_html": "<p><strong>Answer:</strong> hands</p><p><strong>Keyword trong c?u h?i:</strong> mouth, get leaves</p><p><strong>Keyword/paraphrase trong b?i:</strong> lips and tongue grasp like humans would grab with hands</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "lips and tongue grasp like humans would grab with hands"
+        }
+      ]
+    },
+    "q10": {
+      "explanation_html": "<p><strong>Answer:</strong> birth</p><p><strong>Keyword trong c?u h?i:</strong> neck develops in childhood, easier for mothers</p><p><strong>Keyword/paraphrase trong b?i:</strong> mothers would have a difficult time giving birth</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "mothers would have a difficult time giving birth"
+        }
+      ]
+    },
+    "q11": {
+      "explanation_html": "<p><strong>Answer:</strong> veins</p><p><strong>Keyword trong c?u h?i:</strong> keep blood from spilling</p><p><strong>Keyword/paraphrase trong b?i:</strong> outside of veins are extremely thick</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "outside of veins are extremely thick"
+        }
+      ]
+    },
+    "q12": {
+      "explanation_html": "<p><strong>Answer:</strong> heart</p><p><strong>Keyword trong c?u h?i:</strong> normal size</p><p><strong>Keyword/paraphrase trong b?i:</strong> does not have an unusually large heart</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "does not have an unusually large heart"
+        }
+      ]
+    },
+    "q13": {
+      "explanation_html": "<p><strong>Answer:</strong> signals</p><p><strong>Keyword trong c?u h?i:</strong> slower reaction time</p><p><strong>Keyword/paraphrase trong b?i:</strong> signals from nerves travel farther to brain</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "signals from nerves travel farther to brain"
+        }
+      ]
+    },
+    "q14": {
+      "explanation_html": "<p><strong>Answer:</strong> iv</p><p><strong>Keyword trong c?u h?i:</strong> low priority, healthy buildings</p><p><strong>Keyword/paraphrase trong b?i:</strong> builders paid little attention to health aspects</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "builders paid little attention to health aspects"
+        }
+      ]
+    },
+    "q15": {
+      "explanation_html": "<p><strong>Answer:</strong> viii</p><p><strong>Keyword trong c?u h?i:</strong> financial benefits</p><p><strong>Keyword/paraphrase trong b?i:</strong> $40 cost vs $6,500 productivity increase</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "$40 cost vs $6,500 productivity increase"
+        }
+      ]
+    },
+    "q16": {
+      "explanation_html": "<p><strong>Answer:</strong> vi</p><p><strong>Keyword trong c?u h?i:</strong> assessed outside usual workplace</p><p><strong>Keyword/paraphrase trong b?i:</strong> workers came to the lab</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "workers came to the lab"
+        }
+      ]
+    },
+    "q17": {
+      "explanation_html": "<p><strong>Answer:</strong> iii</p><p><strong>Keyword trong c?u h?i:</strong> workplaces in several locations</p><p><strong>Keyword/paraphrase trong b?i:</strong> 109 people, 10 buildings, five cities</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "109 people, 10 buildings, five cities"
+        }
+      ]
+    },
+    "q18": {
+      "explanation_html": "<p><strong>Answer:</strong> i</p><p><strong>Keyword trong c?u h?i:</strong> new environmentally friendly building</p><p><strong>Keyword/paraphrase trong b?i:</strong> Hillman Hall, green building design, behavior</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Hillman Hall, green building design, behavior"
+        }
+      ]
+    },
+    "q19": {
+      "explanation_html": "<p><strong>Answer:</strong> v</p><p><strong>Keyword trong c?u h?i:</strong> range of specialists</p><p><strong>Keyword/paraphrase trong b?i:</strong> administrators, public health faculty, architects</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "administrators, public health faculty, architects"
+        }
+      ]
+    },
+    "q20": {
+      "explanation_html": "<p><strong>Answer:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> further investigations, improved wellbeing/efficiency</p><p><strong>Keyword/paraphrase trong b?i:</strong> Craig Zimring: replicated findings could lead to better designs</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Craig Zimring: replicated findings could lead to better designs"
+        }
+      ]
+    },
+    "q21": {
+      "explanation_html": "<p><strong>Answer:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> opinion of workspace, performance</p><p><strong>Keyword/paraphrase trong b?i:</strong> MacNaughton: how someone feels may play a part</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "MacNaughton: how someone feels may play a part"
+        }
+      ]
+    },
+    "q22": {
+      "explanation_html": "<p><strong>Answer:</strong> D</p><p><strong>Keyword trong c?u h?i:</strong> workplace design, collaboration</p><p><strong>Keyword/paraphrase trong b?i:</strong> Eyler: spontaneous collaborations in new space</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Eyler: spontaneous collaborations in new space"
+        }
+      ]
+    },
+    "q23": {
+      "explanation_html": "<p><strong>Answer:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> mental capacity reduced, working environment</p><p><strong>Keyword/paraphrase trong b?i:</strong> Allen&#x27;s indoor air quality studies and cognitive performance</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Allen's indoor air quality studies and cognitive performance"
+        }
+      ]
+    },
+    "q24": {
+      "explanation_html": "<p><strong>Answer:</strong> sustainability</p><p><strong>Keyword trong c?u h?i:</strong> Syracuse Center focuses on</p><p><strong>Keyword/paraphrase trong b?i:</strong> studying and developing sustainability</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "studying and developing sustainability"
+        }
+      ]
+    },
+    "q25": {
+      "explanation_html": "<p><strong>Answer:</strong> supervision</p><p><strong>Keyword trong c?u h?i:</strong> without much</p><p><strong>Keyword/paraphrase trong b?i:</strong> under minimal supervision</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "under minimal supervision"
+        }
+      ]
+    },
+    "q26": {
+      "explanation_html": "<p><strong>Answer:</strong> mayor</p><p><strong>Keyword trong c?u h?i:</strong> role in tasks</p><p><strong>Keyword/paraphrase trong b?i:</strong> running a city as a mayor</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "running a city as a mayor"
+        }
+      ]
+    },
+    "q27": {
+      "explanation_html": "<p><strong>Answer:</strong> D</p><p><strong>Keyword trong c?u h?i:</strong> economic evidence for play</p><p><strong>Keyword/paraphrase trong b?i:</strong> toy industry; commercially manufactured; taxed</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "toy industry; commercially manufactured; taxed"
+        }
+      ]
+    },
+    "q28": {
+      "explanation_html": "<p><strong>Answer:</strong> G</p><p><strong>Keyword trong c?u h?i:</strong> children created own toys</p><p><strong>Keyword/paraphrase trong b?i:</strong> making footballs by filling pigs&#x27; bladders</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "making footballs by filling pigs' bladders"
+        }
+      ]
+    },
+    "q29": {
+      "explanation_html": "<p><strong>Answer:</strong> E</p><p><strong>Keyword trong c?u h?i:</strong> warlike play approved by grown-ups</p><p><strong>Keyword/paraphrase trong b?i:</strong> archery encouraged by adults</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "archery encouraged by adults"
+        }
+      ]
+    },
+    "q30": {
+      "explanation_html": "<p><strong>Answer:</strong> F</p><p><strong>Keyword trong c?u h?i:</strong> political event mirrored</p><p><strong>Keyword/paraphrase trong b?i:</strong> Richard II overthrown; children chose kings and made war</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "Richard II overthrown; children chose kings and made war"
+        }
+      ]
+    },
+    "q31": {
+      "explanation_html": "<p><strong>Answer:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> origin of academic debate</p><p><strong>Keyword/paraphrase trong b?i:</strong> Philippe Aries argued childhood did not exist in modern sense</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "Philippe Aries argued childhood did not exist in modern sense"
+        }
+      ]
+    },
+    "q32": {
+      "explanation_html": "<p><strong>Answer:</strong> I</p><p><strong>Keyword trong c?u h?i:</strong> 1400</p><p><strong>Keyword/paraphrase trong b?i:</strong> children&#x27;s gang warfare</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "children's gang warfare"
+        }
+      ]
+    },
+    "q33": {
+      "explanation_html": "<p><strong>Answer:</strong> J</p><p><strong>Keyword trong c?u h?i:</strong> 1518</p><p><strong>Keyword/paraphrase trong b?i:</strong> seasonal activities recorded by Alexander Barclay</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "seasonal activities recorded by Alexander Barclay"
+        }
+      ]
+    },
+    "q34": {
+      "explanation_html": "<p><strong>Answer:</strong> F</p><p><strong>Keyword trong c?u h?i:</strong> 1582</p><p><strong>Keyword/paraphrase trong b?i:</strong> dolls taxed</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "dolls taxed"
+        }
+      ]
+    },
+    "q35": {
+      "explanation_html": "<p><strong>Answer:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> 1908</p><p><strong>Keyword/paraphrase trong b?i:</strong> poem Vitaï Lampada</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "poem Vitaï Lampada"
+        }
+      ]
+    },
+    "q36": {
+      "explanation_html": "<p><strong>Answer:</strong> NO</p><p><strong>Keyword trong c?u h?i:</strong> little known, adult attitudes</p><p><strong>Keyword/paraphrase trong b?i:</strong> we know what their elders thought</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "we know what their elders thought"
+        }
+      ]
+    },
+    "q37": {
+      "explanation_html": "<p><strong>Answer:</strong> NOT GIVEN</p><p><strong>Keyword trong c?u h?i:</strong> most toys imported before 1300</p><p><strong>Keyword/paraphrase trong b?i:</strong> no &quot;most&quot; information</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "no \"most\" information"
+        }
+      ]
+    },
+    "q38": {
+      "explanation_html": "<p><strong>Answer:</strong> YES</p><p><strong>Keyword trong c?u h?i:</strong> celebrated seasons in own ways</p><p><strong>Keyword/paraphrase trong b?i:</strong> own observances, semi-detached from elders</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "own observances, semi-detached from elders"
+        }
+      ]
+    },
+    "q39": {
+      "explanation_html": "<p><strong>Answer:</strong> NOT GIVEN</p><p><strong>Keyword trong c?u h?i:</strong> presents for parents</p><p><strong>Keyword/paraphrase trong b?i:</strong> no information</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "no information"
+        }
+      ]
+    },
+    "q40": {
+      "explanation_html": "<p><strong>Answer:</strong> YES</p><p><strong>Keyword trong c?u h?i:</strong> parents/children behaved as today</p><p><strong>Keyword/paraphrase trong b?i:</strong> relationship was, in major respects, a modern one</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "relationship was, in major respects, a modern one"
+        }
+      ]
+    }
+  }
+}

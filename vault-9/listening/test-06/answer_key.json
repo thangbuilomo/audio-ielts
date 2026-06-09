@@ -1,0 +1,222 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "test_id": "vol_09_t6_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit"
+  },
+  "scoring": {
+    "raw_score_max": 40,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "Quigley"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "return"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "11.45"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "error"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "two"
+      ]
+    },
+    "q6": {
+      "answers": [
+        "12"
+      ]
+    },
+    "q7": {
+      "answers": [
+        "food"
+      ]
+    },
+    "q8": {
+      "answers": [
+        "school"
+      ]
+    },
+    "q9": {
+      "answers": [
+        "manager"
+      ]
+    },
+    "q10": {
+      "answers": [
+        "GBK8422"
+      ]
+    },
+    "q11": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q12": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q13": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q14": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q15": {
+      "answers": [
+        "F"
+      ]
+    },
+    "q16": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q17": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q18": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q19": {
+      "answers": [
+        "H"
+      ]
+    },
+    "q20": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q21": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q22": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q23": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q24": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q25": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q26": {
+      "answers": [
+        "G"
+      ]
+    },
+    "q27": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q28": {
+      "answers": [
+        "F"
+      ]
+    },
+    "q29": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q30": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q31": {
+      "answers": [
+        "soft"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "stone"
+      ]
+    },
+    "q33": {
+      "answers": [
+        "minerals"
+      ]
+    },
+    "q34": {
+      "answers": [
+        "horse"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "commercial"
+      ]
+    },
+    "q36": {
+      "answers": [
+        "glass"
+      ]
+    },
+    "q37": {
+      "answers": [
+        "caves"
+      ]
+    },
+    "q38": {
+      "answers": [
+        "ancestors"
+      ]
+    },
+    "q39": {
+      "answers": [
+        "coast"
+      ]
+    },
+    "q40": {
+      "answers": [
+        "blankets"
+      ]
+    }
+  }
+}

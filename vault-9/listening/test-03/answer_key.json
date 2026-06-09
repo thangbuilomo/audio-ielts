@@ -1,0 +1,222 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "test_id": "vol_09_t3_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit"
+  },
+  "scoring": {
+    "raw_score_max": 40,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q6": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q7": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q8": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q9": {
+      "answers": [
+        "Cotehele"
+      ]
+    },
+    "q10": {
+      "answers": [
+        "SH121LQ"
+      ]
+    },
+    "q11": {
+      "answers": [
+        "travelling"
+      ]
+    },
+    "q12": {
+      "answers": [
+        "get good shoes"
+      ]
+    },
+    "q13": {
+      "answers": [
+        "wearing formal clothes"
+      ]
+    },
+    "q14": {
+      "answers": [
+        "large office"
+      ]
+    },
+    "q15": {
+      "answers": [
+        "good pay"
+      ]
+    },
+    "q16": {
+      "answers": [
+        "live nearby"
+      ]
+    },
+    "q17": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q18": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q19": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q20": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q21": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q22": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q23": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q24": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q25": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q26": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q27": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q28": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q29": {
+      "answers": [
+        "G"
+      ]
+    },
+    "q30": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q31": {
+      "answers": [
+        "ingredients"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "stored"
+      ]
+    },
+    "q33": {
+      "answers": [
+        "temperature"
+      ]
+    },
+    "q34": {
+      "answers": [
+        "organic"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "image"
+      ]
+    },
+    "q36": {
+      "answers": [
+        "information"
+      ]
+    },
+    "q37": {
+      "answers": [
+        "sales"
+      ]
+    },
+    "q38": {
+      "answers": [
+        "entertainment"
+      ]
+    },
+    "q39": {
+      "answers": [
+        "nutrition"
+      ]
+    },
+    "q40": {
+      "answers": [
+        "parents"
+      ]
+    }
+  }
+}

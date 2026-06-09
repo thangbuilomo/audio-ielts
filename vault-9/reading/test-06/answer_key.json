@@ -1,0 +1,223 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "test_id": "vol_09_t6_rd",
+  "module": "reading",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit"
+  },
+  "scoring": {
+    "raw_score_max": 40,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_groups": {},
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "TRUE"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "FALSE"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "NOT GIVEN"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "TRUE"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "pith"
+      ]
+    },
+    "q6": {
+      "answers": [
+        "terpenes"
+      ]
+    },
+    "q7": {
+      "answers": [
+        "poisons"
+      ]
+    },
+    "q8": {
+      "answers": [
+        "drug"
+      ]
+    },
+    "q9": {
+      "answers": [
+        "unpleasant"
+      ]
+    },
+    "q10": {
+      "answers": [
+        "geophagy"
+      ]
+    },
+    "q11": {
+      "answers": [
+        "salt"
+      ]
+    },
+    "q12": {
+      "answers": [
+        "detoxify"
+      ]
+    },
+    "q13": {
+      "answers": [
+        "tablets"
+      ]
+    },
+    "q14": {
+      "answers": [
+        "vii"
+      ]
+    },
+    "q15": {
+      "answers": [
+        "iv"
+      ]
+    },
+    "q16": {
+      "answers": [
+        "i"
+      ]
+    },
+    "q17": {
+      "answers": [
+        "iii"
+      ]
+    },
+    "q18": {
+      "answers": [
+        "ix"
+      ]
+    },
+    "q19": {
+      "answers": [
+        "v"
+      ]
+    },
+    "q20": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q21": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q22": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q23": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q24": {
+      "answers": [
+        "commuters"
+      ]
+    },
+    "q25": {
+      "answers": [
+        "paintings"
+      ]
+    },
+    "q26": {
+      "answers": [
+        "topics"
+      ]
+    },
+    "q27": {
+      "answers": [
+        "ix"
+      ]
+    },
+    "q28": {
+      "answers": [
+        "vii"
+      ]
+    },
+    "q29": {
+      "answers": [
+        "i"
+      ]
+    },
+    "q30": {
+      "answers": [
+        "vi"
+      ]
+    },
+    "q31": {
+      "answers": [
+        "xi"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "iv"
+      ]
+    },
+    "q33": {
+      "answers": [
+        "x"
+      ]
+    },
+    "q34": {
+      "answers": [
+        "ii"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q36": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q37": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q38": {
+      "answers": [
+        "Taylor"
+      ]
+    },
+    "q39": {
+      "answers": [
+        "Larin"
+      ]
+    },
+    "q40": {
+      "answers": [
+        "colour-coding"
+      ]
+    }
+  }
+}

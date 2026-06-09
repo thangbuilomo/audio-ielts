@@ -1,0 +1,52 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "test_id": "vol_09_t7_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "source_content_ref": "03_listening_content.public.json",
+  "audio_ref": "https://raw.githubusercontent.com/thangbuilomo/audio-ielts/main/vol_09_t7_ls.mp3",
+  "rendering": {
+    "layout_target": "left_pane",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Part 1",
+      "source_section_label": "Section 1",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">BD51STR. [Q1]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Yes, it's 180,000 miles. [Q2]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">I think a couple of the tyres probably need replacing. [Q3]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">When you open the car door, the light ought to come on inside automatically, but it seems to have stopped working. [Q4]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Oh yes, on one of the passenger seats at the back, you can't fasten the belt. [Q5]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Well, one thing that's actually going to need replacing, I think, is the radio. [Q6]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">I know you'll check the brakes in a service, but can you have a particular look at the front ones? [Q7]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">And the other thing is, I only have one key for the car and I really need a spare. [Q8]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Yes, that would be good, but can I have an automatic if possible, please? [Q9]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Right, 07847 355780. [Q10]</span></p>"
+    },
+    {
+      "part_id": "l2",
+      "part_number": 2,
+      "title": "Part 2",
+      "source_section_label": "Section 2",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">I'm the new personal assistant to Penny Williams, the library director. [Q11]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Smith and his co-founders knew it could also be very good publicity, so they needed to consider it carefully. [Q12]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">The double line indicates the rooms in the existing building, and the dotted lines show where the extensions might be. [Q13]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Since opening, the number of books on our shelves and other items has more than doubled, and visitor numbers have increased 20% in the last 10 years. [Q14]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">We've also applied to the Council to approve the addition of another member of staff to work part-time in the afternoons, when mothers and children tend to use the library more often, and this decision will be made in the next few weeks. [Q15]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">You will hear a telephone conversation between an assistant at a car service station and a customer. [Q16, Q17, Q18, Q19, Q20]</span></p>"
+    },
+    {
+      "part_id": "l3",
+      "part_number": 3,
+      "title": "Part 3",
+      "source_section_label": "Section 3",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">He was really prolific in his day but there's never really been a high-profile showing of his paintings. [Q21]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">We're also aware that the lighting is quite poor, but you'll shortly see a big difference because the City Council continued to support us and have authorised the spending in this area. [Q22]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Well, Ruskin admired Prout and he didn't seem to mind the fact that many of his paintings showed more or less the same thing European street scenes or that the people in Prout's pictures can look rather wooden and not very lifelike. [Q23, Q28]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">It's interesting how a lot of artists you can see how their style is developing as their work matures but not so much with Prout. [Q24]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Exactly and there's a lot of blue that basically doesn't appear in any other Prout pictures so it's probably a forgery. [Q25]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Reuben, about an English artist called Samuel Prout. [Q26]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">I think a couple of the tyres probably need replacing. [Q27]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">When you open the car door, the light ought to come on inside automatically, but it seems to have stopped working. [Q29]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">He seemed to have several on the go all at the same time. [Q30]</span></p>"
+    },
+    {
+      "part_id": "l4",
+      "part_number": 4,
+      "title": "Part 4",
+      "source_section_label": "Section 4",
+      "annotated_transcript_html": "<p><span style=\"background:#fff3bf; font-weight:600;\">A man called Eric Smith and two of his colleagues were struck by the mass customisation movement that was spreading through a large number of industries in the US. [Q31]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">They wanted to give these as a gift in their high-end stores in New York City, Miami and Los Angeles during the holiday shopping season. [Q32]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Smith and his co-founders knew it could also be very good publicity, so they needed to consider it carefully. [Q33]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Also, if they accepted it and then it turned out they couldn't do it, what about the financial fallout as well as the possible damage to the company's reputation? [Q34]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">As well as this, another thing they had to think about was how they were actually going to produce all these chocolate bars as the number of machines they had was limited. [Q35]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Smith spent two days searching for a suitable subcontractor, but he couldn't find anyone who had experience of making bars with the type of melted toppings that Chocozine used. [Q36]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Many of the students thought that doing the deal with a luxury retailer would be a mistake. [Q37]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">This student had worked as a buyer at a major chocolate retailer, and he said he had a contact in the business who might be interested in doing the job. [Q38]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">He said he was interested in doing the order, but he found there were difficult technical issues to be worked out, including how to faithfully reproduce the distinctive shape of the Chocozine bars. [Q39]</span></p><p><span style=\"background:#fff3bf; font-weight:600;\">Then, it's not a big problem, but it's a bit annoying. [Q40]</span></p>"
+    }
+  ]
+}

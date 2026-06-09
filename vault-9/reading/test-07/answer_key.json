@@ -1,0 +1,223 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "test_id": "vol_09_t7_rd",
+  "module": "reading",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit"
+  },
+  "scoring": {
+    "raw_score_max": 40,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_groups": {},
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "TRUE"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "FALSE"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "TRUE"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "NOT GIVEN"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "TRUE"
+      ]
+    },
+    "q6": {
+      "answers": [
+        "typhoons"
+      ]
+    },
+    "q7": {
+      "answers": [
+        "laver"
+      ]
+    },
+    "q8": {
+      "answers": [
+        "kelp"
+      ]
+    },
+    "q9": {
+      "answers": [
+        "fishermen"
+      ]
+    },
+    "q10": {
+      "answers": [
+        "chemicals"
+      ]
+    },
+    "q11": {
+      "answers": [
+        "markets"
+      ]
+    },
+    "q12": {
+      "answers": [
+        "jobs"
+      ]
+    },
+    "q13": {
+      "answers": [
+        "vehicles"
+      ]
+    },
+    "q14": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q15": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q16": {
+      "answers": [
+        "G"
+      ]
+    },
+    "q17": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q18": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q19": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q20": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q21": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q22": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q23": {
+      "answers": [
+        "Gaulish"
+      ]
+    },
+    "q24": {
+      "answers": [
+        "Latin"
+      ]
+    },
+    "q25": {
+      "answers": [
+        "British"
+      ]
+    },
+    "q26": {
+      "answers": [
+        "irregular"
+      ]
+    },
+    "q27": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q28": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q29": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q30": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q31": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q33": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q34": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q36": {
+      "answers": [
+        "NO"
+      ]
+    },
+    "q37": {
+      "answers": [
+        "YES"
+      ]
+    },
+    "q38": {
+      "answers": [
+        "YES"
+      ]
+    },
+    "q39": {
+      "answers": [
+        "NOT GIVEN"
+      ]
+    },
+    "q40": {
+      "answers": [
+        "NO"
+      ]
+    }
+  }
+}

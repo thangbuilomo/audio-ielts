@@ -1,0 +1,233 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "test_id": "vol_09_t5_rd",
+  "module": "reading",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit"
+  },
+  "scoring": {
+    "raw_score_max": 40,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_groups": {
+    "rd_q25_26": {
+      "question_ids": [
+        "q25",
+        "q26"
+      ],
+      "answers": [
+        "C",
+        "D"
+      ],
+      "order_matters": false,
+      "allow_duplicate": false,
+      "score_each_question": true
+    }
+  },
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "FALSE"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "TRUE"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "NOT GIVEN"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "FALSE"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "FALSE"
+      ]
+    },
+    "q6": {
+      "answers": [
+        "TRUE"
+      ]
+    },
+    "q7": {
+      "answers": [
+        "surfaces"
+      ]
+    },
+    "q8": {
+      "answers": [
+        "net"
+      ]
+    },
+    "q9": {
+      "answers": [
+        "rubber"
+      ]
+    },
+    "q10": {
+      "answers": [
+        "rules"
+      ]
+    },
+    "q11": {
+      "answers": [
+        "equipment"
+      ]
+    },
+    "q12": {
+      "answers": [
+        "shape"
+      ]
+    },
+    "q13": {
+      "answers": [
+        "tournament"
+      ]
+    },
+    "q14": {
+      "answers": [
+        "v"
+      ]
+    },
+    "q15": {
+      "answers": [
+        "iii"
+      ]
+    },
+    "q16": {
+      "answers": [
+        "ix"
+      ]
+    },
+    "q17": {
+      "answers": [
+        "iv"
+      ]
+    },
+    "q18": {
+      "answers": [
+        "i"
+      ]
+    },
+    "q19": {
+      "answers": [
+        "viii"
+      ]
+    },
+    "q20": {
+      "answers": [
+        "vii"
+      ]
+    },
+    "q21": {
+      "answers": [
+        "philosophy"
+      ]
+    },
+    "q22": {
+      "answers": [
+        "science"
+      ]
+    },
+    "q23": {
+      "answers": [
+        "illness"
+      ]
+    },
+    "q24": {
+      "answers": [
+        "students"
+      ]
+    },
+    "q25": {
+      "answer_group_id": "rd_q25_26"
+    },
+    "q26": {
+      "answer_group_id": "rd_q25_26"
+    },
+    "q27": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q28": {
+      "answers": [
+        "H"
+      ]
+    },
+    "q29": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q30": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q31": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "letters and numbers"
+      ]
+    },
+    "q33": {
+      "answers": [
+        "glass tubes"
+      ]
+    },
+    "q34": {
+      "answers": [
+        "some 800 km"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "frictional electricity"
+      ]
+    },
+    "q36": {
+      "answers": [
+        "G"
+      ]
+    },
+    "q37": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q38": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q39": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q40": {
+      "answers": [
+        "F"
+      ]
+    }
+  }
+}

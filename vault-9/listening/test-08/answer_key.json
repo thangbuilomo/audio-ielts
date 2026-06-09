@@ -1,0 +1,226 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "test_id": "vol_09_t8_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit"
+  },
+  "scoring": {
+    "raw_score_max": 40,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "Ridyard"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "Station Road"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "25th February",
+        "25 February",
+        "February 25th",
+        "February 25"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "lower"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "three days",
+        "3 days"
+      ]
+    },
+    "q6": {
+      "answers": [
+        "afternoon"
+      ]
+    },
+    "q7": {
+      "answers": [
+        "box"
+      ]
+    },
+    "q8": {
+      "answers": [
+        "painkillers"
+      ]
+    },
+    "q9": {
+      "answers": [
+        "ice"
+      ]
+    },
+    "q10": {
+      "answers": [
+        "exercise"
+      ]
+    },
+    "q11": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q12": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q13": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q14": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q15": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q16": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q17": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q18": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q19": {
+      "answers": [
+        "F"
+      ]
+    },
+    "q20": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q21": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q22": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q23": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q24": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q25": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q26": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q27": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q28": {
+      "answers": [
+        "F"
+      ]
+    },
+    "q29": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q30": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q31": {
+      "answers": [
+        "deserts"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "seasonal"
+      ]
+    },
+    "q33": {
+      "answers": [
+        "olive oil"
+      ]
+    },
+    "q34": {
+      "answers": [
+        "camels"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "square"
+      ]
+    },
+    "q36": {
+      "answers": [
+        "grass"
+      ]
+    },
+    "q37": {
+      "answers": [
+        "slaves"
+      ]
+    },
+    "q38": {
+      "answers": [
+        "dark blue"
+      ]
+    },
+    "q39": {
+      "answers": [
+        "herds"
+      ]
+    },
+    "q40": {
+      "answers": [
+        "guides"
+      ]
+    }
+  }
+}

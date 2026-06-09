@@ -1,0 +1,223 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "test_id": "vol_09_t4_rd",
+  "module": "reading",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit"
+  },
+  "scoring": {
+    "raw_score_max": 40,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_groups": {},
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "need"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "ashes"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "cassava"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "ridges"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "houses"
+      ]
+    },
+    "q6": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q7": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q8": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q9": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q10": {
+      "answers": [
+        "TRUE"
+      ]
+    },
+    "q11": {
+      "answers": [
+        "NOT GIVEN"
+      ]
+    },
+    "q12": {
+      "answers": [
+        "FALSE"
+      ]
+    },
+    "q13": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q14": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q15": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q16": {
+      "answers": [
+        "F"
+      ]
+    },
+    "q17": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q18": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q19": {
+      "answers": [
+        "F"
+      ]
+    },
+    "q20": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q21": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q22": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q23": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q24": {
+      "answers": [
+        "accents"
+      ]
+    },
+    "q25": {
+      "answers": [
+        "brainwaves"
+      ]
+    },
+    "q26": {
+      "answers": [
+        "signal"
+      ]
+    },
+    "q27": {
+      "answers": [
+        "NO"
+      ]
+    },
+    "q28": {
+      "answers": [
+        "NOT GIVEN"
+      ]
+    },
+    "q29": {
+      "answers": [
+        "NOT GIVEN"
+      ]
+    },
+    "q30": {
+      "answers": [
+        "NO"
+      ]
+    },
+    "q31": {
+      "answers": [
+        "YES"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "NOT GIVEN"
+      ]
+    },
+    "q33": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q34": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q36": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q37": {
+      "answers": [
+        "F"
+      ]
+    },
+    "q38": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q39": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q40": {
+      "answers": [
+        "D"
+      ]
+    }
+  }
+}
